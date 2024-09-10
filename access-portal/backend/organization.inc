@@ -139,30 +139,36 @@ while ($row = $result->fetch_assoc()) { ?>
   <?php } ?>
 
 <?php } ?>
-  <?php if ($hosted_orgs) { ?>
+<?php if ($hosted_orgs) { ?>
     <tr>
       <td>Hosted organizations</td>
       <td><?= implode(array_map("link_organization", $hosted_orgs)) ?></td>
     </tr>
-  <?php } ?>
-  <?php if ($dlw = dlw_links_list($mysqli, $organization, $subdomain)) { ?>
-    <tr>
-      <td>Donations List Website (data still preliminary)</td>
-      <td><?= implode(", ", $dlw) ?></td>
-    </tr>
-  <?php } ?>
+<?php } ?>
 
-  <?php
-  if ($stmt = $mysqli->prepare("select * from agendas where associated_organizations REGEXP ?")) {
-    $stmt->bind_param("s", $organization);
-    $stmt->execute();
-    $result = $stmt->get_result();
-  }
-  $agendas = array();
-  while ($row = $result->fetch_assoc()) {
-    $agendas[] = $row['name'];
-  }
+<?php
+// Donations List Website section (commented out)
+/*
+if ($dlw = dlw_links_list($mysqli, $organization, $subdomain)) {
   ?>
+  <tr>
+    <td>Donations List Website (data still preliminary)</td>
+    <td><?= implode(", ", $dlw) ?></td>
+  </tr>
+  <?php
+}
+*/
+
+if ($stmt = $mysqli->prepare("select * from agendas where associated_organizations REGEXP ?")) {
+  $stmt->bind_param("s", $organization);
+  $stmt->execute();
+  $result = $stmt->get_result();
+}
+$agendas = array();
+while ($row = $result->fetch_assoc()) {
+  $agendas[] = $row['name'];
+}
+?>
   <?php if ($agendas) { ?>
     <tr>
       <td>Agendas</td>
