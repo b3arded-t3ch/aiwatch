@@ -77,4 +77,56 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'AI safety', /* cause_area */
         'Paul Christiano posts on LessWrong a hiring note asking for engineers and researchers to work on GPT-3 alignment problems, as the language model is already being deployed in the OpenAI API' /* notes */
    )
-;
+,(
+	'https://x.com/janleike/status/1352681093007200256', /* url */
+	'Last week I joined OpenAI to lead their alignment effort.', /* title */
+	'2021-01-22', /* publication_date */
+	NULL, /* modified_date */
+	'Jan Leike', /* author */
+	'Twitter', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Jan Leike', /* affected_people */
+	'Hiring-related notice', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In a tweet, Jan Leike announces joining OpenAI to lead the alignment effort' /* notes */
+)
+,(
+	'https://openai.com/index/discovering-the-minutiae-of-backend-systems/', /* url */
+	'Discovering the minutiae of backend systems', /* title */
+	'2022-08-22', /* publication_date */
+	NULL, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Christian Gibson', /* affected_people */
+	'General discussion of organizational practices', /* document_scope */
+	'AI', /* cause_area */
+	'This article contains an interview interview with Christian Gibson, an engineer on the supercomputing team of OpenAI, discussing how he got into programming as well as his work at OpenAI. In the interview, he discusses that his work focuses on solving problems that relate to Exploratory AI workflows by preempting research needs before they block progress and identifying bottlenecks as well as implementing workarounds as quickly as possible.' /* notes */
+)
+,(
+	'https://www.scmp.com/news/world/united-states-canada/article/3227494/elon-musk-launches-xai-rival-openai-and-google', /* url */
+	'Elon Musk launches xAI to rival OpenAI and Google', /* title */
+	'2023-07-13', /* publication_date */
+	NULL, /* modified_date */
+	'Agence France-Presse', /* author */
+	'myNEWS', /* publisher */
+	'OpenAI, xAI', /* affected_organizations */
+	'Elon Musk', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI', /* cause_area */
+	'This article reels with negative comments about OpenAI. According to the author, Elon Musk, who has just launched his own AI company, claims that OpenAI is politically biased, unnecessarily profit driven and irresponsible.' /* notes */
+)
+,(
+	'https://www.cnbc.com/2023/04/19/atlassian-taps-openai-for-atlassian-intelligence-generative-ai-launch.html',  /* url */
+	'Atlassian taps OpenAI to make its collaboration software smarter', /* title */
+	'2023-04-19', /* publication_date */
+	NULL, /* modified_date */
+	'Jordan Novet', /* author */
+	'CNBC', /* publisher */
+	'OpenAI, Atlassian', /* affected_organizations */
+	'Scott Farquhar', /* affected_people */
+	'Organizational growth introspection',  /* document_scope */
+	'AI', /* cause_area */
+	'According to Jordan, in an interview with CNBC, Scott Farquhar said Atlassian will partner with OpenAI to integrate OpenAI\'s GPT-4 into Atlassian\'s products. In the article, Scott explains will help Atlassian\'s Jira Service Management process employees\' tech support inquiries in Slack. However, he explained that OpenAI won\'t be training its models on Atlassian\'s customer data'  /* notes */
+);
+
