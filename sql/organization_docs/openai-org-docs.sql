@@ -86,9 +86,9 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Twitter', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Jan Leike', /* affected_people */
-	'Hiring-related notice', /* document_scope */
+	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
-	'In a tweet, Jan Leike announces joining OpenAI to lead the alignment effort' /* notes */
+	'In a tweet, Jan Leike announces joining OpenAI to lead the alignment effort. Jan Leike, a prominent AI alignment researcher, announced joining OpenAI to lead their alignment effort. He expressed excitement about OpenAI''s work on reward modeling and aligning GPT-3 using human preferences. Leike''s hiring indicates OpenAI''s commitment to AI alignment research at that time. However, in a 2024 tweet, Leike revealed he joined OpenAI as he had thought it would be a better place to do research. But, due to long-standing disagreements with leadership about core priorities, he left OpenAI. This trajectory suggests potential shifts in OpenAI''s organizational focus or approach to alignment research over time, and highlights potential tensions between researchers'' goals and company priorities.' /* notes */
 )
 ,(
 	'https://openai.com/index/discovering-the-minutiae-of-backend-systems/', /* url */
@@ -99,34 +99,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'OpenAI', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Christian Gibson', /* affected_people */
-	'General discussion of organizational practices', /* document_scope */
+	'Job experience', /* document_scope */
 	'AI', /* cause_area */
-	'This article contains an interview interview with Christian Gibson, an engineer on the supercomputing team of OpenAI, discussing how he got into programming as well as his work at OpenAI. In the interview, he discusses that his work focuses on solving problems that relate to Exploratory AI workflows by preempting research needs before they block progress and identifying bottlenecks as well as implementing workarounds as quickly as possible.' /* notes */
-)
-,(
-	'https://www.scmp.com/news/world/united-states-canada/article/3227494/elon-musk-launches-xai-rival-openai-and-google', /* url */
-	'Elon Musk launches xAI to rival OpenAI and Google', /* title */
-	'2023-07-13', /* publication_date */
-	NULL, /* modified_date */
-	'Agence France-Presse', /* author */
-	'myNEWS', /* publisher */
-	'OpenAI, xAI', /* affected_organizations */
-	'Elon Musk', /* affected_people */
-	'Third-party commentary on organization', /* document_scope */
-	'AI', /* cause_area */
-	'This article reels with negative comments about OpenAI. According to the author, Elon Musk, who has just launched his own AI company, claims that OpenAI is politically biased, unnecessarily profit driven and irresponsible.' /* notes */
-)
-,(
-	'https://www.cnbc.com/2023/04/19/atlassian-taps-openai-for-atlassian-intelligence-generative-ai-launch.html',  /* url */
-	'Atlassian taps OpenAI to make its collaboration software smarter', /* title */
-	'2023-04-19', /* publication_date */
-	NULL, /* modified_date */
-	'Jordan Novet', /* author */
-	'CNBC', /* publisher */
-	'OpenAI, Atlassian', /* affected_organizations */
-	'Scott Farquhar', /* affected_people */
-	'Organizational growth introspection',  /* document_scope */
-	'AI', /* cause_area */
-	'According to Jordan, in an interview with CNBC, Scott Farquhar said Atlassian will partner with OpenAI to integrate OpenAI\'s GPT-4 into Atlassian\'s products. In the article, Scott explains will help Atlassian\'s Jira Service Management process employees\' tech support inquiries in Slack. However, he explained that OpenAI won\'t be training its models on Atlassian\'s customer data'  /* notes */
+	'This article contains an interview with Christian Gibson, an engineer on the supercomputing team of OpenAI, discussing how he got into programming as well as his work at OpenAI. In the interview, he discusses that his work focuses on solving problems that relate to Exploratory AI workflows by preempting research needs before they block progress and identifying bottlenecks as well as implementing workarounds as quickly as possible. Gibson''s account of working on supercomputing at OpenAI provides valuable insights into the organization''s operations and culture. According to Gibson, OpenAI operates at an unprecedented scale, utilizing billion-dollar supercomputers and encountering technical challenges that push the boundaries of existing hardware capabilities. He mentions that the employees actively work to save days of compute time by relentlessly focusing on performance optimization to enable them match the cutting-edge technology. The work environment is characterized by a mix of coding, problem-solving, and collaboration, with employees having a clear understanding of how their work impacts specific teams and projects. According to him, employees also have the opportunity to tackle unique technical challenges in high-performance computing which significantly contributes to employee motivation.' /* notes */
 );
 
