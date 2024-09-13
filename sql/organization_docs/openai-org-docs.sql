@@ -128,6 +128,53 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author of this article claims that OpenAI manages to influence the E.U.''s AI Act. He argues that although Sam Altman has been the major preacher for global AI regulation, he lobbies, behind the scenes, for significant elements of the legislation to be in the favour of OpenAI. According to him, "OpenAI’s lobbying effort appears to have been a success: the final draft of the Act approved by E.U. lawmakers did not contain wording present in earlier drafts suggesting that general purpose AI systems should be considered inherently high risk". Meanwhile, the author claims that "in 2022, OpenAI repeatedly argued to European officials that the forthcoming AI Act should not consider its general purpose AI systems—including GPT-3, the precursor to ChatGPT, and the image generator Dall-E 2—to be high risk,"' /* notes */
+)
+,(
+	'https://openai.com/index/openai-announces-leadership-transition/', /* url */
+        'OpenAI announces leadership transition', /* title */
+        '2023-11-17', /* publication_date */
+        NULL, /* modified_date */
+        'OpenAI', /* author */
+        'OpenAI', /* publisher */
+        'OpenAI', /* affected_organizations */
+        'Sam Altman', /* affected_people */
+        'Employee departure', /* document_scope */
+        'AI Safety', /* cause_area */
+        'This article highlights the decision of the the board of directors of OpenAI to let relieve Sam Altman of his position as the CEO of the organization. According to them, his dismissal hinges on gaps in communications with the board which hinder its ability to exercise its responsibilities. However, a tweet(link) mentions that Sam''s dismissal was sequel to some internal disagreements about safe development of AI.' /* notes */
+)
+,(                                                                                                                      'https://www.lesswrong.com/posts/eHFo7nwLYDzpuamRM/sam-altman-fired-from-openai#SYhfi45LhtX75Tr9v', /* url */
+        'Hmmm. The way Sam behaves I can''t see a path of him leading an AI company towards safety', /* title */
+        '2023-11-18', /* publication_date */
+        NULL, /* modified_date */
+        'MiguelDev', /* author */
+        'LessWrong',  /* publisher */
+        'OpenAI', /* affected_organizations */
+        'Sam Altman', /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI Safety', /* cause_area */                                                                                   'MiguelDev, in a comment, describes what a typical CEO of OpenAI should be like. He says, "A CEO I wish OpenAI has - is someone who stays at the offices, ensuring that we are on track of safely steering arguably the most revolutionary tech ever created - not trying to promote the company or the tech, I think it''s unnecessary to do a world tour if one is doing AI development and deployment safely."' /* notes */
+)
+,(                                                                                                                      'https://www.lesswrong.com/posts/gZkYvA6suQJthvj4E/my-may-2023-priorities-for-ai-x-safety-more-empathy-more4', /* url */                                                                                                        'My May 2023 priorities for AI x-safety: more empathy, more unification of concerns, and less vilification of OpenAI', /* title */
+        '2023-05-24', /* publication_date */                                                                            NULL, /* modified_date */                                                                                       'Andrew_Critch', /* author */                                                                                   'LessWrong', /* publisher */
+        'OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI|AI Safety', /* cause_area */
+		'In this post, Andrew_Critch expresses his general perspective about OpenAI. He mentions reasons for his positive views of OpenAI like transparency, charter effectiveness, public engagement, etc. He thus calls for balanced critique of the organization saying that harsh criticism of OpenAI might be counterproductive for overall AI safety.' /* notes */
+)
+,(                                                                                                                      'https://www.lesswrong.com/posts/jfYnq8pKLpKLwaRGN/transcript-yudkowsky-on-bankless-follow-up-q-and-a', /* url */
+        'Transcript: Yudkowsky on Bankless follow-up Q&A', /* title */
+        '2023-02-28', /* publication_date */                                                                            NULL, /* modified_date */                                                                                       NULL, /* author */
+        'LessWrong', /* publisher */
+        'OpenAI', /* affected_organizations */
+        'Eliezer', /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI Safety', /* cause_area */
+        'In an interview, Eliezer Yudkowsky expresses a critical view of OpenAI saying that OpenAI''s efforts in AI safety is insufficient and ineffective. He argues that their actions are setting bad examples and intensifying competition in AI development, which he sees as dangerous. If given control, Yudkowsky says he would dramatically change OpenAI''s approach. He would rename it to "ClosedAI," cut ties with Microsoft, stop generating hype, and focus on developing more alignable AI systems rather than just more powerful ones.' /* notes */
+)
+,(                                                                                                                      'https://www.lesswrong.com/posts/3S4nyoNEEuvNsbXt8/common-misconceptions-about-openai', /* url */               'Common misconceptions about OpenAI', /* title */                                                               '2022-08-25', /* publication_date */
+        NULL, /* modified_date */                                                                                       'Jacob_Hilton', /* author */                                                                                    'LessWrong', /* publisher */                                                                                    'OpenAI', /* affected_organizations */
+        NULL, /* affected_people */
+        'Third-party commentary on organization', /* document_scope */
+        'AI Safety', /* cause_area */
+        'This post contains the author''s list of common misconceptions about OpenAI. He lists and explains some accurate impressions, common misconceptions and his personal views about OpenAI.' /* notes */
 );
-
-
