@@ -201,4 +201,70 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Third-party commentary on organization', /* document_scope */
         'AI Safety', /* cause_area */
         'This post contains the author''s list of common misconceptions about OpenAI. He lists and explains some accurate impressions, common misconceptions and his personal views about OpenAI.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/cy99dCEiLyxDrMHBi/what-s-going-on-with-openai-s-messaging', /* url */
+	'What''s Going on With OpenAI''s Messaging?', /* title */
+	'2024-05-21', /* publication_date */
+	NULL, /* modified_date */
+	'ozziegooen', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization ', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this post, the author expresses his criticism against OpenAI operations saying that its actions are not different from those of traditional high-growth tech startups. These criticism as he explains hinge on contradictory messaging, safety concerns, incoherent promises amongst others.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/Nqn2tkAHbejXTDKuW/openai-makes-humanity-less-safe', /* url */
+	'OpenAI makes humanity less safe',  /* title */
+	'2017-04-03', /* publication_date */
+	NULL, /* modified_date */
+	'Benquo', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to Benquo, OpenAI is the result of the efforts of some "good people" to address AI safety. However, Benquo expresses confusion as to how well-intentioned efforts to address AI safety have resulted in an organization that may be exacerbating the very problems it aims to solve. He argues that despite the good intentions behind it, OpenAI may be increasing the risks associated with superintelligent.' /* notes */
+)
+,(
+	'https://www.bloomberg.com/news/articles/2024-05-28/ex-openai-director-says-board-
+	learned-of-chatgpt-launch-on-twitter', /* url */
+	'Ex-OpenAI Director Says Board Learned of ChatGPT Launch on Twitter', /* title */
+	'2024-05-28', /* publication_date */
+	NULL, /* modified_date */
+	'Shirin Ghaffary', /* author */
+	'Bloomberg', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Helen Toner, a former OpenAI board member, reveals a "did-you-know" in a podcast called The TED AI Show saying that "When ChatGPT came out in November 2022, the board was not informed in advance about that, we learned about ChatGPT on Twitter."' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/dd66GymgbLQMHGLwQ/openai-helen-toner-speaks', /* url */
+	'OpenAI: Helen Toner Speaks', /* title */
+	'2024-05-30', /* publication_date */
+	NULL, /* modified_date */
+	'Zvi', /* author */
+	'LessWrong',  /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety|AI', /* cause_area */
+	'This post contains the author''s notes on the podcast of Helen Toner with TED AI. It contains an account of governance challenges faced by OpenAI under the leadership of Sam Altman. It suggests that under Sam Altman''s leadership, OpenAI struggled with transparency and accountability issues, including alleged instances of withholding information and misrepresentation to the board. He expresses concerns that even well-intentioned organizations can be negatively influenced due to misaligned incentives and governance failures which can make them compromise their original goals of ensuring AI safety and benefiting humanity.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/q3zs7E7rktHsESXaF/openai-8-the-right-to-warn', /* url */
+	'OpenAI #8: The Right to Warn', /* title */
+	'2024-06-17', /* publication_date */
+	NULL, /* modified_date */
+	'Zvy',  /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Leopold Aschenbrenner', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Zvy reveals the details surrounding Leopold''s firing. According to him, Leopold''s refusal to sign a letter demanding the board''s resignation, writing a memo about OpenAI''s cybersecurity issues and sharing it with the board as well as retaliation for whistleblowing and not showing sufficient loyalty to Sam Altman.'  /* notes */
 );
