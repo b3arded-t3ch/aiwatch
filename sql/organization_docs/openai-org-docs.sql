@@ -267,4 +267,71 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Zvy reveals the details surrounding Leopold''s firing. According to him, Leopold''s refusal to sign a letter demanding the board''s resignation, writing a memo about OpenAI''s cybersecurity issues and sharing it with the board as well as retaliation for whistleblowing and not showing sufficient loyalty to Sam Altman.'  /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/sXhBCDLJPEjadwHBM/boycott-openai', /* url */
+	'Boycott OpenAI', /* title */
+	'2024-06-18', /* publication_date */
+	NULL, /* modified_date */
+	'PeterMcCluskey', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization ', /* document_scope */
+	'AI Safety|AI', /* cause_area */
+	'This post reflects lack of trust in ethics and transparency in the works of OpenAI. For these reasons, the author discusses his decision to boycott OpenAI.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/YwhgHwjaBDmjgswqZ/openai-fallout', /* url */
+	'OpenAI: Fallout',  /* title */
+	'2024-05-28', /* publication_date */
+	NULL, /* modified_date */
+	'Zvi', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Kelsey Piper|Daniel Kokotajlo', /* affected_people */
+	'HR Controversy', /* document_scope */
+	'AI Safety', /* cause_area */
+	'This post reveals controversies on how OpenAI treats her current and former employees particularly as it relates to off-boarding agreements and equity disputes. The author exposes OpenAI''s threat to confiscate vested equity from any departing member except such a member signs a non-disparagement agreements. According to the author, this issue was not known until Daniel Kokotajlo refused to sign which led to reporting by Kelsey Piper.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/2z5vrsu7BoiWckLby/an-openai-board-seat-is-surprisingly-expensive',  /* url */
+	'An OpenAI board seat is surprisingly expensive', /* title */
+	'2017-04-19', /* publication_date */
+	NULL, /* modified_date */
+	'Benquo', /* author */
+	'LessWrong',  /* publisher */
+	'OpenAI|Open Philanthropy', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the author, a $30 million donation for a board seat in OpenAI is "surprisingly expensive" for OpenPhil. The author insinuates that this deal is more about status, positioning and social signaling in the AI safetfy space; he thinks the amount of the donation was strategically chosen to undermine other AI safetfy organizations that are supported by OpenPhil.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/yRWv5kkDD4YhzwRLq/non-disparagement-canaries-for-openai', /* url */
+	'Non-Disparagement Canaries for OpenAI', /* title */
+	'2024-05-30', /* publication_date */
+	NULL, /* modified_date */
+	'aysja|Adam Scholl', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Organization operations', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the authors of this post, OpenAI has a practice of non-disparagement agreements for departing employees. While recognizing AI Watch for making the data available, they estimate that over 500 former employees of OpenAI may have signed these agreements where only just 5 publicly reported to have been released and 7 people who have publicly reported not being subject to the term so far. Also, they hold that these agreements allow OpenAI to systematically silence criticism from its former employees.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/JSWF2ZLt6YahyAauE/ilya-sutskever-and-jan-leike-resign-from-openai-updated#M62wLnAKb3FdFdoF5', /* url */
+	'Ilya Sutskever and Jan Leike resign from OpenAI', /* title */
+	'2024-05-15', /* publication_date */
+	NULL, /* modified_date */
+	'Zach Stein-Perlman', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Ilya Sutskever|Jan Leike|Jakub Pachocki', /* affected_people */
+	'Employee Departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'This post discusses the resignation of two key figures at OpenAI, Ilya Sutskever and Jan Leike, stating the events that surround their departures. However, in a comment, Thane Ruthenis expresses pleasure at the resignations at OpenAI saying that it is a clear indication of safety-washing and virtue signaling by the organization and that the resignations signal that OpenAI doesn''t deeply care about AI safety.' /* notes */
 );
+
+
