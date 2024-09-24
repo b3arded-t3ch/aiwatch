@@ -332,6 +332,56 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Employee Departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'This post discusses the resignation of two key figures at OpenAI, Ilya Sutskever and Jan Leike, stating the events that surround their departures. However, in a comment https://www.lesswrong.com/posts/JSWF2ZLt6YahyAauE/ilya-sutskever-and-jan-leike-resign-from-openai-updated?commentId=M62wLnAKb3FdFdoF5, Thane Ruthenis expresses pleasure at the resignations at OpenAI saying that it is a clear indication of safety-washing and virtue signaling by the organization and that the resignations signal that OpenAI doesn''t deeply care about AI safety.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/N8aRDYLuakmLezeJy/do-not-mess-with-scarlett-johansson', /* url */
+	'Do Not Mess With Scarlett Johansson', /* title */
+	'2024-05-22',  /* publication_date */
+	NULL, /* modified_date */
+	'Zvi', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Scarlett Johansson|Sam Altman', /* affected_people */
+	'Third-party commentary on organization ', /* document_scope */
+	'AI Safety|AI', /* cause_area */
+	'After Johansson had declined OpenAI''s proposal for her to be the voice of the AI, the author claims that OpenAI proceeded with a voice quite similar to her own. This, thus, raises concerns about transparency, consent and trustworthiness of OpenAI and AI companies in general. In furtherance, the author examines whether Johansson has a case or not saying that if she has no case, it could signal no protections against voice imitation which can be dangerous for public figures.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/vgCoy4bBrDw9LPrpW/what-do-we-know-about-the-ai-knowledge-and-views-especially',  /* url */
+	'What do we know about the AI knowledge and views, especially about existential risk, of the new OpenAI board members?', /* title */
+	'2024-03-11',  /* publication_date */
+	NULL, /* modified_date */
+	'Zvi', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Dr. Sue Desmond-Hellmann|Nicole Seligman|Fidji Simo|',  /* affected_people */
+	'General discussion of organizational practices', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Sequel to the announcement https://openai.com/blog/openai-announces-new-members-to-board-of-directors of new board members to oversee activities at OpenAI, the author seeks information as per "their views or knowledge on any AI-related subjects". He says, no matter how little, there should be a piece of information on this.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/ANStTHjj6it8ysaRJ/why-did-openai-employees-sign', /* url */
+	'why did OpenAI employees sign', /* title */
+	'2023-11-27', /* publication_date */
+	NULL, /* modified_date */
+	'bhauth', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'General discussion of organizational practices', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'The author offers suggestions on what might be the reasons for the employees'' behaviour that made them to sign an open letter https://www.nytimes.com/interactive/2023/11/20/technology/letter-to-the-open-ai-board.html which demands the reinstatement of Sam Altman as the company''s CEO.' /* notes */
+)
+,(
+	'https://www.theinformation.com/articles/trio-of-leaders-leave-openai', /* url */
+	'Trio of OpenAI Leaders Depart, Take Leave of Absence', /* title */
+	'2024-08-05', /* publication_date */
+	NULL, /* modified_date */
+	'Stephanie Palazzolo|Jon Victor|Amir Efrati', /* author */
+	'The Information', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Greg Brockman|John Schulman|Peter Deng', /* affected_people */
+	'Employee Departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The post explains that there are some shake-ups within OpenAI. Although the authors provides no reason for the departure of some of the members of OpenAI, they do hint that the company''s "leadership has yet to be stabilized after firing and rehiring Sam Altman". However, John Schulman explains https://x.com/johnschulman2/status/1820610863499509855 that his departure from OpenAI is not hinged on "lack  of support for alignment research at OpenAI", but that it''s a personal decision "to pursue this goal at Anthropic, where I believe I can gain new perspectives and do research alongside people deeply engaged with the topics" he finds more interesting.' /* notes */
 );
-
-
