@@ -331,7 +331,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Ilya Sutskever|Jan Leike|Jakub Pachocki', /* affected_people */
 	'Employee Departure', /* document_scope */
 	'AI Safety', /* cause_area */
-	'This post discusses the resignation of two key figures at OpenAI, Ilya Sutskever and Jan Leike, stating the events that surround their departures. However, in a comment, Thane Ruthenis expresses pleasure at the resignations at OpenAI saying that it is a clear indication of safety-washing and virtue signaling by the organization and that the resignations signal that OpenAI doesn''t deeply care about AI safety.' /* notes */
+	'This post discusses the resignation of two key figures at OpenAI, Ilya Sutskever and Jan Leike, stating the events that surround their departures. However, in a comment https://www.lesswrong.com/posts/JSWF2ZLt6YahyAauE/ilya-sutskever-and-jan-leike-resign-from-openai-updated?commentId=M62wLnAKb3FdFdoF5, Thane Ruthenis expresses pleasure at the resignations at OpenAI saying that it is a clear indication of safety-washing and virtue signaling by the organization and that the resignations signal that OpenAI doesn''t deeply care about AI safety.' /* notes */
 );
 
 
