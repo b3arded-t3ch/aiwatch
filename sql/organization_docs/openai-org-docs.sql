@@ -384,4 +384,43 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Employee Departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The post explains that there are some shake-ups within OpenAI. Although the authors provides no reason for the departure of some of the members of OpenAI, they do hint that the company''s "leadership has yet to be stabilized after firing and rehiring Sam Altman". However, John Schulman explains https://x.com/johnschulman2/status/1820610863499509855 that his departure from OpenAI is not hinged on "lack  of support for alignment research at OpenAI", but that it''s a personal decision "to pursue this goal at Anthropic, where I believe I can gain new perspectives and do research alongside people deeply engaged with the topics" he finds more interesting.' /* notes */
+)
+,(
+	'https://openai.com/index/openai-appoints-retired-us-army-general/', /* url */
+	'OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors', /* title */
+	'2024-06-13', /* publication_date */
+	NULL, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Paul M. Nakasone', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI announces the appointment of Retired U.S. Army General Paul M. Nakasone as a new member of its Board of Directors.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/eZxG2E4B44RyTFGpE/openai-appoints-retired-u-s-army-general-paul-m-nakasone-to?commentId=4fX2w72sttyC8TnqB', /* url */
+	'This fact will be especially important insofar as a situation arises where e.g. some engineers at the company think that the latest system isn''t safe.', /* title */
+	'2024-06-14', /* publication_date */
+	NULL, /* modified_date */
+	'Daniel Kokotajlo', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'As a reply to a comment https://www.lesswrong.com/posts/eZxG2E4B44RyTFGpE/openai-appoints-retired-u-s-army-general-paul-m-nakasone-to?commentId=5GDL4PT6iwt4Bk3DN on the appoint of Retired U.S. Army General Paul M. Nakasone, Daniel Kokotajlo highlights a potential critical governance issue that may arise if the board consists of people with no technical expertise. According to Daniel, they may not be able address or evaluate safety concerns raised by engineers which may lead to decisions based on deference rather than understanding.' /* notes */
+)
+,(
+	'https://www.ted.com/talks/the_ted_ai_show_what_really_went_down_at_openai_and_the_future_of_regulation_w_helen_toner?subtitle=en', /* url */
+	'What really went down at OpenAI and the future of regulation w/ Helen Toner', /* title */
+	'2024-05-01', /* publication_date */
+	NULL, /* modified_date */
+	'The TEDAI Show', /* author */
+	'TED', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Helen Toner', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this interview, Helen Toner discusses the events that surround the ousting of Sam Altman in late 2023. Amongst other reasons, she mentions that Sam Altman was standing in the way of the board in carrying out its oversight function as he withheld information from them, and he lied in some cases.' /* notes */
 );
