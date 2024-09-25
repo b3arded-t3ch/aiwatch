@@ -414,7 +414,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 ,(
 	'https://www.ted.com/talks/the_ted_ai_show_what_really_went_down_at_openai_and_the_future_of_regulation_w_helen_toner?subtitle=en', /* url */
 	'What really went down at OpenAI and the future of regulation w/ Helen Toner', /* title */
-	'2024-05-01', /* publication_date */
+	'2024-05-28', /* publication_date */
 	NULL, /* modified_date */
 	'The TEDAI Show', /* author */
 	'TED', /* publisher */
