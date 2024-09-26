@@ -423,4 +423,30 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In this interview, Helen Toner discusses the events that surround the ousting of Sam Altman in late 2023. Amongst other reasons, she mentions that Sam Altman was standing in the way of the board in carrying out its oversight function as he withheld information from them, and he lied in some cases.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/6hxsbMqXEsRYwEYRr/what-is-openai-s-plan-for-making-ai-safer', /* url */
+	'What is OpenAI''s plan for making AI Safer?', /* title */
+	'2023-09-01', /* publication_date */
+	NULL, /* modified_date */
+	'brook', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'General discussion of organizational practices', /* document_scope */
+	'AI Safety', /* cause_area */
+	'As a response to claims of some people that AI companies like OpenAI are not doing enough to make AI safer, the auhtor explains the how OpenAI is helping with alignment using three fundamental concepts of training AI systems using human feedback, training AI systems to assist human evaluation, and training AI systems to do alignment.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/8qCwuE8GjrYPSqbri/80-000-hours-should-remove-openai-from-the-job-board-and', /* url */
+	'80,000 hours should remove OpenAI from the Job Board (and similar EA orgs should do similarly)', /* title */
+	'2024-07-03', /* publication_date */
+	NULL, /* modified_date */
+	'Raemon', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI|80000 Hours', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author contends that it is now false or less true to think "OpenAI seems inclined towards safety" as it "has demonstrated a level of manipulativeness, recklessness, and failure to prioritize meaningful existential safety work". As such, the author argues that it is in the best interest of AI safety for job boards that funnel effective altruism talents, particularly 80000 Hours, to delist OpenAI from their job boards.' /* notes */
 );
