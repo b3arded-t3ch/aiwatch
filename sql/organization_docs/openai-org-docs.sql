@@ -52,8 +52,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         '6 members of the OpenAI research team, including Research Director Ilya Sutskever, conduct an Ask Me Anything (AMA) on Reddit. This is about one month after the official launch of OpenAI' /* notes */
    )
   ,(
-        'https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-
-	how-to-become-one/', /* url */
+        'https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/', /* url */
         'How to train for a job developing AI at OpenAI or DeepMind', /* title */
         '2017-07-21', /* publication_date */
         NULL, /* modified_date */
@@ -66,8 +65,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Robert Wiblin interviews Dario Amodei for the 80,000 Hours podcast about working at OpenAI and about the domains of AI and AI safety. The latter half of the podcast includes advice for people training to work in AI organizations such as OpenAI and DeepMind' /* notes */
    )
   ,(
-        'https://www.lesswrong.com/posts/dJQo7xPn4TyGnKgeC/hiring-engineers-and-
-	researchers-to-help-align-gpt-3', /* url */
+        'https://www.lesswrong.com/posts/dJQo7xPn4TyGnKgeC/hiring-engineers-and-researchers-to-help-align-gpt-3', /* url */
         'Hiring engineers and researchers to help align GPT-3', /* title */
         '2020-10-01', /* publication_date */
         NULL, /* modified_date */
@@ -106,10 +104,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'This article contains an interview with Christian Gibson, an engineer on the supercomputing team of OpenAI, discussing how he got into programming as well as his work at OpenAI. In the interview, he discusses that his work focuses on solving problems that relate to Exploratory AI workflows by preempting research needs before they block progress and identifying bottlenecks as well as implementing workarounds as quickly as possible. Gibson''s account of working on supercomputing at OpenAI provides insights into the organization''s operations and culture. According to Gibson, OpenAI operates at an unprecedented scale, utilizing billion-dollar supercomputers and encountering technical challenges that push the boundaries of existing hardware capabilities. He mentions that the employees actively work to save days of compute time by relentlessly focusing on performance optimization to enable them match the cutting-edge technology. The work environment is characterized by a mix of coding, problem-solving, and collaboration, with employees having a clear understanding of how their work impacts specific teams and projects. According to him, employees also have the opportunity to tackle unique technical challenges in high-performance computing which contributes to employee motivation.' /* notes */
 )
 ,(
-	'https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-
-	society-acknowledges/story?id=97897122', /* url */
-	'OpenAI CEO Sam Altman says AI will reshape society,
-	acknowledges risks: ''A little bit scared of this''', /* title */
+	'https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122', /* url */
+	'OpenAI CEO Sam Altman says AI will reshape society,acknowledges risks: ''A little bit scared of this''', /* title */
 	'2023-03-16', /* publication_date */
 	NULL, /* modified_date */
 	'Victor Ordonez|Taylor Dunn|Eric Noll', /* author */
@@ -147,8 +143,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'This article highlights the decision of the the board of directors of OpenAI to let relieve Sam Altman of his position as the CEO of the organization. According to them, his dismissal hinges on gaps in communications with the board which hinder its ability to exercise its responsibilities. However, a tweet mentions that Sam''s dismissal was sequel to some internal disagreements about safe development of AI.' /* notes */
 )
 ,(
-	'https://www.lesswrong.com/posts/eHFo7nwLYDzpuamRM/sam-altman-fired-from-
-	openai#SYhfi45LhtX75Tr9v', /* url */
+	'https://www.lesswrong.com/posts/eHFo7nwLYDzpuamRM/sam-altman-fired-from-openai#SYhfi45LhtX75Tr9v', /* url */
         'Hmmm. The way Sam behaves I can''t see a path of him leading an AI company towards safety', /* title */
         '2023-11-18', /* publication_date */
         NULL, /* modified_date */
@@ -161,10 +156,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'MiguelDev, in a comment, describes what a typical CEO of OpenAI should be like. He says, "A CEO I wish OpenAI has - is someone who stays at the offices, ensuring that we are on track of safely steering arguably the most revolutionary tech ever created - not trying to promote the company or the tech, I think it''s unnecessary to do a world tour if one is doing AI development and deployment safely."' /* notes */
 )
 ,(
-	'https://www.lesswrong.com/posts/gZkYvA6suQJthvj4E/my-may-2023-priorities-for-
-	ai-x-safety-more-empathy-more4', /* url */
-	'My May 2023 priorities for AI x-safety: more empathy,
-	more unification of concerns, and less vilification of OpenAI', /* title */
+	'https://www.lesswrong.com/posts/gZkYvA6suQJthvj4E/my-may-2023-priorities-for-ai-x-safety-more-empathy-more4', /* url */
+	'My May 2023 priorities for AI x-safety: more empathy,more unification of concerns, and less vilification of OpenAI', /* title */
         '2023-05-24', /* publication_date */
 	NULL, /* modified_date */
 	'Andrew_Critch', /* author */
@@ -176,8 +169,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'In this post, Andrew_Critch expresses his general perspective about OpenAI. He mentions reasons for his positive views of OpenAI like transparency, charter effectiveness, public engagement, etc. He thus calls for balanced critique of the organization saying that harsh criticism of OpenAI might be counterproductive for overall AI safety.' /* notes */
 )
 ,(
-	'https://www.lesswrong.com/posts/jfYnq8pKLpKLwaRGN/transcript-yudkowsky-on-
-	bankless-follow-up-q-and-a', /* url */
+	'https://www.lesswrong.com/posts/jfYnq8pKLpKLwaRGN/transcript-yudkowsky-on-bankless-follow-up-q-and-a', /* url */
 	'Transcript: Yudkowsky on Bankless follow-up Q&A', /* title */
         '2023-02-28', /* publication_date */
 	NULL, /* modified_date */
@@ -229,8 +221,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'According to Benquo, OpenAI is the result of the efforts of some "good people" to address AI safety. However, Benquo expresses confusion as to how well-intentioned efforts to address AI safety have resulted in an organization that may be exacerbating the very problems it aims to solve. He argues that despite the good intentions behind it, OpenAI may be increasing the risks associated with superintelligent.' /* notes */
 )
 ,(
-	'https://www.bloomberg.com/news/articles/2024-05-28/ex-openai-director-says-board-
-	learned-of-chatgpt-launch-on-twitter', /* url */
+	'https://www.bloomberg.com/news/articles/2024-05-28/ex-openai-director-says-board-learned-of-chatgpt-launch-on-twitter', /* url */
 	'Ex-OpenAI Director Says Board Learned of ChatGPT Launch on Twitter', /* title */
 	'2024-05-28', /* publication_date */
 	NULL, /* modified_date */
