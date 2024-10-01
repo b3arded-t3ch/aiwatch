@@ -440,4 +440,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author contends that it is now false or less true to think "OpenAI seems inclined towards safety" as it "has demonstrated a level of manipulativeness, recklessness, and failure to prioritize meaningful existential safety work". As such, the author argues that it is in the best interest of AI safety for job boards that funnel effective altruism talents, particularly 80000 Hours, to delist OpenAI from their job boards.' /* notes */
+)
+,(
+	'https://web.archive.org/web/20240521144425/https://fortune.com/2024/05/21/openai-superalignment-20-compute-commitment-never-fulfilled-sutskever-leike-altman-brockman-murati/', /* url */
+	'Exclusive: OpenAI promised 20% of its computing power to combat the most dangerous kind of AI—but never delivered, sources say', /* title */
+	'2024-05-21', /* publication_date */
+	NULL, /* modified_date */
+	'Jeremy Kahn', /* author */
+	'Wayback Machine',  /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author questions OpenAI''s integrity towards "honoring its public pledge". According to him, the company unveiled team Superalignment in July 2023 to monitor and safely control activities that bring about future AI systems that "might be more intelligent than all humans combined" and publicly promised to empower the team with 20% of its computing resources. However, in less than a year after the team was formed, OpenAI has disbanded the team.' /* notes */
 );
