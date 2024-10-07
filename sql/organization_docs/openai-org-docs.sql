@@ -453,4 +453,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author questions OpenAI''s integrity towards "honoring its public pledge". According to him, the company unveiled team Superalignment in July 2023 to monitor and safely control activities that bring about future AI systems that "might be more intelligent than all humans combined" and publicly promised to empower the team with 20% of its computing resources. However, in less than a year after the team was formed, OpenAI has disbanded the team.' /* notes */
+)
+,(
+	'https://www.king.senate.gov/newsroom/press-releases/king-colleagues-demand-answers-from-openai-following-reports-of-safety-and-secrecy-concerns#:~:text=In%20the%20letter%20to%20OpenAI,safety%20review%20and%20insufficient%20cybersecurity',/* url */
+	'King, Colleagues Demand Answers From OpenAI Following Reports of Safety and Secrecy Concerns',/* title */
+	'2024-07-25', /* publication_date */
+	NULL, /* modified_date */
+	'Angus King', /* author */
+	'Angus King', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Angus King|Sam Altman|Brian Schatz|Ben Ray Lujan|Peter Welch|Mark Warner,' /* affected_people */
+	'HR controversy', /* document_scope */
+	'AI Safety', /* cause_area */
+	'On his personal website, Angus King and his colleagues demand, through a letter https://www.schatz.senate.gov/imo/media/doc/letter_to_openai.pdf that OpenAI honor its “public promises and mission” in ensuring safety standards in AI development. This letter is a folow up of reports from whistleblowers and former employees regarding safety and security concerns at OpenAI.' /* notes */
 );
