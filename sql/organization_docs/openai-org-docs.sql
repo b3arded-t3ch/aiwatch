@@ -160,7 +160,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'My May 2023 priorities for AI x-safety: more empathy,more unification of concerns, and less vilification of OpenAI', /* title */
         '2023-05-24', /* publication_date */
 	NULL, /* modified_date */
-	'Andrew_Critch', /* author */
+	'Andrew Critch', /* author */
 	'LessWrong', /* publisher */
         'OpenAI', /* affected_organizations */
         NULL, /* affected_people */
@@ -176,7 +176,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	NULL, /* author */
         'LessWrong', /* publisher */
         'OpenAI', /* affected_organizations */
-        'Eliezer', /* affected_people */
+        'Eliezer Yudkowsky', /* affected_people */
         'Third-party commentary on organization', /* document_scope */
         'AI Safety', /* cause_area */
         'In an interview, Eliezer Yudkowsky expresses a critical view of OpenAI saying that OpenAI''s efforts in AI safety is insufficient and ineffective. He argues that their actions are setting bad examples and intensifying competition in AI development, which he sees as dangerous. If given control, Yudkowsky says he would dramatically change OpenAI''s approach. He would rename it to "ClosedAI," cut ties with Microsoft, stop generating hype, and focus on developing more alignable AI systems rather than just more powerful ones.' /* notes */
