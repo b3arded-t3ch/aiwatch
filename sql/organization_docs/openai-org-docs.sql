@@ -466,4 +466,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'HR controversy', /* document_scope */
 	'AI Safety', /* cause_area */
 	'On his personal website, Angus King and his colleagues demand, through a letter https://www.schatz.senate.gov/imo/media/doc/letter_to_openai.pdf that OpenAI honors its “public promises and mission” in ensuring safety standards in AI development. This letter is a folow up of reports from whistleblowers and former employees regarding safety and security concerns at OpenAI. Meanwhile, OpenAI replies in a letter https://www.washingtonpost.com/documents/cd2edf3d-c892-4293-b2d7-41c882d2e1fb.pdf describing its progress and approaches in meeting the safety and security commitments.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/eq2aJt8ZqMaGhBu3r/zach-stein-perlman-s-shortform?commentId=MynXgwGJHj6fj85jA', /* url */
+	'Two weeks ago some senators asked OpenAI questions about safety', /* title */
+	'2024-08-04', /* publication_date */
+	NULL, /* modified_date */
+	'Zach Stein-Perlman', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Meanwhile, Zach Stein-Perlman reacts to OpenAI''s response letter. He contends that the letter shows lack of transparency on the part of OpenAI, and that "they violated the spirit of the commitment by denying Superalignment compute or a plan for when they''d get compute, even if the literal commitment doesn''t require them to give any compute to safety until 2027."' /* notes */
 );
+
