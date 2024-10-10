@@ -479,5 +479,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Meanwhile, Zach Stein-Perlman reacts to OpenAI''s response letter. He contends that the letter shows lack of transparency on the part of OpenAI, and that "they violated the spirit of the commitment by denying Superalignment compute or a plan for when they''d get compute, even if the literal commitment doesn''t require them to give any compute to safety until 2027."' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/eq2aJt8ZqMaGhBu3r/zach-stein-perlman-s-shortform?commentId=MZjc4gKe3zJrR2dt3', /* url */
+	'Update, five days later: OpenAI published the GPT-4o system card, with most of what I wanted (but kinda light on details on PF evals)', /* title */
+	'2024-08-09', /* publication_date */
+	NULL, /* modified_date */
+	'Zach Stein-Perlman', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI',  /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Zach Stein-Perlman comments on OpenAI published GPT-4o system card https://openai.com/index/gpt-4o-system-card/. He contends that OpenAI''s Preparedness scorecard does not comply with its promised Preparedness Framework. He argues "that the scorecard should show risk in each category, not just overall." Meanwhile, an article by the Washington Post https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/ adds credence to this claim as it reports that OpenAI''s "employees say it failed its first test". According to the Washington Post, OpenAI had "promised the White House it would rigorously safety-test new versions of its groundbreaking technology to make sure the AI wouldn''t inflict damage. However, "some members of OpenAI’s safety team felt pressured to speed through a new testing protocol, designed to prevent the technology from causing catastrophic harm, to meet a May launch date set by OpenAI’s leaders". One of them concludes that "we basically failed at the process." While commenting on the Washington Post article, Zach Stein-Perlman opines that the major problem is not about rushing testing of the final model as this is allowed in certain circumstances, but that OpenAI''s PF is supposed to ensure safety by testing the final model before deployment.' /* notes */
 );
-
