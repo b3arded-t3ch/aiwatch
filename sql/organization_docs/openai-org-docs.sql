@@ -492,4 +492,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Zach Stein-Perlman comments on OpenAI published GPT-4o system card https://openai.com/index/gpt-4o-system-card/. He contends that OpenAI''s Preparedness scorecard does not comply with its promised Preparedness Framework. He argues "that the scorecard should show risk in each category, not just overall." Meanwhile, an article by the Washington Post https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/ adds credence to this claim as it reports that OpenAI''s "employees say it failed its first test". According to the Washington Post, OpenAI had "promised the White House it would rigorously safety-test new versions of its groundbreaking technology to make sure the AI wouldn''t inflict damage. However, "some members of OpenAI’s safety team felt pressured to speed through a new testing protocol, designed to prevent the technology from causing catastrophic harm, to meet a May launch date set by OpenAI’s leaders". One of them concludes that "we basically failed at the process." While commenting on the Washington Post article, Zach Stein-Perlman opines that the major problem is not about rushing testing of the final model as this is allowed in certain circumstances, but that OpenAI''s PF is supposed to ensure safety by testing the final model before deployment.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/eq2aJt8ZqMaGhBu3r/zach-stein-perlman-s-shortform?commentId=H8k2goSwnuFybKjcj', /* url */
+	'Info on OpenAI''s "profit cap" (friends and I misunderstood this so probably you do too)', /* title */
+	'2024-06-29', /* publication_date */
+	NULL, /* modified_date */
+	'Zach Stein-Perlman', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Zach Stein-Perlman suggests that OpenAI should be a company that negotiates profit caps with investors rather than being being a capped-profit company."' /* notes */
 );
