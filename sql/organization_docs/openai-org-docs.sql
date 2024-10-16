@@ -505,4 +505,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Zach Stein-Perlman suggests that OpenAI should be a company that negotiates profit caps with investors rather than being being a capped-profit company."' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/eq2aJt8ZqMaGhBu3r/zach-stein-perlman-s-shortform?commentId=qvJTtwSkkDFpiARLD', /* url */
+	'New OpenAI tweet "on how we''re prioritizing safety in our work."', /* title */
+	'2024-07-23', /* publication_date */
+	NULL, /* modified_date */
+	'Zach Stein-Perlman', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Zach Stein-Perlman argues that a tweet by OpenAI https://x.com/OpenAI/status/1815708155717787926 which explains how it''s prioritizing safety in its work is inconsistent with its Preparedness Framework https://cdn.openai.com/openai-preparedness-framework-beta.pdf, "a living document describing OpenAI''s processes to track, evaluate, forecast, and protect against catastrophic risks posed by increasingly powerful models." He holds that OpenAI is economical with the truth because "per the Preparedness Framework, nothing happens when they cross their "medium" threshold"' /* notes */
 );
