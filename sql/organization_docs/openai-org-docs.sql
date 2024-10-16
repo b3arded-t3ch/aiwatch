@@ -518,4 +518,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Zach Stein-Perlman argues that a tweet by OpenAI https://x.com/OpenAI/status/1815708155717787926 which explains how it''s prioritizing safety in its work is inconsistent with its Preparedness Framework https://cdn.openai.com/openai-preparedness-framework-beta.pdf, "a living document describing OpenAI''s processes to track, evaluate, forecast, and protect against catastrophic risks posed by increasingly powerful models." He holds that OpenAI is economical with the truth because "per the Preparedness Framework, nothing happens when they cross their "medium" threshold"' /* notes */
+)
+,(
+	'https://thezvi.substack.com/i/146518192/openly-evil-ai', /* url */
+	'Openly Evil AI', /* title */
+	'2024-07-18', /* publication_date */
+	NULL, /* modified_date */
+	'Zvi Mowshowitz', /* author */ 
+	'Substack', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'On account of different unfolding of critical events within OpenAI like OpenAI''s Non-Disclosure Agreements (NDAs) and Non-Disparagement Agreements and Rushed Testing of GPT-4o by OpenAI, the author concludes that the overall credibility of OpenAI regarding their commitment to safety and ethical practices is increasingly difficult to trust.' /* notes */
 );
