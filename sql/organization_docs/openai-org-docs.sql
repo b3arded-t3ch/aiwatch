@@ -147,7 +147,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
         'Hmmm. The way Sam behaves I can''t see a path of him leading an AI company towards safety', /* title */
         '2023-11-18', /* publication_date */
         NULL, /* modified_date */
-        'MiguelDev', /* author */
+        'Miguel Dev', /* author */
         'LessWrong',  /* publisher */
         'OpenAI', /* affected_organizations */
         'Sam Altman', /* affected_people */
@@ -186,7 +186,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Common misconceptions about OpenAI', /* title */
 	'2022-08-25', /* publication_date */
         NULL, /* modified_date */
-	'Jacob_Hilton', /* author */
+	'Jacob Hilton', /* author */
 	'LessWrong', /* publisher */
 	'OpenAI', /* affected_organizations */
         NULL, /* affected_people */
@@ -238,7 +238,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'OpenAI: Helen Toner Speaks', /* title */
 	'2024-05-30', /* publication_date */
 	NULL, /* modified_date */
-	'Zvi', /* author */
+	'Zvi Mowshowitz', /* author */
 	'LessWrong',  /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Sam Altman', /* affected_people */
@@ -251,20 +251,20 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'OpenAI #8: The Right to Warn', /* title */
 	'2024-06-17', /* publication_date */
 	NULL, /* modified_date */
-	'Zvy',  /* author */
+	'Zvi Mowshowitz',  /* author */
 	'LessWrong', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Leopold Aschenbrenner', /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'Zvy reveals the details surrounding Leopold''s firing. According to him, Leopold''s refusal to sign a letter demanding the board''s resignation, writing a memo about OpenAI''s cybersecurity issues and sharing it with the board as well as retaliation for whistleblowing and not showing sufficient loyalty to Sam Altman.'  /* notes */
+	'Zvi reveals the details surrounding Leopold''s firing. According to him, Leopold''s refusal to sign a letter demanding the board''s resignation, writing a memo about OpenAI''s cybersecurity issues and sharing it with the board as well as retaliation for whistleblowing and not showing sufficient loyalty to Sam Altman.'  /* notes */
 )
 ,(
 	'https://www.lesswrong.com/posts/sXhBCDLJPEjadwHBM/boycott-openai', /* url */
 	'Boycott OpenAI', /* title */
 	'2024-06-18', /* publication_date */
 	NULL, /* modified_date */
-	'PeterMcCluskey', /* author */
+	'Peter McCluskey', /* author */
 	'LessWrong', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Sam Altman', /* affected_people */
@@ -277,7 +277,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'OpenAI: Fallout',  /* title */
 	'2024-05-28', /* publication_date */
 	NULL, /* modified_date */
-	'Zvi', /* author */
+	'Zvi Mowshowitz', /* author */
 	'LessWrong', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Kelsey Piper|Daniel Kokotajlo', /* affected_people */
@@ -329,7 +329,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Do Not Mess With Scarlett Johansson', /* title */
 	'2024-05-22',  /* publication_date */
 	NULL, /* modified_date */
-	'Zvi', /* author */
+	'Zvi Mowshowitz', /* author */
 	'LessWrong', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Scarlett Johansson|Sam Altman', /* affected_people */
@@ -342,7 +342,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'What do we know about the AI knowledge and views, especially about existential risk, of the new OpenAI board members?', /* title */
 	'2024-03-11',  /* publication_date */
 	NULL, /* modified_date */
-	'Zvi', /* author */
+	'Zvi Mowshowitz', /* author */
 	'LessWrong', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Dr. Sue Desmond-Hellmann|Nicole Seligman|Fidji Simo|',  /* affected_people */
