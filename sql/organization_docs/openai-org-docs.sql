@@ -531,4 +531,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'On account of different unfolding of critical events within OpenAI like OpenAI''s Non-Disclosure Agreements (NDAs) and Non-Disparagement Agreements and Rushed Testing of GPT-4o by OpenAI, the author concludes that the overall credibility of OpenAI regarding their commitment to safety and ethical practices is increasingly difficult to trust.' /* notes */
+)
+,(
+	'https://www.theinformation.com/articles/behind-openais-staff-churn-turf-wars-burnout-compensation-demands?utm_campaign=article_email&utm_content=article-13684&utm_medium=email&utm_source=sg', /* url */
+	'Behind OpenAI''s Staff Churn: Turf Wars, Burnout, Compensation Demands', /* title */
+	'2024-09-26', /* publication_date */
+	NULL, /* modified_date */
+	'Stephanie Palazzolo|Erin Woo|Amir Efrati', /* author */
+	'The Information', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	-- Additional document scopes: Organizational leadership commentary, HR controversy, General discussion of organizational practices, and Employee departure.
+	'AI Safety',  /* cause_area */
+	'The authors lend their voice to the recent events at OpenAI particularly as related to the series of high profile departures from the company. They explain that "a more believable explanation for this steady spate of defections, as we indicated in our story today, is that the typical pressures of working at a startup—magnified by the extraordinary technologies OpenAI is developing—simply wore people down." In essence, the authors opine that Sam Altman''s reasons for the departures are not as plausible as theirs which is that the typical intense work environments, often involving long hours, high stress, and rapid pace of change at startups like OpenAI usually "wore people down"' /* notes */
 );
