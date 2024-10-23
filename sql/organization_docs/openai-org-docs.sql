@@ -545,4 +545,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	-- Additional document scopes: Organizational leadership commentary, HR controversy, General discussion of organizational practices, and Employee departure.
 	'AI Safety',  /* cause_area */
 	'The authors lend their voice to the recent events at OpenAI particularly as related to the series of high profile departures from the company. They explain that "a more believable explanation for this steady spate of defections, as we indicated in our story today, is that the typical pressures of working at a startup—magnified by the extraordinary technologies OpenAI is developing—simply wore people down." In essence, the authors opine that Sam Altman''s reasons for the departures are not as plausible as theirs which is that the typical intense work environments, often involving long hours, high stress, and rapid pace of change at startups like OpenAI usually "wore people down"' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/', /* url */
+	'OpenAI''s chief research officer has left following CTO Mira Murati''s exit', /* title */
+	'2024-09-25',  /* publication_date */
+	NULL, /* modified_date */
+	'Kyle Wiggers', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Bob McGrew|Sam Altman|Barret Zoph|Mira Murati|Mark Chen|Jakub Pachocki|Matt Knight|Josh Achiam|Andrej Karpathy|John Schulman|Jan Leike|Greg Brockman', /* affected_people */
+	'Employee departure', /* document_scope */
+	-- Additional document scope: Third-party commentary on organization
+	'AI Safety', /* cause_area */
+	'In what seems like solidarity with Mira Murati, OpenAI''s chief research officer, Bob McGrew, left the company "hours after OpenAI CTO Mira Murati announced she would be departing". Although no solid reason was given for this action other than Bob McGrew''s statement that it was "time for him to take a break", the author, however, opines that "against the backdrop of a reported new funding round https://techcrunch.com/2024/09/11/openai-reportedly-in-talks-to-raise-at-150b-valuation/ valuing OpenAI at $150 billion, disagreements over the company''s direction may have been the straw that broke the camel’s back."' /* notes */
 );
