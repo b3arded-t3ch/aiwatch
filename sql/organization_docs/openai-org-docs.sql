@@ -561,7 +561,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'In what seems like solidarity with Mira Murati, OpenAI''s chief research officer, Bob McGrew, left the company "hours after OpenAI CTO Mira Murati announced she would be departing". Although no solid reason was given for this action other than Bob McGrew''s statement that it was "time for him to take a break", the author, however, opines that "against the backdrop of a reported new funding round https://techcrunch.com/2024/09/11/openai-reportedly-in-talks-to-raise-at-150b-valuation/ valuing OpenAI at $150 billion, disagreements over the company''s direction may have been the straw that broke the camel’s back."' /* notes */
 )
 ,(
-	'https://www.cnbc.com/2024/09/25/openai-cto-mira-murati-announces-shes-leaving-the-company.html', /* url*/
+	'https://www.cnbc.com/2024/09/25/openai-cto-mira-murati-announces-shes-leaving-the-company.html', /* url */
 	'OpenAI considering restructuring to for-profit, CTO Mira Murati and two top research execs depart', /* title */
 	'2024-09-25', /* publication_date */
 	'2024-09-25', /* modified_date */
@@ -572,4 +572,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Organizational growth introspection', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Sequel to the departure of senior execcutives at OpenAI, "OpenAI''s board is considering plans to restructure the firm to a for-profit business."' /* notes */
+)
+,(
+	'https://www.theguardian.com/technology/2024/sep/26/why-is-openai-planning-to-become-a-for-profit-business-and-does-it-matter', /* url */
+	'Why is OpenAI planning to become a for-profit business and does it matter?', /* title */
+	'2024-09-26', /* publication_date */
+	NULL, /* modified_date */
+	'Dan Milmo', /* author */
+	'The Guardian', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL  /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Meanwhile, Dan Milmo provides possible explanation to the rationale behind OpenAI''s decision to overhaul its corporate structure and become a for-profit business saying that "developing powerful AI systems is expensive and OpenAI could be heading for a loss of as much as $5bn this year. It therefore needs more investment. The startup is in talks to raise $6.5bn from investors and removing any restriction on profits would be an extra incentive for the would-be backers engaged in talks. Potential investors include the tech company Apple and the chipmaker Nvidia."' /* notes */
 );
