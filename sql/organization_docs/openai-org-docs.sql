@@ -559,4 +559,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	-- Additional document scope: Third-party commentary on organization
 	'AI Safety', /* cause_area */
 	'In what seems like solidarity with Mira Murati, OpenAI''s chief research officer, Bob McGrew, left the company "hours after OpenAI CTO Mira Murati announced she would be departing". Although no solid reason was given for this action other than Bob McGrew''s statement that it was "time for him to take a break", the author, however, opines that "against the backdrop of a reported new funding round https://techcrunch.com/2024/09/11/openai-reportedly-in-talks-to-raise-at-150b-valuation/ valuing OpenAI at $150 billion, disagreements over the company''s direction may have been the straw that broke the camel’s back."' /* notes */
+)
+,(
+	'https://www.cnbc.com/2024/09/25/openai-cto-mira-murati-announces-shes-leaving-the-company.html', /* url*/
+	'OpenAI considering restructuring to for-profit, CTO Mira Murati and two top research execs depart', /* title */
+	'2024-09-25', /* publication_date */
+	'2024-09-25', /* modified_date */
+	'Hayden Field', /* author */ 
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Mira Murati|Bob McGrew|Sam Altman|Barret Zoph', /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Sequel to the departure of senior execcutives at OpenAI, "OpenAI''s board is considering plans to restructure the firm to a for-profit business."' /* notes */
 );
