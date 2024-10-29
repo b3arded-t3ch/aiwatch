@@ -611,4 +611,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author explains that OpenAI increasingly deprioritized its focus on safety as it rushed to commercialize products. "After years of sweet-talking the press, the public, and the policymakers in Congress, assuring all that OpenAI wants regulation and cares more about safety than about money, Altman is not even bothering to play games anymore. He''s showing everyone his true colors." The author thus confirms the need "to pass regulation that would provide some oversight of big AI companies".' /* notes */
+)
+,(
+	'https://www.theguardian.com/technology/2024/sep/27/openai-shift-to-for-profit-company-may-lead-it-to-cut-corners-says-whistleblower', /* url */
+	'OpenAI shift to for-profit company may lead it to cut corners, says whistleblower', /* title */
+	'2024-09-27', /* publication_date */
+	NULL /* modified_date */
+	'Dan Milmo', /* author */
+	'The Guardian', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|William Saunders' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety',  /* cause_area */
+	'In this post, William Saunders expresses his concerns that OpenAI''s switch to a for-profit company could make it compromise safety measures. He contends that "If the non-profit board is no longer in control of these decisions and Sam Altman holds a significant equity stake, this creates more incentive to race and cut corners."' /* notes */
 );
