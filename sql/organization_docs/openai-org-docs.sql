@@ -597,7 +597,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sam Altman|Bret Taylor|Sarah Friar' /* affected_people */
 	'Organizational operations', /* document_scope */
 	'AI Safety', /* cause_area */
-	'CNBC reports that subsequent to OpenAI board''s decision to consider restructuring the company to a for-profit business, the board talked about giving Altman a stake of which amount has not yet been decided. Sam Altman, however, denied plans for him to get a "giant equity stake".' /* notes */
+	'CNBC reports that subsequent to OpenAI board''s decision to consider restructuring the company to a for-profit business, the board talked about giving Altman a stake of which amount has not yet been decided. Sam Altman, however, denied plans for him to get a "giant equity stake". Meanwhile, a youtube podcast https://youtu.be/43Rd-y2xe84?t=193 shows that the board is considering giving Altman 7% stake.' /* notes */
 )
 ,(
 	'https://www.vox.com/future-perfect/374275/openai-just-sold-you-out', /* url */
