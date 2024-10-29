@@ -610,5 +610,5 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sam Altman'  /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'The author explains that OpenAI increasingly deprioritized its focus on safety as it rushed to commercialize products. "After years of sweet-talking the press, the public, and the policymakers in Congress, assuring all that OpenAI wants regulation and cares more about safety than about money, Altman is not even bothering to play games anymore. He''s showing everyone his true colors."' /* notes */
+	'The author explains that OpenAI increasingly deprioritized its focus on safety as it rushed to commercialize products. "After years of sweet-talking the press, the public, and the policymakers in Congress, assuring all that OpenAI wants regulation and cares more about safety than about money, Altman is not even bothering to play games anymore. He''s showing everyone his true colors." The author thus confirms the need "to pass regulation that would provide some oversight of big AI companies".' /* notes */
 );
