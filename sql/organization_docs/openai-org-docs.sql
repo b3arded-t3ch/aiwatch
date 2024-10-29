@@ -588,7 +588,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 )
 ,(
 	'https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html', /* url */
-	'Sam Altman tells OpenAI staff there’s no plan for him to receive a ‘giant equity stake’ in company',  /* title */
+	'Sam Altman tells OpenAI staff there''s no plan for him to receive a ''giant equity stake'' in company',  /* title */
 	'2024-09-26', /* publication_date */
 	'2024-09-27', /* modified_date */
 	'Hayden Field', /* author */
@@ -598,4 +598,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Organizational operations', /* document_scope */
 	'AI Safety', /* cause_area */
 	'CNBC reports that subsequent to OpenAI board''s decision to consider restructuring the company to a for-profit business, the board talked about giving Altman a stake of which amount has not yet been decided. Sam Altman, however, denied plans for him to get a "giant equity stake".' /* notes */
+)
+,(
+	'https://www.vox.com/future-perfect/374275/openai-just-sold-you-out', /* url */
+	'OpenAI as we knew it is dead', /* title */
+	'2024-09-26', /* publication_date */
+	NULL /* modified_date */
+	'Sigal Samuel', /* author */
+	'Vox', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman'  /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author explains that OpenAI increasingly deprioritized its focus on safety as it rushed to commercialize products. "After years of sweet-talking the press, the public, and the policymakers in Congress, assuring all that OpenAI wants regulation and cares more about safety than about money, Altman is not even bothering to play games anymore. He''s showing everyone his true colors."' /* notes */
 );
