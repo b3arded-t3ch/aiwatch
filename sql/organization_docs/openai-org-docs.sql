@@ -585,4 +585,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Meanwhile, Dan Milmo provides possible explanation to the rationale behind OpenAI''s decision to overhaul its corporate structure and become a for-profit business saying that "developing powerful AI systems is expensive and OpenAI could be heading for a loss of as much as $5bn this year. It therefore needs more investment. The startup is in talks to raise $6.5bn from investors and removing any restriction on profits would be an extra incentive for the would-be backers engaged in talks. Potential investors include the tech company Apple and the chipmaker Nvidia."' /* notes */
+)
+,(
+	'https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html', /* url */
+	'Sam Altman tells OpenAI staff there’s no plan for him to receive a ‘giant equity stake’ in company',  /* title */
+	'2024-09-26', /* publication_date */
+	'2024-09-27', /* modified_date */
+	'Hayden Field', /* author */
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Bret Taylor|Sarah Friar' /* affected_people */
+	'Organizational operations', /* document_scope */
+	'AI Safety', /* cause_area */
+	'CNBC reports that subsequent to OpenAI board''s decision to consider restructuring the company to a for-profit business, the board talked about giving Altman a stake of which amount has not yet been decided. Sam Altman, however, denied plans for him to get a "giant equity stake".' /* notes */
 );
