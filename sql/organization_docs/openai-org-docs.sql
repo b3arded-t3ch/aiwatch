@@ -650,4 +650,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization',  /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI, a company that started out with 11 co-founders has been overhauled to remain two where one of these two is on a sabbatical. "Much of that change has come in the wake of Altman''s brief ouster by OpenAI''s board last November." These changes have made Sam Altman, "OpenAI''s chief executive officer and the lone remaining member of that brain trust", to establish himself as a force to be reckoned with at the company.' /* notes */
+)
+,(
+	'https://africa.businessinsider.com/news/openai-has-2-years-to-transition-to-a-for-profit-company-here-are-6-key-things-it/9rxctem', /* url */
+	'OpenAI has 2 years to transition to a for-profit company. Here are 6 key things it will need to do in that time.', /* title */
+	'2024-09-29', /* publication_date */
+	NULL /* modified_date */
+	'Lakshmi Varanasi', /* author */
+	'Business Insider Africa', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'As OpenAI transitions to a for-profit organization, the author explains six of the complex steps the company needs to take within two years, including asset conversion, equity distribution, Altman''s stake, governance structure changes, and addressing ongoing litigation.' /* notes */
 );
