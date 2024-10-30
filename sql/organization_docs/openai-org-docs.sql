@@ -637,4 +637,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization',  /* document_scope */
 	'AI Safety', /* cause_area */
 	'"OpenAI started as a nonprofit lab and later grew a for-profit subsidiary, OpenAI LP. The for-profit arm can raise funds to build artificial general intelligence (AGI), but the nonprofit’s mission is to ensure AGI benefits humanity.""As Leike hinted at with his goodbye message to OpenAI about “shiny products,” turning the research lab into a for-profit company puts many of its long-term employees in an awkward spot. Many likely joined to focus on AI research, not to build and sell products. And while OpenAI is still a nonprofit, it’s not hard to guess how a profit-focused version would work." This transition has taken a toll on OpenAI''s safety policy as the company now focuses "on fast launches over cautious ones".' /* notes */
+)
+,(
+	'https://www.bloomberg.com/news/newsletters/2024-09-26/sam-altman-tightens-grip-on-openai-nearly-a-year-after-ouster', /* url */
+	'Sam Altman Tightens Grip on OpenAI Nearly a Year After Ouster', /* title */
+	'2024-09-26', /* publication_date */
+	NULL /* modified_date */
+	'Shirin Ghaffary', /* author */
+	'Bloomberg', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Ilya Sutskever|Greg Brockman|Mira Murati' /* affected_people */
+	'Third-party commentary on organization',  /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI, a company that started out with 11 co-founders has been overhauled to remain two where one of these two is on a sabbatical. "Much of that change has come in the wake of Altman''s brief ouster by OpenAI''s board last November." These changes have made Sam Altman, "OpenAI''s chief executive officer and the lone remaining member of that brain trust", to establish himself as a force to be reckoned with at the company.' /* notes */
 );
