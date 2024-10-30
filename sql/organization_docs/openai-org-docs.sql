@@ -624,4 +624,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety',  /* cause_area */
 	'In this post, William Saunders expresses his concerns that OpenAI''s switch to a for-profit company could make it compromise safety measures. He contends that "If the non-profit board is no longer in control of these decisions and Sam Altman holds a significant equity stake, this creates more incentive to race and cut corners."' /* notes */
+)
+,(
+	'https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus', /* url */
+	'OpenAI was a research lab — now it’s just another tech company', /* title */
+	'2024-09-27', /* publication_date */
+	'2024-09-28', /* modified_date */
+	'Kylie Robison', /* author */
+	'The Verge', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Jan Leike' /* affected_people */
+	'Third-party commentary on organization',  /* document_scope */
+	'AI Safety', /* cause_area */
+	'"OpenAI started as a nonprofit lab and later grew a for-profit subsidiary, OpenAI LP. The for-profit arm can raise funds to build artificial general intelligence (AGI), but the nonprofit’s mission is to ensure AGI benefits humanity.""As Leike hinted at with his goodbye message to OpenAI about “shiny products,” turning the research lab into a for-profit company puts many of its long-term employees in an awkward spot. Many likely joined to focus on AI research, not to build and sell products. And while OpenAI is still a nonprofit, it’s not hard to guess how a profit-focused version would work." This transition has taken a toll on OpenAI''s safety policy as the company now focuses "on fast launches over cautious ones".' /* notes */
 );
