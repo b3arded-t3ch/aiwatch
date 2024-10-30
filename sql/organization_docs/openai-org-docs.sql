@@ -663,4 +663,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'As OpenAI transitions to a for-profit organization, the author explains six of the complex steps the company needs to take within two years, including asset conversion, equity distribution, Altman''s stake, governance structure changes, and addressing ongoing litigation.' /* notes */
+)
+,(
+	'https://www.bloomberg.com/opinion/articles/2024-09-29/sam-altman-openai-changes-shatter-silicon-valley-s-mission-myth', /* url */
+	'OpenAI is shattering Big Tech''s promises of a better world', /* title */
+	'2024-09-29', /* publication_date */
+	NULL  /* modified_date */
+	'Parmy Olson', /* author */
+	'Bloomberg', /* publisher */
+	'OpenAI|Google|Meta|Twitter', /* affected_organizations */
+	'Sam Altman|Ilya Sutskever|Elon musk' /* affected_people */
+	'Third-party commentary on organization',  /* document_scope */
+	'Various', /* cause_area */
+'The author concludes that OpenAI''s transition from a nonprofit research lab to a for-profit organization demonstrates the dishonesty often underlying the stated goals and missions of companies in the tech industry. The article accuses OpenAI, as well as others like Twitter and Google, of being economical with the truth with their missions as they usually later prioritize profits over their initial missions of "changing the world", as is now evident in OpenAI''s metamorphosis.' /* notes */
 );
