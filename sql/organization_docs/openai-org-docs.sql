@@ -676,4 +676,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization',  /* document_scope */
 	'Various', /* cause_area */
 'The author concludes that OpenAI''s transition from a nonprofit research lab to a for-profit organization demonstrates the dishonesty often underlying the stated goals and missions of companies in the tech industry. The article accuses OpenAI, as well as others like Twitter and Google, of being economical with the truth with their missions as they usually later prioritize profits over their initial missions of "changing the world", as is now evident in OpenAI''s metamorphosis.' /* notes */
+)
+,(
+	'https://finance.yahoo.com/video/apple-pulls-openai-funding-round-151248687.html', /* url */
+	'Apple pulls out of OpenAI funding round: WSJ',  /* title */
+	'2024-09-30', /* publication_date */
+	NULL /* modified_date */
+	'Seana Smith|Madison Mills',  /* author */
+	'yahoo!finance',  /* publisher */
+	'OpenAI|Nvidia|Microsoft', /* affected_organizations */
+	NULL  /* affected_people */
+	'Third-party commentary on organization',  /* document_scope */
+	'Various', /* cause_area */
+	'According to the authors, OpenAI withdraws from the next round of funding of $6.5 billion for OpenAI. Although there hasn''t been a solid reason for this backout from either OpenAI or Apple, Seana Smith opines that "this is not surprising giving that Apple does not have a history of investing in companies within silicon valley". Meanwhile, "Some speculate that the company may have concerns about potential conflicts of interest or may be prioritizing other AI initiatives. Others suggest that the terms of the deal, including valuation and governance, may not have aligned with Apple''s strategic objectives". However, there are those https://www.theverge.com/2024/9/27/24256518/apple-pulls-out-of-latest-openai-funding-round#:~:text=1%20month%20ago-,Mark%20my%20words%2C%20Apple%20did%20not%20invest%20because%20it%20plans%20to,1%20month%20ago,-Tim%20smelled%20a who think Sam''s dishonesty might be the reason.' /* notes */
 );
