@@ -581,7 +581,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Dan Milmo', /* author */
 	'The Guardian', /* publisher */
 	'OpenAI', /* affected_organizations */
-	NULL  /* affected_people */
+	NULL, /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Meanwhile, Dan Milmo provides possible explanation to the rationale behind OpenAI''s decision to overhaul its corporate structure and become a for-profit business saying that "developing powerful AI systems is expensive and OpenAI could be heading for a loss of as much as $5bn this year. It therefore needs more investment. The startup is in talks to raise $6.5bn from investors and removing any restriction on profits would be an extra incentive for the would-be backers engaged in talks. Potential investors include the tech company Apple and the chipmaker Nvidia."' /* notes */
@@ -603,7 +603,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.vox.com/future-perfect/374275/openai-just-sold-you-out', /* url */
 	'OpenAI as we knew it is dead', /* title */
 	'2024-09-26', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Sigal Samuel', /* author */
 	'Vox', /* publisher */
 	'OpenAI', /* affected_organizations */
@@ -616,7 +616,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.theguardian.com/technology/2024/sep/27/openai-shift-to-for-profit-company-may-lead-it-to-cut-corners-says-whistleblower', /* url */
 	'OpenAI shift to for-profit company may lead it to cut corners, says whistleblower', /* title */
 	'2024-09-27', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Dan Milmo', /* author */
 	'The Guardian', /* publisher */
 	'OpenAI', /* affected_organizations */
@@ -642,7 +642,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.bloomberg.com/news/newsletters/2024-09-26/sam-altman-tightens-grip-on-openai-nearly-a-year-after-ouster', /* url */
 	'Sam Altman Tightens Grip on OpenAI Nearly a Year After Ouster', /* title */
 	'2024-09-26', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Shirin Ghaffary', /* author */
 	'Bloomberg', /* publisher */
 	'OpenAI', /* affected_organizations */
@@ -655,7 +655,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://africa.businessinsider.com/news/openai-has-2-years-to-transition-to-a-for-profit-company-here-are-6-key-things-it/9rxctem', /* url */
 	'OpenAI has 2 years to transition to a for-profit company. Here are 6 key things it will need to do in that time.', /* title */
 	'2024-09-29', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Lakshmi Varanasi', /* author */
 	'Business Insider Africa', /* publisher */
 	'OpenAI', /* affected_organizations */
@@ -668,7 +668,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.bloomberg.com/opinion/articles/2024-09-29/sam-altman-openai-changes-shatter-silicon-valley-s-mission-myth', /* url */
 	'OpenAI is shattering Big Tech''s promises of a better world', /* title */
 	'2024-09-29', /* publication_date */
-	NULL  /* modified_date */
+	NULL, /* modified_date */
 	'Parmy Olson', /* author */
 	'Bloomberg', /* publisher */
 	'OpenAI|Google|Meta|Twitter', /* affected_organizations */
@@ -681,12 +681,25 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://finance.yahoo.com/video/apple-pulls-openai-funding-round-151248687.html', /* url */
 	'Apple pulls out of OpenAI funding round: WSJ',  /* title */
 	'2024-09-30', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Seana Smith|Madison Mills',  /* author */
 	'yahoo!finance',  /* publisher */
 	'OpenAI|Nvidia|Microsoft', /* affected_organizations */
-	NULL  /* affected_people */
+	NULL, /* affected_people */
 	'Third-party commentary on organization',  /* document_scope */
 	'Various', /* cause_area */
 	'According to the authors, OpenAI withdraws from the next round of funding of $6.5 billion for OpenAI. Although there hasn''t been a solid reason for this backout from either OpenAI or Apple, Seana Smith opines that "this is not surprising giving that Apple does not have a history of investing in companies within silicon valley". Meanwhile, "Some speculate that the company may have concerns about potential conflicts of interest or may be prioritizing other AI initiatives. Others suggest that the terms of the deal, including valuation and governance, may not have aligned with Apple''s strategic objectives". However, there are those https://www.theverge.com/2024/9/27/24256518/apple-pulls-out-of-latest-openai-funding-round#:~:text=1%20month%20ago-,Mark%20my%20words%2C%20Apple%20did%20not%20invest%20because%20it%20plans%20to,1%20month%20ago,-Tim%20smelled%20a who think Sam''s dishonesty might be the reason.' /* notes */
+)
+,(
+	'https://www.pymnts.com/artificial-intelligence-2/2024/openais-shift-to-for-profit-model-stirs-debate-on-ai-innovation-and-competition/', /* url */
+	'OpenAI’s Shift to For-Profit Model Changes the Game for AI Competition', /* title */
+	'2024-09-30',  /* publication_date */
+	NULL, /* modified_date */
+	'PYMNTS', /* author */
+	'PYMNTS', /* publisher */
+	'OpenAI|Apple|Microsoft', /* affected_organizations */
+	'John Russo|Kaveh Vahdat|Yashin Manraj', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI', /* cause_area */
+	'According to PYMNTS, OpenAI''s transition to a for-profit structure is expected to catalyze significant developments in the AI industry, including strategic collaborations with major tech companies and accelerated innovation in AI development and deployment.'  /* notes */
 );
