@@ -702,4 +702,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI', /* cause_area */
 	'According to PYMNTS, OpenAI''s transition to a for-profit structure is expected to catalyze significant developments in the AI industry, including strategic collaborations with major tech companies and accelerated innovation in AI development and deployment.'  /* notes */
+)
+,(
+	'https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion', /* url */
+	'OpenAI just raised $6.6 billion to build ever-larger AI models',  /* title */
+	'2024-10-02', /* publication_date */
+	NULL /* modified_date */
+	'Kylie Robison,', /* author */
+	'The Verge', /* publisher */
+	'OpenAI|Thrive Capital|Anthropic|xAI', /* affected_organizations */
+	'Dario Amodei' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI| AI Safety', /* cause_area */
+	'In a move to become for-profit organization, the author confirms that OpenAI has just closed a funding round of $6.6 billion "to continue pursuing its mission to build artificial-general intelligence". However, many comment https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion?showComments=1 and regard this as wasteful as, according to the them, the money could have been channelled to solve other world''s problem like hunger.' /* notes */
 );
+
