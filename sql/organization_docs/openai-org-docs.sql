@@ -727,19 +727,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sarah Friar' /* affected_people */
 	'Organizational growth introspection', /* document_scope */
 	'AI|AI Safety', /* cause_area */
-	'In an interview with CNBC, Sarah Friar, the CFO of OpenAI, hints at the rationale behind the company''s transition to a for-profit organization. Friar said that OpenAI wants to become a "traditional company", and that transitioning to a for-profit model will ensure the company continues to receive investment and maintain sustainability.' /* notes */
+	'In a podcast interview with CNBC at 08:00 timestamp, Sarah Friar, the CFO of OpenAI, hints at the rationale behind the company''s transition to a for-profit organization. Friar said that OpenAI wants to become a "traditional company", and that transitioning to a for-profit model will ensure the company continues to receive investment and maintain sustainability.' /* notes */
 )
 ,(
 	'https://www.cnbc.com/video/2024/10/03/watch-cnbcs-full-extended-interview-with-openai-cfo-sarah-friar.html', /* url */
-'Watch CNBC’s full extended interview with OpenAI CFO Sarah Friar', /* title */
-'2024-10-03', /* publication_date */
-NULL /* modified_date */
-'CNBC', /* author */
-'CNBC', /* publisher */
-'OpenAI', /* affected_organizations */
-'Sarah Friar' /* affected_people */
-'Hiring-related notice', /* document_scope */
-'AI|AI Safety', /* cause_area */
-'In a CNBC podcast interview at the 24:32 mark, OpenAI CFO Sarah Friar discussed the company''s unique advantages in recruiting top talent. Friar stated that when people come to work at OpenAI, they are able to focus on what they love most - AI. She also noted that OpenAI''s current high level of funding, as well as its status as an early-stage startup, make the company an enticing opportunity for prospective employees.' /* notes */
+	'Watch CNBC’s full extended interview with OpenAI CFO Sarah Friar', /* title */
+	'2024-10-03', /* publication_date */
+	NULL /* modified_date */
+	'CNBC', /* author */
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sarah Friar' /* affected_people */
+	'Hiring-related notice', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'In a CNBC podcast interview at the 24:32 mark, OpenAI CFO Sarah Friar discussed the company''s unique advantages in recruiting top talent. Friar stated that when people come to work at OpenAI, they are able to focus on what they love most - AI. She also noted that OpenAI''s current high level of funding, as well as its status as an early-stage startup, make the company an enticing opportunity for prospective employees.' /* notes */
 );
-
