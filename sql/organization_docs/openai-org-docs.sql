@@ -708,12 +708,24 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'OpenAI just raised $6.6 billion to build ever-larger AI models',  /* title */
 	'2024-10-02', /* publication_date */
 	NULL /* modified_date */
-	'Kylie Robison,', /* author */
+	'Kylie Robison', /* author */
 	'The Verge', /* publisher */
 	'OpenAI|Thrive Capital|Anthropic|xAI', /* affected_organizations */
 	'Dario Amodei' /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI| AI Safety', /* cause_area */
 	'In a move to become for-profit organization, the author confirms that OpenAI has just closed a funding round of $6.6 billion "to continue pursuing its mission to build artificial-general intelligence". However, many comment https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion?showComments=1 and regard this as wasteful as, according to the them, the money could have been channelled to solve other world''s problem like hunger.' /* notes */
+)
+,(
+	'https://www.cnbc.com/video/2024/10/03/watch-cnbcs-full-extended-interview-with-openai-cfo-sarah-friar.html', /* url */
+	'Watch CNBC''s full extended interview with OpenAI CFO Sarah Friar',  /* title */
+	'2024-10-03', /* publication_date */
+	NULL /* modified_date */
+	'CNBC', /* author */
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sarah Friar' /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'In an interview with CNBC, Sarah Friar, the CFO of OpenAI, hints at the rationale behind the company''s transition to a for-profit organization. Friar said that OpenAI wants to become a "traditional company", and that transitioning to a for-profit model will ensure the company continues to receive investment and maintain sustainability.' /* notes */
 );
-
