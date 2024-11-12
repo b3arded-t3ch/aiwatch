@@ -745,7 +745,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 ,(
 	'https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEOkV9dKLZLeyZsur5x43aSSv6GAhFUefh037IqvTA6xW4qzVQ_PAT-EWNwopEiHa7zp1SnxEDzQa0-YThrsD3Aq-cTQUYTlBcGJ0qTKFLQHP-pwTfg_sIjy8mY1xNzjUxMfF7e2d1phCZhS6s1gEiDa_lCjwisIkXHqBq-CR5jK', /* url */
 	'A co-lead on Sora, OpenAI’s video generator, has left for Google', /* title */
-	'2024-10-03',  /* publication_date */
+	'2024-10-03', /* publication_date */
 	NULL /* modified_date */
 	'Kyle Wiggers', /* author */
 	'TechCrunch', /* publisher */
@@ -754,4 +754,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Employee departure', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'The article shares another exit news in OpenAI. Tim Brooks, who was heading the development of Sora, OpenAI''s AI-Video generator, with William Peebles announces his departure in a twitter post https://x.com/_tim_brooks/status/1841982327431561528. Although, the rationale behind his departure was not specifically mentioned, the author explains that his departure "comes as Sora, which has yet to be released, reportedly suffers from technical setbacks that position it poorly against rival systems from Luma, Runway, and others."' /* notes */
+)
+,(
+	'https://www.ft.com/content/8f192751-598c-4b92-ab8d-c1d368fdfb36', /* url */
+	'OpenAI is right to abandon non-profit status', /* title */
+	'2024-10-06', /* publication_date */
+	NULL /* modified_date */
+	'Nathan Benaich ', /* author */
+	'Financial Times', /* publisher */
+	'OpenAI|Google|Anthropic|xAI|Microsoft', /* affected_organizations */
+	'Brad Smith|Mark Zuckerberg|Sam Altman' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author explains that frontier AI labs like OpenAI are often challenged with balancing their safety/ethics mission with the financial realities of funding such ambitious research. He thus mentions that "there is no inherent conflict between running a straightforward for-profit company and building safe, robust technology."' /* notes */
 );
