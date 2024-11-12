@@ -741,4 +741,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Hiring-related notice', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'In a CNBC podcast interview at the 24:32 mark, OpenAI CFO Sarah Friar discussed the company''s unique advantages in recruiting top talent. Friar stated that when people come to work at OpenAI, they are able to focus on what they love most - AI. She also noted that OpenAI''s current high level of funding, as well as its status as an early-stage startup, make the company an enticing opportunity for prospective employees.' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEOkV9dKLZLeyZsur5x43aSSv6GAhFUefh037IqvTA6xW4qzVQ_PAT-EWNwopEiHa7zp1SnxEDzQa0-YThrsD3Aq-cTQUYTlBcGJ0qTKFLQHP-pwTfg_sIjy8mY1xNzjUxMfF7e2d1phCZhS6s1gEiDa_lCjwisIkXHqBq-CR5jK', /* url */
+	'A co-lead on Sora, OpenAI’s video generator, has left for Google', /* title */
+	'2024-10-03',  /* publication_date */
+	NULL /* modified_date */
+	'Kyle Wiggers', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI|Google', /* affected_organizations */
+	'Tim Brooks|William Peebles' /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'The article shares another exit news in OpenAI. Tim Brooks, who was heading the development of Sora, OpenAI''s AI-Video generator, with William Peebles announces his departure in a twitter post https://x.com/_tim_brooks/status/1841982327431561528. Although, the rationale behind his departure was not specifically mentioned, the author explains that his departure "comes as Sora, which has yet to be released, reportedly suffers from technical setbacks that position it poorly against rival systems from Luma, Runway, and others."' /* notes */
 );
