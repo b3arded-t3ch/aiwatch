@@ -707,7 +707,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion', /* url */
 	'OpenAI just raised $6.6 billion to build ever-larger AI models',  /* title */
 	'2024-10-02', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Kylie Robison', /* author */
 	'The Verge', /* publisher */
 	'OpenAI|Thrive Capital|Anthropic|xAI', /* affected_organizations */
@@ -720,7 +720,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.cnbc.com/video/2024/10/03/watch-cnbcs-full-extended-interview-with-openai-cfo-sarah-friar.html', /* url */
 	'Watch CNBC''s full extended interview with OpenAI CFO Sarah Friar',  /* title */
 	'2024-10-03', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'CNBC', /* author */
 	'CNBC', /* publisher */
 	'OpenAI', /* affected_organizations */
@@ -733,7 +733,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.cnbc.com/video/2024/10/03/watch-cnbcs-full-extended-interview-with-openai-cfo-sarah-friar.html', /* url */
 	'Watch CNBC’s full extended interview with OpenAI CFO Sarah Friar', /* title */
 	'2024-10-03', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'CNBC', /* author */
 	'CNBC', /* publisher */
 	'OpenAI', /* affected_organizations */
@@ -746,7 +746,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEOkV9dKLZLeyZsur5x43aSSv6GAhFUefh037IqvTA6xW4qzVQ_PAT-EWNwopEiHa7zp1SnxEDzQa0-YThrsD3Aq-cTQUYTlBcGJ0qTKFLQHP-pwTfg_sIjy8mY1xNzjUxMfF7e2d1phCZhS6s1gEiDa_lCjwisIkXHqBq-CR5jK', /* url */
 	'A co-lead on Sora, OpenAI’s video generator, has left for Google', /* title */
 	'2024-10-03', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Kyle Wiggers', /* author */
 	'TechCrunch', /* publisher */
 	'OpenAI|Google', /* affected_organizations */
@@ -759,7 +759,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'https://www.ft.com/content/8f192751-598c-4b92-ab8d-c1d368fdfb36', /* url */
 	'OpenAI is right to abandon non-profit status', /* title */
 	'2024-10-06', /* publication_date */
-	NULL /* modified_date */
+	NULL, /* modified_date */
 	'Nathan Benaich ', /* author */
 	'Financial Times', /* publisher */
 	'OpenAI|Google|Anthropic|xAI|Microsoft', /* affected_organizations */
@@ -767,4 +767,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author explains that frontier AI labs like OpenAI are often challenged with balancing their safety/ethics mission with the financial realities of funding such ambitious research. He thus mentions that "there is no inherent conflict between running a straightforward for-profit company and building safe, robust technology."' /* notes */
+)
+,(
+	'https://africa.businessinsider.com/news/ai-expert-gary-marcus-thinks-openai-will-be-the-most-orwellian-company-of-all-time/96jsbf4', /* url */
+	'AI expert Gary Marcus thinks OpenAI will be the most Orwellian company of all time',  /* title */
+	'2024-10-07', /* publication_date */
+	NULL, /* modified_date */
+	'Lakshmi Varanasi', /* author */
+	'Business Insider Africa', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Gary Marcus' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the author, Gary Marcus describes OpenAI as "Orwellian" as it "is on the cusp of turning what Orwell imagined into reality." In George Orwell''s 1984 book, he alerts its readers to the dangers of mass surveillance. Gary Marcus posits that OpenAI is probably going to become the most Orwellian company of all time as it would be pressed to become a surveillance company. As such, he advises all employees of OpenAI to voice their concerns and say, "I don''t want to be part of this."' /* notes */
 );
