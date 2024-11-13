@@ -802,7 +802,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sally Ward-Foxton', /* author */
 	'EETimes', /* publisher */
 	'OpenAI', /* affected_organizations */
-	'Sam Altman|Andrej Karpathy|Ilya Sutskever|Dario Amodei' /* affected_people */
+	'Sam Altman|Andrej Karpathy|Ilya Sutskever|Dario Amodei', /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In reaction to the brain drain at OpenAI, the author questions if safety could be responsible for the latest round of executive departures.'/* notes */
