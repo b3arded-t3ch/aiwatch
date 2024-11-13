@@ -793,4 +793,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In an interview with Ark Invest''s Cathie Wood, Cathie explains that the recent leadership shake-ups within OpenAI is typical of "companies that are growing very quickly from startup into scaling."' /* notes */
+)
+,(
+	'https://www.eetimes.com/a-week-is-a-long-time-at-openai/', /* url */
+	'A Week Is a Long Time at OpenAI', /* title */
+	'2024-10-07', /* publication_date */
+	NULL, /* modified_date */
+	'Sally Ward-Foxton', /* author */
+	'EETimes', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Andrej Karpathy|Ilya Sutskever|Dario Amodei' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In reaction to the brain drain at OpenAI, the author questions if safety could be responsible for the latest round of executive departures.'/* notes */
 );
