@@ -806,4 +806,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In reaction to the brain drain at OpenAI, the author questions if safety could be responsible for the latest round of executive departures.'/* notes */
+)
+,(
+	'https://sherwood.news/tech/openai-stock-compensation-making-employees-rich/', /* url */
+	'OpenAI is in the business of making OpenAI employees rich', /* title */
+	'2024-10-10', /* publication_date */
+	NULL, /* modified_date */
+	'Jack Raines', /* author */
+	'Sherwood', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Between November 2023 and November 2024, the employee base of OpenAI increased from 770 to 3,726 making it one of the largest AI employers. According to the author, an average employee of OpenAI earned between $400,000 and $2,000,000 in stock-based compensation within that period.' /* notes */
 );
