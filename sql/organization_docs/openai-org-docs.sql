@@ -819,4 +819,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Between November 2023 and November 2024, the employee base of OpenAI increased from 770 to 3,726 making it one of the largest AI employers. According to the author, an average employee of OpenAI earned between $400,000 and $2,000,000 in stock-based compensation within that period.' /* notes */
+)
+,(
+	'https://www.nytimes.com/2024/10/14/opinion/open-ai-chatgpt-investors.html#', /* url */
+	'OpenAI Could Be a Force for Good if It Can Address These Issues First', /* title */
+	'2024-10-14', /* publication_date */
+	NULL, /* modified_date */
+	'Andrew Kassoy', /* author */
+	'The New York Times', /* publisher */
+	'OpenAI|Anthropic|The Guardian|Patagonia', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author offers practical insight into how OpenAI can exist as a for-profit business without shying away or being distracted from it founding purpose. He explains that "one way to protect and balance these competing interests is through a trust with special decision-making rights." He mentions The Guardian, Anthropic and Patagonia who all use this method to ensure their commitments and purpose are not compromised in the race for profit.' /* notes */
 );
