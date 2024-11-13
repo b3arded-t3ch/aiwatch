@@ -780,4 +780,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the author, Gary Marcus describes OpenAI as "Orwellian" as it "is on the cusp of turning what Orwell imagined into reality." In George Orwell''s 1984 book, he alerts its readers to the dangers of mass surveillance. Gary Marcus posits that OpenAI is probably going to become the most Orwellian company of all time as it would be pressed to become a surveillance company. As such, he advises all employees of OpenAI to voice their concerns and say, "I don''t want to be part of this."' /* notes */
+)
+,(
+	'https://finance.yahoo.com/video/why-cathie-wood-isnt-worried-190000115.html', /* url */
+	'Why Cathie Wood isn''t worried about the OpenAI leadership shake-up', /* title */
+	'2024-10-06', /* publication_date */
+	NULL, /* modified_date */
+	'Josh Lipton', /* author */
+	'Yahoo!finance', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Cathie Wood|Sarah Friar' /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In an interview with Ark Invest''s Cathie Wood, Cathie explains that the recent leadership shake-ups within OpenAI is typical of "companies that are growing very quickly from startup into scaling."' /* notes */
 );
