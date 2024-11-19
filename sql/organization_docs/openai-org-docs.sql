@@ -845,4 +845,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the author, the potential dangers pose by AI could get worse if "OpenAI, an industry leader, begins to focus more on earning profits than ensuring AI''s safety"' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/10/15/former-palantir-ciso-dane-stuckey-joins-openai-to-lead-security/', /* url */
+	'Former Palantir CISO Dane Stuckey joins OpenAI to lead security', /* title */
+	'2024-10-15', /* publication_date */
+	NULL, /* modified_date */
+	'Kyle Wiggers', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI|Palantir', /* affected_organizations */
+	'Dane Stuckey|Matt Knight', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The blog post announces that Dane Stuckey has joined OpenAI as its Chief Information Security Officer (CISO). Before joining OpenAI, Stuckey held various roles in digital forensics, incident detection and response, and security program development across the commercial, government, and intelligence sectors. Most recently, he served as the CISO at Palantir, a position he held since 2014. This appointment follows Matt Knight''s promotion to the same role in September.' /* notes */
 );
