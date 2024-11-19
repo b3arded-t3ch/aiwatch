@@ -832,4 +832,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author offers practical insight into how OpenAI can exist as a for-profit business without shying away or being distracted from it founding purpose. He explains that "one way to protect and balance these competing interests is through a trust with special decision-making rights." He mentions The Guardian, Anthropic and Patagonia who all use this method to ensure their commitments and purpose are not compromised in the race for profit.' /* notes */
+)
+,(
+	'https://theconversation.com/as-openai-attracts-billions-in-new-investment-its-goal-of-balancing-profit-with-purpose-is-getting-more-challenging-to-pull-off-240602', /* url */
+	'As OpenAI attracts billions in new investment, its goal of balancing profit with purpose is getting more challenging to pull off', /* title */
+	'2024-10-14', /* publication_date */
+	NULL, /* modified_date */
+	'Alnoor Ebrahim', /* author */
+	'The Conversation', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the author, the potential dangers pose by AI could get worse if "OpenAI, an industry leader, begins to focus more on earning profits than ensuring AI''s safety"' /* notes */
 );
