@@ -871,4 +871,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Organizational growth introspection', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In an interview with Patrick Chung, Sam dispels a common misconception people have about OpenAI. According to him, he says many people assume OpenAI''s progress is nearing the end of its rapid growth phase and is about to plateau or slow down. However, OpenAI''s progress will remain rapid and transformative for the foreseeable future.' /* notes */
+)
+,(
+	'https://www.bigtechnology.com/p/four-truths-about-openais-wild-financial?utm_source=post-email-title&publication_id=46510&post_id=150410990&utm_campaign=email-post-title&isFreemail=true&r=2nka72&triedRedirect=true', /* url */
+	'4 Truths About OpenAI’s Wild Financial Position', /* title */
+	'2024-10-18', /* publication_date */
+	NULL, /* modified_date */
+	'Alex Kantrowitz', /* author */
+	'Big Technology', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this aticle, the author explains what OpenAI''s financial projections as published by the The Information https://www.theinformation.com/articles/openai-projections-imply-losses-tripling-to-14-billion-in-2026?rc=meqwnx mean to the company and the broader AI industry.' /* notes */
 );
