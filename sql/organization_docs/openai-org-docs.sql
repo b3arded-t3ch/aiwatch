@@ -857,5 +857,5 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Dane Stuckey|Matt Knight', /* affected_people */
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
-	'The blog post announces that Dane Stuckey has joined OpenAI as its Chief Information Security Officer (CISO). Before joining OpenAI, Stuckey held various roles in digital forensics, incident detection and response, and security program development across the commercial, government, and intelligence sectors. Most recently, he served as the CISO at Palantir, a position he held since 2014. This appointment follows Matt Knight''s promotion to the same role in September.' /* notes */
+	'The blog post announces that Dane Stuckey has joined OpenAI as its Chief Information Security Officer (CISO). Before joining OpenAI, Stuckey held various roles in digital forensics, incident detection and response, and security program development across the commercial, government, and intelligence sectors. Most recently, he served as the CISO at Palantir, a position he held since 2014. This appointment follows Matt Knight''s promotion to the same role in September. https://www.livemint.com/companies/news/who-is-dane-stuckey-openai-new-security-executive-sam-altman-matt-knight-company-palantir-us-ai-technology-business-news-11729046001533.html' /* notes */
 );
