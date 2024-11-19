@@ -859,3 +859,16 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'AI Safety', /* cause_area */
 	'The blog post announces that Dane Stuckey has joined OpenAI as its Chief Information Security Officer (CISO). Before joining OpenAI, Stuckey held various roles in digital forensics, incident detection and response, and security program development across the commercial, government, and intelligence sectors. Most recently, he served as the CISO at Palantir, a position he held since 2014. This appointment follows Matt Knight''s promotion to the same role in September. https://www.livemint.com/companies/news/who-is-dane-stuckey-openai-new-security-executive-sam-altman-matt-knight-company-palantir-us-ai-technology-business-news-11729046001533.html' /* notes */
 );
+,(
+	'https://www.youtube.com/watch?v=FVRHTWWEIz4&t=1867s', /* url */
+	'A fireside chat with Sam Altman OpenAI CEO at Harvard University', /* title */
+	'2024-05-01', /* publication_date */
+	NULL, /* modified_date */
+	'Harvard Business School', /* author */
+	'YouTube', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Patrick Chung', /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In an interview with Patrick Chung, Sam dispels a common misconception people have about OpenAI. According to him, he says many people assume OpenAI''s progress is nearing the end of its rapid growth phase and is about to plateau or slow down. However, OpenAI''s progress will remain rapid and transformative for the foreseeable future.' /* notes */
+);
