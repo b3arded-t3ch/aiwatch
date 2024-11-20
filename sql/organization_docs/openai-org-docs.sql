@@ -910,4 +910,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Dr. Ronnie Chatterji who has taught at Duke University for 20 years gets appointed as OpenAI''s first chief economist. In this role, he will lead researches on AI innovations that may impact global economy while ensuring "its benefits are widely distributed."' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/10/23/longtime-policy-researcher-miles-brundage-leaves-openai/', /* url */
+	'Longtime policy researcher Miles Brundage leaves OpenAI', /* title */
+	'2024-10-23', /* publication_date */
+	NULL, /* modified_date */
+	'Kyle Wiggers', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Miles Brundage|Suchir Balaji', /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In what appears to be a growing trend, Miles Brundage, a senior adviser to OpenAI''s AGI readiness team, has announced his departure from the company. While Brundage stated that his decision stems from a personal desire to pursue research in the nonprofit sector, Suchir Balaji says "he left the company because he no longer wanted to contribute to technologies he believed would bring society more harm than good."' /* notes */
 );
