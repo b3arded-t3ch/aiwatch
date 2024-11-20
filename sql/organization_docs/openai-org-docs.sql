@@ -923,4 +923,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In what appears to be a growing trend, Miles Brundage, a senior adviser to OpenAI''s AGI readiness team, has announced his departure from the company. While Brundage stated that his decision stems from a personal desire to pursue research in the nonprofit sector, Suchir Balaji says "he left the company because he no longer wanted to contribute to technologies he believed would bring society more harm than good."' /* notes */
+)
+,(
+	'https://www.nytimes.com/2024/10/23/technology/openai-copyright-law.html', /* url */
+	'Former OpenAI Researcher Says the Company Broke Copyright Law', /* title */
+	'2024-10-23', /* publication_date */
+	NULL, /* modified_date */
+	'Cade Metz', /* author */
+	'The New York Times', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Suchir Balaji', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Suchir Balaji, who used to be OpenAI''s AI researcher left the company in August saying he no longer wanted to be known with technologies that have tendencies of bringing more harm than benefit to the society. He concludes that OpenAI''s use of copyrighted data violated the law and that technologies like ChatGPT were damaging the internet.' /* notes */
 );
