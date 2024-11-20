@@ -894,7 +894,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Marketing Artificial Intelligence Institute', /* publisher */
 	'OpenAI|Microsoft', /* affected_organizations */
 	'Sam Altman', /* affected_people */
-	'Third-party commentary', /* document_scope */
+	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the blog post, after Sam Altman was briefly ousted last November, Microsoft started reconsidering its approach to further investing in the company. Now, OpenAI is seeking additional funds and computing resources from Microsoft. However, the blog posts reports that Microsoft is apparently hesitant to increasing that commitment. This led OpenAI to explore other sources for its funding. "In response, OpenAI has been reportedly attempting to renegotiate or restructure the deal it has in place with Microsoft to gain more leverage over the tech giant." The author opines that this complex relationship could accelerate the development of AGI.' /* notes */
 );
