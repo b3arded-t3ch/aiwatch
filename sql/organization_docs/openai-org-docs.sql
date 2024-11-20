@@ -897,4 +897,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the blog post, after Sam Altman was briefly ousted last November, Microsoft started reconsidering its approach to further investing in the company. Now, OpenAI is seeking additional funds and computing resources from Microsoft. However, the blog posts reports that Microsoft is apparently hesitant to increasing that commitment. This led OpenAI to explore other sources for its funding. "In response, OpenAI has been reportedly attempting to renegotiate or restructure the deal it has in place with Microsoft to gain more leverage over the tech giant." The author opines that this complex relationship could accelerate the development of AGI.' /* notes */
+)
+,(
+	'https://openai.com/global-affairs/openai-chief-economist-announcement/', /* url */
+	'Dr. Ronnie Chatterji named OpenAI’s first Chief Economist', /* title */
+	'2024-10-22', /* publication_date */
+	NULL, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Dr. Ronnie Chatterji', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Dr. Ronnie Chatterji who has taught at Duke University for 20 years gets appointed as OpenAI''s first chief economist. In this role, he will lead researches on AI innovations that may impact global economy while ensuring "its benefits are widely distributed."' /* notes */
 );
