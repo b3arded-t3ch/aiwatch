@@ -962,4 +962,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author describes the appointment of Aaron Chatterji and Scott Schools as "strategic". The author says OpenAI will benefit from the networks, experiences and past achievements of the duo.' /* notes */
+)
+,(
+	'https://openai.com/global-affairs/openais-approach-to-ai-and-national-security/', /* url */
+	'OpenAI’s approach to AI and national security', /* title */
+	'2024-10-24', /* publication_date */
+	NULL, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'General discussion of organizational practices', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Sequel to the release of a National Security Memorandum (NSM) on Artificial Intelligence by the U.S government outlining what should be its approach to using artificial intelligence (AI) effectively for national security while ensuring that its use is controlled and ethical, OpenAI discusses its stance on national security and AI following a new White House memorandum. They emphasize their commitment to developing AI that supports democratic values, protects human rights, prevents potential harm, and collaborates responsibly with government agencies.' /* notes */
 );
