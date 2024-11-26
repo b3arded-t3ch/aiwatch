@@ -936,4 +936,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Suchir Balaji, who used to be OpenAI''s AI researcher left the company in August saying he no longer wanted to be known with technologies that have tendencies of bringing more harm than benefit to the society. He concludes that OpenAI''s use of copyrighted data violated the law and that technologies like ChatGPT were damaging the internet.' /* notes */
+)
+,(
+	'https://www.techopedia.com/news/openai-hires-former-uber-exec-as-chief-compliance-officer-amid-major-changes', /* url */
+	'OpenAI Hires Former Uber Exec as Chief Compliance Officer Amid Major Changes', /* title */
+	'2024-10-23', /* publication_date */
+	NULL, /* modified_date */
+	'Franklin Okeke', /* author */
+	'Techopedia', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Scott Schools', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the author, as OpenAI continues with its plan of becoming a public benefit corporation, the company has not lost sight of the importance of having AI regulatory compliance and ethical AI development drive under control. As such, the appointment of School as its chief compliance officer is to ensure all its efforts and step up plans align with AI governance frameworks and ethical standards. Meanwhile, Scott Schools, a former chief ethics and compliance officer at Uber, has once served as deputy attorney general at the US Justice Department.' /* notes */
 );
