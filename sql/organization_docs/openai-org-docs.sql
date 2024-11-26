@@ -949,4 +949,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the author, as OpenAI continues with its plan of becoming a public benefit corporation, the company has not lost sight of the importance of having AI regulatory compliance and ethical AI development drive under control. As such, the appointment of School as its chief compliance officer is to ensure all its efforts and step up plans align with AI governance frameworks and ethical standards. Meanwhile, Scott Schools, a former chief ethics and compliance officer at Uber, has once served as deputy attorney general at the US Justice Department.' /* notes */
+)
+,(
+	'https://dig.watch/updates/new-appointments-signal-growth-for-openai', /* url */
+	'New appointments signal growth for OpenAI', /* title */
+	'2024-10-24', /* publication_date */
+	NULL, /* modified_date */
+	'DW Team', /* author */
+	'digwatch', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Aaron Chatterji|Scott Schools', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author describes the appointment of Aaron Chatterji and Scott Schools as "strategic". The author says OpenAI will benefit from the networks, experiences and past achievements of the duo.' /* notes */
 );
