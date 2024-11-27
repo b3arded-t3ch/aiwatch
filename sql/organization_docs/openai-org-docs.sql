@@ -975,4 +975,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'General discussion of organizational practices', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Sequel to the release of a National Security Memorandum (NSM) on Artificial Intelligence by the U.S government outlining what should be its approach to using artificial intelligence (AI) effectively for national security while ensuring that its use is controlled and ethical, OpenAI discusses its stance on national security and AI following a new White House memorandum. They emphasize their commitment to developing AI that supports democratic values, protects human rights, prevents potential harm, and collaborates responsibly with government agencies.' /* notes */
+)
+,(
+	'https://www.theverge.com/2024/10/24/24278694/openai-agi-readiness-miles-brundage-ai-safety', /* url */
+	'Departing OpenAI leader says no company is ready for AGI', /* title */
+	'2024-10-24', /* publication_date */
+	NULL, /* modified_date */
+	'Kylie Robison', /* author */
+	'The Verge', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Miles Brundage', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'After the announcement of his departure, Miles Brundage says, "Neither OpenAI nor any other frontier lab is ready [for AGI], and the world is also not ready. To be clear, I dont think this is a controversial statement among OpenAI''s leadership, and notably, that''s a different question from whether the company and the world are on track to be ready at the relevant time."' /* notes */
 );
