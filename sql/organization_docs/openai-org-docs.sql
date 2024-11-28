@@ -1000,5 +1000,5 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sam Altman|Donald Trump|Kamala Harris|Mark Zuckerberg', /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'Drawing from Altman''s performance at a senate hearing dated May 16, 2023, the authors describe OpenAI as "a lobbying powerhouse". This is on account of his eloquence at addressing all questions thrown at him. According to the authors, Sam was able to convince the senate about the importance of AI while dispelling their initial fear about what AI might do in the world. As a result, he made them embrace AI in a way they never did with social media.' /* notes */
+	'Drawing from Altman''s oratory performance at a senate hearing dated May 16, 2023, the authors describe OpenAI as "a lobbying powerhouse". This is on account of his eloquence at addressing all questions thrown at him. According to the authors, Sam was able to convince the senate about the importance of AI while dispelling their initial fear about what AI might do in the world. As a result, he made them embrace AI in a way they never did with social media.' /* notes */
 );
