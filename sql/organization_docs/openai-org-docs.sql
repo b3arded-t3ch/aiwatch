@@ -995,8 +995,8 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'2024-10-30', /* publication_date */
 	NULL, /* modified_date */
 	'Deirdre Bosa|Jasmine Wu', /* author */
-	'The Verge', /* publisher */
-	'CNBC', /* affected_organizations */
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
 	'Sam Altman|Donald Trump|Kamala Harris|Mark Zuckerberg', /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
