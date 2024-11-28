@@ -1001,4 +1001,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Drawing from Altman''s oratory performance at a senate hearing dated May 16, 2023, the authors describe OpenAI as "a lobbying powerhouse". This is on account of his eloquence at addressing all questions thrown at him. According to the authors, Sam was able to convince the senate about the importance of AI while dispelling their initial fear about what AI might do in the world. As a result, he made them embrace AI in a way they never did with social media.' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/', /* url */
+	'OpenAI has hired the co-founder of Twitter challenger Pebble', /* title */
+	'2024-11-03', /* publication_date */
+	NULL, /* modified_date */
+	'Kyle Wiggers', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Gabor Cselle', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI hires a repeat founder and "seller", Gabor Cselle, to work on a yet undisclosed project. Cselle was the founder of reMail and Namo Media, the two of which were sold out to Google and Twitter respectively. "Nearly a decade ago, Cselle worked at Twitter as a group product manager, focusing on the home timeline, user on-boarding, and logged-out experiences. He left Twitter in 2016 for Google, where he was director at the tech giant’s Area 120 incubator for spinoffs." He is the cofounder of Pebble, a competitor to X' /* notes */
 );
