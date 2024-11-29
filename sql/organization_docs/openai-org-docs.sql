@@ -1014,4 +1014,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI hires a repeat founder and "seller", Gabor Cselle, to work on a yet undisclosed project. Cselle was the founder of reMail and Namo Media, the two of which were sold out to Google and Twitter respectively. "Nearly a decade ago, Cselle worked at Twitter as a group product manager, focusing on the home timeline, user on-boarding, and logged-out experiences. He left Twitter in 2016 for Google, where he was director at the tech giant’s Area 120 incubator for spinoffs." He is the cofounder of Pebble, a competitor to X' /* notes */
+)
+,(
+	'https://www.cnbc.com/2024/11/05/openai-hires-metas-former-orion-head-to-lead-its-robotics-efforts.html', /* url */
+	'OpenAI hires Meta’s former Orion head to lead its robotics efforts', /* title */
+	'2024-11-05', /* publication_date */
+	'2024-11-05', /* modified_date */
+	'Hayden Field', /* author */
+	'CNBC', /* publisher */
+	'OpenAI,Meta', /* affected_organizations */
+	'Caitlin Kalinowski', /* affected_people */
+	'Succcessful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI hires Caitlin (CK) Kalinowski to lead the company''s Physiacal Intelligence, a robot startup based in San Francisco. Before OpenAI, Kalinowski had worked for Apple and as a hardware executive for Meta’s Orion.' /* notes */
 );
