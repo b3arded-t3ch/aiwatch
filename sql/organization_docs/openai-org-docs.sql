@@ -1027,4 +1027,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Succcessful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI hires Caitlin (CK) Kalinowski to lead the company''s Physiacal Intelligence, a robot startup based in San Francisco. Before OpenAI, Kalinowski had worked for Apple and as a hardware executive for Meta’s Orion.' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/11/08/openai-loses-another-lead-safety-researcher-lilian-weng/', /* url */
+	'OpenAI loses another lead safety researcher, Lilian Weng', /* title */
+	'2024-11-08', /* publication_date */
+	NULL, /* modified_date */
+	'Maxwell Zeff', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Lilian Weng', /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'After 7 years at OpenAI, Lilian Weng takes the plunge to exit the company. Weng, who had joined the company in 2018, gives no reason for her departure.' /* notes */
 );
