@@ -1014,17 +1014,4 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI hires a repeat founder and "seller", Gabor Cselle, to work on a yet undisclosed project. Cselle was the founder of reMail and Namo Media, the two of which were sold out to Google and Twitter respectively. "Nearly a decade ago, Cselle worked at Twitter as a group product manager, focusing on the home timeline, user on-boarding, and logged-out experiences. He left Twitter in 2016 for Google, where he was director at the tech giant’s Area 120 incubator for spinoffs." He is the cofounder of Pebble, a competitor to X' /* notes */
-)
-,(
-	'https://www.techradar.com/pro/watch-out-openai-is-being-spoofed-as-part-of-a-major-phishing-attack', /* url */
-	'Watch out - OpenAI is being spoofed as part of a major phishing attack', /* title */
-	'2024-11-03', /* publication_date */
-	NULL, /* modified_date */
-	'Ellen Jennings-Trace', /* author */
-	'Techradar', /* publisher */
-	'OpenAI', /* affected_organizations */
-	NULL, /* affected_people */
-	'Third-party commentary on organization', /* document_scope */
-	'AI|AI Safety', /* cause_area */
-	'With the rise in deep fake, the author reports that OpenAI has become the object of impersonation in the hands of threat actors who use an attack that impersonates OpenAI and sends an ‘urgent message’ to the victims recommending they update their payment information for their subscription.' /* notes */
 );
