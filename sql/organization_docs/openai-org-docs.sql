@@ -1040,4 +1040,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'After 7 years at OpenAI, Lilian Weng takes the plunge to exit the company. Weng, who had joined the company in 2018, gives no reason for her departure.' /* notes */
+)
+,(
+	'https://www.theinformation.com/articles/openais-female-staff-complain-of-gender-disparity-after-murati-exit', /* url */
+	'OpenAI''s Female Staff Complain of Gender Disparity After Murati Exit', /* title */
+	'2024-11-18', /* publication_date */
+	NULL, /* modified_date */
+	'Stephanie Palazzolo', /* author */
+	'The Information', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Mira Murati', /* affected_people */
+	'HR controversy', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The departure of Mira Murati has ignited concern amongst the female staff in the company about future stability and leadership. They complain of gender disparity in terms of work and resource allocatiion. The author relates that according to a circulated memo in the company, the female staff explain that the culture of work in OpenAI is about making things happen where everyone jumps in, holds a tool, suggests solutions, and works towards the common goal. However, when the women does so, they get more tasks with less resources. Thus, they call on managers to do more to promote women to leadership roles, set off by the exit of CTO Mira Murati.' /* notes */
 );
