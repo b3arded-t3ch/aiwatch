@@ -1066,4 +1066,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Organizational growth introspection', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In this interview with HBS senior associate dean for Business and Global Society, Debora Spar, OpenAI CEO Sam Altman explains why the company moved from a non-profit to a for-profit structure. He explains that the reason is simply that "we just needed vastly more capital that we thought we could attract". He explains that, in the beginning, they had underestimated how much they would need to scale the computers albeit they knew how important it is to scale them. As such, he continues that, with the exception of the government, no company can survive at the forefront of scaling AI research except as a for-profit enterprise.' /* notes */
+)
+,(
+	'https://www.searchenginejournal.com/openai-hires-former-chrome-engineer-eyes-browser-battle/533533/', /* url */
+	'OpenAI Hires Former Chrome Engineer, Eyes Browser Battle', /* title */
+	'2024-11-25', /* publication_date */
+	NULL, /* modified_date */
+	'Matt G. Southern', /* author */
+	'Search Engine Journal', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Darin Fisher', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In what seems like a plan to build a browser for OpenAI, OpenAI has hired the man who helped to create Chrome browser and Chrome OS, Darin Fisher. Darin Fisher was the VP of engineering for 16 years at Google.' /* notes */
 );
