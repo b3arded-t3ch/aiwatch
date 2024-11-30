@@ -1053,4 +1053,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'HR controversy', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The departure of Mira Murati has ignited concern amongst the female staff in the company about future stability and leadership. They complain of gender disparity in terms of work and resource allocatiion. The author relates that according to a circulated memo in the company, the female staff explain that the culture of work in OpenAI is about making things happen where everyone jumps in, holds a tool, suggests solutions, and works towards the common goal. However, when the women does so, they get more tasks with less resources. Thus, they call on managers to do more to promote women to leadership roles, set off by the exit of CTO Mira Murati.' /* notes */
+)
+,(
+	'https://www.youtube.com/watch?v=BZbjqiRvJPA&t=0s', /* url */
+	'OpenAI CEO Sam Altman on AI governance, ethics, and innovation | A conversation with BiGS', /* title */
+	'2024-11-20', /* publication_date */
+	NULL, /* modified_date */
+	'Harvard Business School', /* author */
+	'Youtube', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this interview with HBS senior associate dean for Business and Global Society, Debora Spar, OpenAI CEO Sam Altman explains why the company moved from a non-profit to a for-profit structure. He explains that the reason is simply that "we just needed vastly more capital that we thought we could attract". He explains that, in the beginning, they had underestimated how much they would need to scale the computers albeit they knew how important it is to scale them. As such, he continues that, with the exception of the government, no company can survive at the forefront of scaling AI research except as a for-profit enterprise.' /* notes */
 );
