@@ -1079,4 +1079,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In what seems like a plan to build a browser for OpenAI, OpenAI has hired the man who helped to create Chrome browser and Chrome OS, Darin Fisher. Darin Fisher was the VP of engineering for 16 years at Google.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/CD8gcugDu5z2Eeq7k/will-openai-s-work-unintentionally-increase-existential', /* url */
+	'Will OpenAI''s work unintentionally increase existential risks related to AI?', /* title */
+	'2020-08-11', /* publication_date */
+	NULL, /* modified_date */
+	'Adam Shimi', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Adam raises questions around the impact of OpenAI''s work on existential risks related to AI. According to him, there are arguments that say OpenAI''s work is unintentionally increasing existential of AI because "they are doing far more capability research than safety research, they are pushing the state of the art of capability research, and their results will motivate many people to go work on AI capabilities whether out of wonder or out of fear of unemployment." On the other hand, others argue against this fact saying "they have a top-notch safety team, they restrict the access to their models, by either not releasing them outright (GPT-2) or bottlenecking access through their API (GPT-3), and their results are showing the potential dangers of AI, and pushing many people to go work on AI safety.' /* notes */
 );
