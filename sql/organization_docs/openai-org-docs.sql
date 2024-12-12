@@ -1105,5 +1105,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Against the backdrop of Eliezer Yudkowsky''s post on twitter https://twitter.com/ESYudkowsky/status/1446562238848847877 who claims that OpenAI''s launch destroyed a previously cooperative environment in AI safety research and that Elon Musk''s involvement fragmented the community and created unnecessary competition, Rafael asks, as a way of evaluating OpenAI''s impact, whether to discuss OpenAI''s potential risks publicly. He also asks if the "spirit of cooperation" changed since OpenAI''s inception and what interventions might be possible to address concerns. However, people''s perspectives on OpenAI appear mixed.' /* notes */
-);
+)
+,(
+	'https://www.lesswrong.com/posts/q3zs7E7rktHsESXaF/openai-8-the-right-to-warn', /* url */
+	'OpenAI #8: The Right to Warn', /* title */
+	'2024-06-17', /* publication_date */
+	NULL, /* modified_date */
+	'Zvi', /* authhor */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Leopold Aschenbrenner', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The post reveals the reason for the dismissal of Leopold Aschenbrenner from OpenAI. The author writes that according to an interview on Dwarkesh Patel Podcast, Leopold reveals that he was fired for flagging security and safety concerns. Amongst other things, the author writes that Leopold was fired for warning the company about a major cybersecurity incident, refusing to sign the OpenAI letter demanding the board resign, and particularly for writing a memo about what he saw as OpenAI''s terrible cybersecurity. A reddit user commented https://www.reddit.com/r/OpenAI/comments/1d8gcdh/comment/l776xtm/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button that directly contacting the board on a negative issue like this is rather undiplomatic and most corporate structures similar to OpenAI''s would give anyone involved the pink slip.' /* notes */);
+
 
