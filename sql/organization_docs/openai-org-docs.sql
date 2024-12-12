@@ -1092,4 +1092,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Adam raises questions around the impact of OpenAI''s work on existential risks related to AI. According to him, there are arguments that say OpenAI''s work is unintentionally increasing existential of AI because "they are doing far more capability research than safety research, they are pushing the state of the art of capability research, and their results will motivate many people to go work on AI capabilities whether out of wonder or out of fear of unemployment." On the other hand, others argue against this fact saying "they have a top-notch safety team, they restrict the access to their models, by either not releasing them outright (GPT-2) or bottlenecking access through their API (GPT-3), and their results are showing the potential dangers of AI, and pushing many people to go work on AI safety.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/oEC92fNXPj6wxz8dd/how-to-think-about-and-deal-with-openai', /* url */
+	'How to think about and deal with OpenAI', /* title */
+	'2021-09-10', /* publication_date */
+	NULL, /* modified_date */
+	'Rafael Harth', /* authhor */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Elon Musk|Eliezer Yudkowsky', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Against the backdrop of Eliezer Yudkowsky''s post on twitter https://twitter.com/ESYudkowsky/status/1446562238848847877 who claims that OpenAI''s launch destroyed a previously cooperative environment in AI safety research and that Elon Musk''s involvement fragmented the community and created unnecessary competition, Rafael asks, as a way of evaluating OpenAI''s impact, whether to discuss OpenAI''s potential risks publicly. He also asks if the "spirit of cooperation" changed since OpenAI''s inception and what interventions might be possible to address concerns. However, people''s perspectives on OpenAI appear mixed.' /* notes */
 );
+
