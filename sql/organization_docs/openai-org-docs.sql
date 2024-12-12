@@ -1096,7 +1096,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 ,(
 	'https://www.lesswrong.com/posts/oEC92fNXPj6wxz8dd/how-to-think-about-and-deal-with-openai', /* url */
 	'How to think about and deal with OpenAI', /* title */
-	'2021-09-10', /* publication_date */
+	'2021-10-09', /* publication_date */
 	NULL, /* modified_date */
 	'Rafael Harth', /* authhor */
 	'LessWrong', /* publisher */
