@@ -1118,4 +1118,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The post reveals the reason for the dismissal of Leopold Aschenbrenner from OpenAI. The author writes that according to an interview on Dwarkesh Patel Podcast, Leopold reveals that he was fired for flagging security and safety concerns. Amongst other things, the author writes that Leopold was fired for warning the company about a major cybersecurity incident, refusing to sign the OpenAI letter demanding the board resign, and particularly for writing a memo about what he saw as OpenAI''s terrible cybersecurity. However, OpenAI reports, according  to The Information, that Leopold was fired along with another staff for allegedly leaking information https://www.theinformation.com/articles/openai-researchers-including-ally-of-sutskever-fired-for-alleged-leaking. Meanwhile, a reddit user commented https://www.reddit.com/r/OpenAI/comments/1d8gcdh/comment/l776xtm/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button that directly contacting the board on a negative issue like this is rather undiplomatic and most corporate structures similar to OpenAI''s would give anyone involved the pink slip.' /* notes */
+)
+,(
+	'https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEOkV9dKLZLeyZsur5x43aSSv6GAhFUefh037IqvTA6xW4qzVQ_PAT-EWNwopEiHa7zp1SnxEDzQa0-YThrsD3Aq-cTQUYTlBcGJ0qTKFLQHP-pwTfg_sIjy8mY1xNzjUxMfF7e2d1phCZhS6s1gEiDa_lCjwisIkXHqBq-CR5jK', /* url */
+	'Elon Musk files for injunction to halt OpenAI’s transition to a for-profit', /* title */
+	'2024-11-0', /* publication_date */
+	NULL, /* modified_date */
+	'Kyle Wiggers', /* authhor */
+	'TechCrunch', /* publisher */
+	'OpenAI|Microsoft|LinkedIn', /* affected_organizations */
+	'Elon Musk|Sam Altman|Greg Brockman|Reid Hoffman|Dee Templeton', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Elon Musk, who cofounded OpenAI with Sam Altman, has filed for an injunction to halt OpenAI''s transition to a for-profit organization. Elon Musk says, according to his attorneys, that not granting the injunction is costly for AI Safety and will cause "irreparable harm" to ensue. He complains that OpenAI preyed on his concerns for ai safety and existential risks, and that he was duped into investing in the company as a result. His attorneys explain that the injunction, if granted, will help protect the organization''s founding mission.'/* notes */
 );
