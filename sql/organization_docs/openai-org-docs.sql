@@ -1144,5 +1144,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The article explains that after graduation, Suchir joined OpenAI where he worked for four years. However, he decided to leave the company after he realised that ChatGPT was violating the law by "illegaly" using copyrighted data. He said "he no longer wanted to contribute to technologies that he believed would bring society more harm than benefit." He finally left OpenAI in August 2024 and started working on personal projects. According NDTV WORLD, "he died a day after he was named in a court filing as someone whose files OpenAI would search as part of a lawsuit brought by those who sued the AI giant."'/* notes */
+)
+,(
+	'https://africa.businessinsider.com/news/another-safety-researcher-quits-openai-citing-the-dissolution-of-agi-readiness-team/v360yv2', /* url */
+	'Another safety researcher quits OpenAI, citing the dissolution of "AGI Readiness" team', /* title */
+	'2024-12-01', /* publication_date */
+	NULL, /* modified_date */
+	'Lakshmi Varanasi', /* authhor */
+	'Business Insider Africa', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Rosie Campbell| Miles Brundage', /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In what seems like solidarity for the departure of Miles Brundage, Rosie Campbell departs OpenAI saying "her departure was prompted by the resignation in October of Miles Brundage, a senior policy advisor who headed the AGI Readiness team." According to Business Insider Africa, part of her reasons for leaving the company is a desire for freedom as she writes "I''ve always been strongly driven by the mission of ensuring safe and beneficial AGI and after Miles''s departure and the dissolution of the AGI Readiness team, I believe I can pursue this more effectively externally."'/* notes */
 );
-
