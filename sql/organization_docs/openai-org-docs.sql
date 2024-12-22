@@ -1131,4 +1131,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Elon Musk, who cofounded OpenAI with Sam Altman, has filed for an injunction to halt OpenAI''s transition to a for-profit organization. Elon Musk says, according to his attorneys, that not granting the injunction is costly for AI Safety and will cause "irreparable harm" to ensue. He complains that OpenAI preyed on his concerns for ai safety and existential risks, and that he was duped into investing in the company as a result. His attorneys explain that the injunction, if granted, will help protect the organization''s founding mission.'/* notes */
+)
+,(
+	'https://www.ndtv.com/world-news/what-openai-whistleblower-suchir-balaji-revealed-about-the-dark-side-of-ai-7254038', /* url */
+	'What OpenAI Whistleblower Suchir Balaji Revealed About The Dark Side Of AI Before Death', /* title */
+	'2024-11-0', /* publication_date */
+	NULL, /* modified_date */
+	'Sanstuti Nath', /* authhor */
+	'NDTV WORLD', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Suchir Balaji', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The article explains that after graduation, Suchir joined OpenAI where he worked for four years. However, he decided to leave the company after he realised that ChatGPT was violating the law by "illegaly" using copyrighted data. He said "he no longer wanted to contribute to technologies that he believed would bring society more harm than benefit." He finally left OpenAI in August 2024 and started working on personal projects. According NDTV WORLD, "he died a day after he was named in a court filing as someone whose files OpenAI would search as part of a lawsuit brought by those who sued the AI giant."'/* notes */
 );
+
