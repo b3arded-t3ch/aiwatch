@@ -1135,7 +1135,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 ,(
 	'https://www.ndtv.com/world-news/what-openai-whistleblower-suchir-balaji-revealed-about-the-dark-side-of-ai-7254038', /* url */
 	'What OpenAI Whistleblower Suchir Balaji Revealed About The Dark Side Of AI Before Death', /* title */
-	'2024-11-0', /* publication_date */
+	'2024-12-15', /* publication_date */
 	NULL, /* modified_date */
 	'Sanstuti Nath', /* authhor */
 	'NDTV WORLD', /* publisher */
