@@ -1153,7 +1153,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Lakshmi Varanasi', /* authhor */
 	'Business Insider Africa', /* publisher */
 	'OpenAI', /* affected_organizations */
-	'Rosie Campbell| Miles Brundage', /* affected_people */
+	'Rosie Campbell|Miles Brundage', /* affected_people */
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In what seems like solidarity for the departure of Miles Brundage, Rosie Campbell departs OpenAI saying "her departure was prompted by the resignation in October of Miles Brundage, a senior policy advisor who headed the AGI Readiness team." According to Business Insider Africa, part of her reasons for leaving the company is a desire for freedom as she writes "I''ve always been strongly driven by the mission of ensuring safe and beneficial AGI and after Miles''s departure and the dissolution of the AGI Readiness team, I believe I can pursue this more effectively externally."'/* notes */
