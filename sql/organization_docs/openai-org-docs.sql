@@ -1170,4 +1170,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI hires Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai to work on "multimodal AI, artificial intelligence models capable of performing tasks in different mediums ranging from images to audio." The trio previously worked at Google DeepMind and live in Zurich, a place where OpenAI now has new offices.' /* notes */
+)
+,(
+	'https://www.cnbc.com/2024/12/03/openai-hires-first-marketing-chief-from-coinbase.html', /* url */
+	'OpenAI hires first marketing chief from Coinbase', /* title */
+	'2024-12-03', /* publication_date */
+	NULL, /* modified_date */
+	'Hayden Field', /* authhor */
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Kate Rouch', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI hires Kate Rouch, a former employee at Meta and Coinbase as its first chief marketing officer to help the company navigate its marketing plans.' /* notes */
 );
