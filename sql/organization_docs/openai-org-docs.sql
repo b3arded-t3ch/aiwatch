@@ -805,7 +805,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sam Altman|Andrej Karpathy|Ilya Sutskever|Dario Amodei', /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'In reaction to the brain drain at OpenAI, the author questions if safety could be responsible for the latest round of executive departures.'/* notes */
+	'In reaction to the brain drain at OpenAI, the author questions if safety could be responsible for the latest round of executive departures.' /* notes */
 )
 ,(
 	'https://sherwood.news/tech/openai-stock-compensation-making-employees-rich/', /* url */
@@ -1156,5 +1156,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Rosie Campbell|Miles Brundage', /* affected_people */
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
-	'In what seems like solidarity for the departure of Miles Brundage, Rosie Campbell departs OpenAI saying "her departure was prompted by the resignation in October of Miles Brundage, a senior policy advisor who headed the AGI Readiness team." According to Business Insider Africa, part of her reasons for leaving the company is a desire for freedom as she writes "I''ve always been strongly driven by the mission of ensuring safe and beneficial AGI and after Miles''s departure and the dissolution of the AGI Readiness team, I believe I can pursue this more effectively externally."'/* notes */
+	'In what seems like solidarity for the departure of Miles Brundage, Rosie Campbell departs OpenAI saying "her departure was prompted by the resignation in October of Miles Brundage, a senior policy advisor who headed the AGI Readiness team." According to Business Insider Africa, part of her reasons for leaving the company is a desire for freedom as she writes "I''ve always been strongly driven by the mission of ensuring safe and beneficial AGI and after Miles''s departure and the dissolution of the AGI Readiness team, I believe I can pursue this more effectively externally."' /* notes */
+)
+,(
+	'https://www.wired.com/story/openai-hires-deepmind-zurich/', /* url */
+	'OpenAI Poaches 3 Top Engineers From DeepMind', /* title */
+	'2024-12-03', /* publication_date */
+	NULL, /* modified_date */
+	'Reece Rogers|Louise Matsakis', /* authhor */
+	'WIRED', /* publisher */
+	'OpenAI|Google DeepMind', /* affected_organizations */
+	'Lucas Beyer|Alexander Kolesnikov|Xiaohua Zhai', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI hires Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai to work on "multimodal AI, artificial intelligence models capable of performing tasks in different mediums ranging from images to audio." The trio previously worked at Google DeepMind and live in Zurich, a place where OpenAI now has new offices.' /* notes */
 );
