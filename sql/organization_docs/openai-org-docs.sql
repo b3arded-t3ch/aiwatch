@@ -1183,4 +1183,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI hires Kate Rouch, a former employee at Meta and Coinbase as its first chief marketing officer to help the company navigate its marketing plans.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/xe8jvzmD8z2G99Z2R/what-should-openai-do-that-it-hasn-t-already-done-to-stop', /* url */
+	'What should OpenAI do that it hasn''t already done, to stop their vacancies from being advertised on the 80k Job Board?', /* title */
+	'2024-10-21', /* publication_date */
+	NULL, /* modified_date */
+	'WitheringWeights', /* authhor */
+	'LessWrong', /* publisher */
+	'OpenAI|80k', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'WitheringWeights believes 80K should not in any way endorse OpenAI, particularly by putting it on 80k job board.'/* notes */
 );
