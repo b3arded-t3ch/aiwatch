@@ -1196,4 +1196,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'WitheringWeights believes 80K should not in any way endorse OpenAI, particularly by putting it on 80k job board.'/* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/8qCwuE8GjrYPSqbri/80-000-hours-should-remove-openai-from-the-job-board-and', /* url */
+	'80,000 hours should remove OpenAI from the Job Board (and similar EA orgs should do similarly)', /* title */
+	'2024-07-03', /* publication_date */
+	NULL, /* modified_date */
+	'Raemon', /* authhor */
+	'LessWrong', /* publisher */
+	'OpenAI|80k', /* affected_organizations */
+	NULL, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Raemon argues that in the light of recent realities at OpenAI, these are enough justification for 80k not to include OpenAI''s job posting in its job board. Some of his arguments are OpenAI''s disbanding of its safety team, lack of forthright by Sam with the board and complaint about OpenAI''s safety culture. In response, Ideopunk, who run the 80,000 Hours job board explains that 80k''s job board should not be taken as endorsing organisations. Rather, "the point of the board is to give job-seekers access to opportunities where they can contribute to solving our top problems or build career capital to do so". Amongst a host of other comments, a comment suggests that 80k, alongside any job post from OpenAI, should post a visible disclaimer as some readers might conceive 80k as implicitly endorsing OpenAI.'/* notes */
 );
