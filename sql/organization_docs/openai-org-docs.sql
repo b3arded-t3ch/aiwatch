@@ -1209,4 +1209,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Raemon argues that in the light of recent realities at OpenAI, these are enough justification for 80k not to include OpenAI''s job posting in its job board. Some of his arguments are OpenAI''s disbanding of its safety team, lack of forthright by Sam with the board and complaint about OpenAI''s safety culture. In response, Ideopunk, who run the 80,000 Hours job board explains that 80k''s job board should not be taken as endorsing organisations. Rather, "the point of the board is to give job-seekers access to opportunities where they can contribute to solving our top problems or build career capital to do so". Amongst a host of other comments, a comment suggests that 80k, alongside any job post from OpenAI, should post a visible disclaimer as some readers might conceive 80k as implicitly endorsing OpenAI.'/* notes */
+)
+,(
+	'https://timesofindia.indiatimes.com/world/us/did-sam-altmans-openai-murder-suchir-balaji-whistleblower-death-thats-stirring-conspiracy-theories/articleshow/116456179.cms', /* url */	
+	'Did Sam Altman''s OpenAI murder Suchir Balaji? Whistleblower death that''s stirring conspiracy theories', /* title */
+	'2024-12-19', /* publication_date */
+	NULL, /* modified_date */
+	'TOI World Desk', /* authhor */
+	'The Times of India', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Suchir Balaji', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the article, the death of Balaji was found to have been caused by suicide as confirmed by the San Francisco medical examiner''s office. The author debunks other myths surrounding the death of Balaji saying that there is no connection between the death of Balaji and anyone at OpenAI, and that the death was not a result of Balaji''s exposure of data misuse by OpenAI. However, a "guest" comment says "it is rumored there is a nexus between deep state and big tech. It is quite possible that deep state actors were behind the murder done so well that it looks like a suicide."', /* notes */
 );
