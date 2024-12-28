@@ -1222,4 +1222,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the article, the death of Balaji was found to have been caused by suicide as confirmed by the San Francisco medical examiner''s office. The author debunks other myths surrounding the death of Balaji saying that there is no connection between the death of Balaji and anyone at OpenAI, and that the death was not a result of Balaji''s exposure of data misuse by OpenAI. However, a "guest" comment says "it is rumored there is a nexus between deep state and big tech. It is quite possible that deep state actors were behind the murder done so well that it looks like a suicide."', /* notes */
+)
+,(
+	'https://www.thefp.com/p/sam-altman-openai-feud-with-elon?hide_intro_popup=true', /* url */
+	'Sam Altman on His Feud with Elon Musk—and the Battle for AI’s Future', /* title */
+	'2024-12-19', /* publication_date */
+	NULL, /* modified_date */
+	'Bari Weiss', /* authhor */
+	'The Free Press', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Elon Musk', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In the interview, Sam reveals what he believes is the conflict between Musk and OpenAI. He mentions that, fundamentally, the problem Elon has with OpenAI is simply because "OpenAI is doing very well, and Elon cares about doing really well." According to Sam, Elon would be happy about everything happening in OpenAI right now if he (Elon) were in power.', /* notes */
 );
