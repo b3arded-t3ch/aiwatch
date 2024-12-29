@@ -1248,3 +1248,4 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Remmelt suggests public actions in response to what he considers defection by OpenAI. He cites several reasons, including reckless AI scaling and forced downsizing. He contends that OpenAI''s activities are harmful and require a response.', /* notes */
+);
