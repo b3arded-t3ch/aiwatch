@@ -1235,4 +1235,16 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In the interview, Sam reveals what he believes is the conflict between Musk and OpenAI. He mentions that, fundamentally, the problem Elon has with OpenAI is simply because "OpenAI is doing very well, and Elon cares about doing really well." According to Sam, Elon would be happy about everything happening in OpenAI right now if he (Elon) were in power.', /* notes */
-);
+)
+,(
+	'https://www.lesswrong.com/posts/3wXXcRbRmexNEDkeM/openai-defected-but-we-can-take-honest-actions', /* url */
+	'OpenAI defected, but we can take honest actions', /* title */
+	'2024-10-21', /* publication_date */
+	NULL, /* modified_date */
+	'Remmelt', /* authhor */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Remmelt suggests public actions in response to what he considers defection by OpenAI. He cites several reasons, including reckless AI scaling and forced downsizing. He contends that OpenAI''s activities are harmful and require a response.', /* notes */
