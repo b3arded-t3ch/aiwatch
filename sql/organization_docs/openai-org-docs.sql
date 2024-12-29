@@ -1248,4 +1248,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Remmelt suggests public actions in response to what he considers defection by OpenAI. He cites several reasons, including reckless AI scaling and forced downsizing. He contends that OpenAI''s activities are harmful and require a response.', /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/Tk5ovpucaqweCu4tu/scott-aaronson-is-joining-openai-to-work-on-ai-safety', /* url */
+	'Scott Aaronson is joining OpenAI to work on AI safety', /* title */
+	'2022-06-22', /* publication_date */
+	NULL, /* modified_date */
+	'peterbarnett', /* authhor */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Scott Aaronson', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Scott Aaronson joins OpenAI. Scott reveals on his blog that he has decided to work for OpenAI for one year after having conversations with Jan Leike and others at OpenAI concerning his interest in working on AI Alignment.', /* notes */
 );
