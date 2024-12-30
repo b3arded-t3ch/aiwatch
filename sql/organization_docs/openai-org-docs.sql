@@ -1261,4 +1261,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Scott Aaronson joins OpenAI. Scott reveals on his blog that he has decided to work for OpenAI for one year after having conversations with Jan Leike and others at OpenAI concerning his interest in working on AI Alignment.', /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/nALdMXkxkLzysKtzC/linkpost-scott-alexander-reacts-to-openai-s-latest-post', /* url */
+	'Scott Alexander reacts to OpenAI''s latest post', /* title */
+	'2023-03-11', /* publication_date */
+	NULL, /* modified_date */
+	'Akash', /* authhor */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Scott Alexander', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The post highlights Scott''s analysis of OpenAI''s AGI Planning. According to the post, Scott offers a thoughtful critique of OpenAI "Planning for AGI and Beyond" post as he draws parallels between OpenAI''s promises and those of hypothetical oil companies addressing climate change. He explains through this analogy that companies might make future commitments appealing in spite of present problematic practices. At the heart of Alexander''s analysis lies a serious concern about timeline compression in AI development. According to him, OpenAI''s aggressive advancement of AI technology is the cause for the reduction in the window for crucial safety research, potentially shrinking it from twenty to eight years. This acceleration, he contends, places unprecedented pressure on alignment researchers who must now work within a drastically shortened timeframe. Furthermore, Scott takes issue with OpenAI''s deployment strateegy. While OpenAI advocates for gradual deployment to help society adapt to AI systems, Alexander points out a contradiction in their actions. According to him, the rapid succcession of releases - from ChatGpt to Bing''s chatbot - suggests a pace that hardly allows meaningful societal adaptation or thorough safety research. He also questions OpenAI''s value of "burning timeline" to establish market dominance, noting how competitors consistently catch uo to OpenAI''s innovations within months. He argues this pattern merely accelerates overall AI development without securing the promised safety benefits of market leadership. Drawing from historical context, Alexander critically examines OpenAI''s role since 2015 in catalyzing an AI arms race. He draws a concerning parallel to the FTX situation, suggesting that even well-intentioned organizations with apparently sound principles can spiral into problematic territory. Nevertheless, he acknowledges positive elements in OpenAI''s recent commitments and expresses hope for the organization''s potential transiton from "safety laggard to safety model." However, he advocates for a balanced approach: accepting these positive developments while maintaining healthy skepticism about their implementation.', /* notes */
 );
