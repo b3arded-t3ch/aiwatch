@@ -1297,7 +1297,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Youtube', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Sam Altman', /* affected_people */
-	'Third-party commentary on organization', /* document_scope */
+	'General discussion of organizational practices', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Sam Altman explains why it was necessary for OpenAI to move from non-profit to for-profit organization. He says they at OpenAI recognized from the beginning that the company would need far more capital than it did as a non-profit. He says they tried to raise the money they needed to do what they needed to do but there was no path forward as a non-profit, thus the idea of "capitalism". He maintains, however, that the non-profit is still fully in charge.', /* notes */
 );
