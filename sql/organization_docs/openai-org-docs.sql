@@ -1287,4 +1287,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The firing of Sam by OpenAI sparks a debate between Johnswentworth and Ruby where the two discusses whether the firing and subsequent events reduce existential risk from AGI. In a way, the discussion presents contrasting perspectives on the implications of this corporate upheaval. Johnswentworth argues that the events produced positive outcomes for AI safety. He contends that moving the most AGI-focused leadership to Microsoft''s bureaucratic environment would likely reduce their productivity and capability advancement. According to him, this effectively removes OpenAI from the capabilities race, potentially extending AGI timeliness and reducing competitive pressures in AI development. Ruby, on the other hand, says in a cautious manner that Altman''s competence might allow him to navigate Microsoft''s bureaucracy effectively, potentially gaining even more resources with fewer resources than at OpenAI. Ruby also raises concerns about the reputational damage to the AI safety community, suggesting that the board''s handing of the situation might have undermined their credibility and ability to influence futue AI development decisions. While Johnswentworth maintains that removing OpenAI from the capabilities race outweighs any PR damage, Ruby remains skeptical, suggesting that the events might have accelerated developments while diminishing safety advocates'' influence. Through their debate about the implications of Altman''s departure, the speakers indirectly characterize OpenAI as an organization whose influnce extends beyond its direct operations to shape braoder industry dynamics and the future of AI development.', /* notes */
+)
+,(
+	'https://www.youtube.com/watch?v=L_Guz73e6fw', /* url */
+	'Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast', /* title */
+	'2023-03-25', /* publication_date */
+	NULL, /* modified_date */
+	'Lex Fridman', /* authhor */
+	'Youtube', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Sam Altman explains why it was necessary for OpenAI to move from non-profit to for-profit organization. He says they at OpenAI recognized from the beginning that the company would need far more capital than it did as a non-profit. He says they tried to raise the money they needed to do what they needed to do but there was no path forward as a non-profit, thus the idea of "capitalism". He maintains, however, that the non-profit is still fully in charge.', /* notes */
 );
