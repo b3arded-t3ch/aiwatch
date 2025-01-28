@@ -1300,4 +1300,17 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'General discussion of organizational practices', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Sam Altman explains why it was necessary for OpenAI to move from non-profit to for-profit organization. He says they at OpenAI recognized from the beginning that the company would need far more capital than it did as a non-profit. He says they tried to raise the money they needed to do what they needed to do but there was no path forward as a non-profit, thus the idea of "capitalism". He maintains, however, that the non-profit is still fully in charge.', /* notes */
+)
+,(
+	'https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/', /* url */
+	'Why OpenAI’s structure must evolve to advance our mission', /* title */
+	'2024-12-27', /* publication_date */
+	Null, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this post, OpenAI explains that its shift to a for-profit Public Benefit Corporation (PBC) reflects a retrospective acknowledgment of the limitations of its original structure. According to the post, OpenAI initially sought to balance its mission of "ensuring AGI benefits all of humanity" with capped returns for investors under a non-profit-controlled for-profit model. However, as the complexity of developing Artificial General Intelligence (AGI) grew, so did the financial demands. The initial $10 billion estimate ballooned to "hundreds of billions," a scale far beyond what the original structure could support. The capped returns model, while mission-driven, failed to attract the vast amounts of private capital required to fund cutting-edge research, infrastructure, and talent in the competitive global AI landscape. The transition to a PBC is a strategic response to these challenges. By adopting a more conventional and scalable structure, OpenAI can now raise the massive capital necessary for AGI development while maintaining its mission through the non-profit’s stake in the PBC. This reorganization divides focus, with the PBC managing business operations and the non-profit concentrating on charitable work, ensuring alignment with OpenAI''s values. Ultimately, the shift to a for-profit model is not a departure from OpenAI''s purpose but a practical adaptation to ensure its mission is achievable at the unprecedented scale required to lead in AGI development.' /* notes */
 );
