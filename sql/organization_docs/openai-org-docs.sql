@@ -1313,4 +1313,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Organizational growth introspection', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In this post, OpenAI officially announces its transition to a for-profit, and in it it explains that its shift to a for-profit Public Benefit Corporation (PBC) reflects a retrospective acknowledgment of the limitations of its original structure. According to the post, OpenAI initially sought to balance its mission of "ensuring AGI benefits all of humanity" with capped returns for investors under a non-profit-controlled for-profit model. However, as the complexity of developing Artificial General Intelligence (AGI) grew, so did the financial demands. The initial $10 billion estimate ballooned to "hundreds of billions," a scale far beyond what the original structure could support. The capped returns model, while mission-driven, failed to attract the vast amounts of private capital required to fund cutting-edge research, infrastructure, and talent in the competitive global AI landscape. The transition to a PBC is a strategic response to these challenges. By adopting a more conventional and scalable structure, OpenAI can now raise the massive capital necessary for AGI development while maintaining its mission through the non-profit’s stake in the PBC. This reorganization divides focus, with the PBC managing business operations and the non-profit concentrating on charitable work, ensuring alignment with OpenAI''s values. Ultimately, the shift to a for-profit model is not a departure from OpenAI''s purpose but a practical adaptation to ensure its mission is achievable at the unprecedented scale required to lead in AGI development.' /* notes */
+)
+,(
+	'https://blog.samaltman.com/reflections', /* url */
+	'Reflections', /* title */
+	'2025-01-06', /* publication_date */
+	Null, /* modified_date */
+	'Sam Altman', /* author */
+	'blog.samaltman', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Organizational mistake postmortem', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Sam reflects on his unexpected dismissal from OpenAI. The confusion and lack of clear answers about the reasons behind his termination created what he terms a "fog of war" during the subsequent hours and days. In his assessment of the aftermath, Altman strikes a notably introspective tone, acknowledging the event as a significant governance failure while including himself among those responsible. He emphasizes the positive outcomes that emerged from the crisis, including personal growth in his leadership style, the importance of diverse board viewpoints, and OpenAI''s continued success with expanded user base and research achievements. His statement concludes with expressions of gratitude toward employees, partners, and personal supporters, while highlighting the organization''s subsequent focus and accomplishments, including growth from 100 million to over 300 million weekly active users and what he considers some of their best research work to date.' /* notes */
 );
+
