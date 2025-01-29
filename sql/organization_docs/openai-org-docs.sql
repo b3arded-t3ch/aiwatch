@@ -1338,7 +1338,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Sam Altman', /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'Meanwhile, in this post, Zvi analyzed Altman''s statement and reveals a careful reading between the lines of corporate diplomacy. While acknowledging that Altman''s response is as appropriate as could be expected from someone in his position, the author detects calculated messaging and deliberate omissions in the narrative. The observation that "he has a much better idea of what happened than he is letting on" suggests the author believes Altman is prioritizing diplomatic stability over complete transparency. Most notably, the author strongly contests Altman''s assertion that the crisis led to stronger governance at OpenAI, implying that fundamental organizational issues remain unresolved despite the public narrative of improvement.' /* notes */
+	'Meanwhile, in what he calls "Battle of the Board", Zvi analyzed Altman''s statement and reveals a careful reading between the lines of corporate diplomacy. While acknowledging that Altman''s response is as appropriate as could be expected from someone in his position, the author detects calculated messaging and deliberate omissions in the narrative. The observation that "he has a much better idea of what happened than he is letting on" suggests the author believes Altman is prioritizing diplomatic stability over complete transparency. Most notably, the author strongly contests Altman''s assertion that the crisis led to stronger governance at OpenAI, implying that fundamental organizational issues remain unresolved despite the public narrative of improvement.' /* notes */
 );
 
 
