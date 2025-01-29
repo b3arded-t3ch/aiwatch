@@ -1320,7 +1320,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'2025-01-06', /* publication_date */
 	Null, /* modified_date */
 	'Sam Altman', /* author */
-	'blog.samaltman', /* publisher */
+	'blog.samaltman.com', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Sam Altman', /* affected_people */
 	'Organizational mistake postmortem', /* document_scope */
@@ -1339,6 +1339,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Meanwhile, in what he calls "Battle of the Board", Zvi analyzed Altman''s statement and reveals a careful reading between the lines of corporate diplomacy. While acknowledging that Altman''s response is as appropriate as could be expected from someone in his position, the author detects calculated messaging and deliberate omissions in the narrative. The observation that "he has a much better idea of what happened than he is letting on" suggests the author believes Altman is prioritizing diplomatic stability over complete transparency. Most notably, the author strongly contests Altman''s assertion that the crisis led to stronger governance at OpenAI, implying that fundamental organizational issues remain unresolved despite the public narrative of improvement.' /* notes */
+)
+,(
+	'https://blog.samaltman.com/reflections', /* url */
+	'Reflections', /* title */
+	'2025-01-06', /* publication_date */
+	Null, /* modified_date */
+	'Sam Altman', /* author */
+	'blog.samaltman.com', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In continuation of his reflections, Sam Altman addresses the high profile departures from OpenAI by framing them as a natural consequence of rapid growth and scaling. He acknowledges that some of these departures have been difficult, but he also highlights the positive aspects such as the "steady stream of research miracles" and the conversion of skeptics into believers. Altman suggests that turnover is inevitable in fast-scaling start-ups, emphasizing that OpenAI''s growth has been exceptionally rapid. Additionally, he points out that being a leader in an important industry like AI attracts criticism and competitions, whch can lead to external attacks and internal changes. However, Zvi, posted on Lesswrong https://www.lesswrong.com/posts/XAKYawaW9xkb3YCbF/openai-10-reflections#comments as a comment to Altman''s statement that while he agrees that some of the departures were unavoidable and inevitable, he claims Altman is only trying to downplay the negative implications of the turnover while emphasizing OpenAI''s achievements and its position as an industry leader. He says "I agree that some of it was unavoidable and inevitable. I do not think this addresses people''s main concerns, especially that they have lost so many of their highest level people, especially over the last year, including almost all of their high-level safety researchers all the way up to the cofounder level' /* notes */
 );
 
 
