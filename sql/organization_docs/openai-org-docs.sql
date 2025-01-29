@@ -1326,5 +1326,19 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Organizational mistake postmortem', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Sam reflects on his unexpected dismissal from OpenAI. The confusion and lack of clear answers about the reasons behind his termination created what he terms a "fog of war" during the subsequent hours and days. In his assessment of the aftermath, Altman strikes a notably introspective tone, acknowledging the event as a significant governance failure while including himself among those responsible. He emphasizes the positive outcomes that emerged from the crisis, including personal growth in his leadership style, the importance of diverse board viewpoints, and OpenAI''s continued success with expanded user base and research achievements. His statement concludes with expressions of gratitude toward employees, partners, and personal supporters, while highlighting the organization''s subsequent focus and accomplishments, including growth from 100 million to over 300 million weekly active users and what he considers some of their best research work to date.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/XAKYawaW9xkb3YCbF/openai-10-reflections#comments', /* url */
+	'OpenAI #10: Reflections', /* title */
+	'2025-01-07', /* publication_date */
+	Null, /* modified_date */
+	'Zvi', /* author */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Meanwhile, in this post, Zvi analyzed Altman''s statement and reveals a careful reading between the lines of corporate diplomacy. While acknowledging that Altman''s response is as appropriate as could be expected from someone in his position, the author detects calculated messaging and deliberate omissions in the narrative. The observation that "he has a much better idea of what happened than he is letting on" suggests the author believes Altman is prioritizing diplomatic stability over complete transparency. Most notably, the author strongly contests Altman''s assertion that the crisis led to stronger governance at OpenAI, implying that fundamental organizational issues remain unresolved despite the public narrative of improvement.' /* notes */
 );
+
 
