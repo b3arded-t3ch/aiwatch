@@ -1365,6 +1365,18 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Hiring-related notice', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In an interview with Bloomberg, Sam Altman was asked how OpenAI managed to hire really smart AI researchers even though they couldn''t pay as much as other companies. In response, he said they just say to potential hires "come help us build artificial intelligence". At the time, this was considered a crazy impossible goal that most serious AI researchers wouldn''t touch. According to Altman, that is exactly what made it work. By saying something that sounded ridiculous to 99% of people, they attracted the exact kind of people they wanted: young, brilliant minds who weren''t afraid to think big. Instead of competing with Google or Facebook for established experts, they got enthusiastic young talents who were excited by the seemingly impossible challenge. Zvi, in his comment https://www.lesswrong.com/posts/XAKYawaW9xkb3YCbF/openai-10-reflections#comments critically challenges Altman''s simplified version of OpenAI''s early recruitment pitch. According to Zvi, when OpenAI was recruiting people, they didn''t just say "Hey, come build super-smart AI with us." Instead, they made a much bigger promise: "Come build super-smart AI safely, in a way that helps everyone, not just big companies." He states that they specifically presented themselves as the good guys compared to Google DeepMind, emphasizing that they were a non-profit organization that really cared about making AI safe and beneficial for humanity. Zvi points out that many people who joined OpenAI did so because of these ethical promises - they wanted to build AI that would help the world, not just build AI for its own sake. He criticizes Altman for conveniently leaving out all these ethical commitments when talking about OpenAI''s early days.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/XAKYawaW9xkb3YCbF/openai-10-reflections#comments', /* url */
+	'OpenAI #10: Reflections', /* title */
+	'2025-01-07', /* publication_date */
+	Null, /* modified_date */
+	'Zvi', /* author */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Zvi takes issues with the statements of Altman as they indicate the intention of OpenAI to build superintelligence AI in the near future while seemingly downplaying the existential risks and abandoning their original commitment to safety and ethical development. The author believes the initial commitment of AI safety of the company will erode particularly as the company moves toward becoming a conventional company despite Altman''s admission that "OpenAI cannot be a normal company." He thus says, by way of question, that no one should trust OpenAI with this responsibility especially given what they view as a retreat from their original safety-focused mission.' /* notes */
 );
-
 
