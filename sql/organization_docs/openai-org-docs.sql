@@ -1378,5 +1378,22 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Zvi takes issues with the statements of Altman as they indicate the intention of OpenAI to build superintelligence AI in the near future while seemingly downplaying the existential risks and abandoning their original commitment to safety and ethical development. The author believes the initial commitment of AI safety of the company will erode particularly as the company moves toward becoming a conventional company despite Altman''s admission that "OpenAI cannot be a normal company." He thus says, by way of question, that no one should trust OpenAI with this responsibility especially given what they view as a retreat from their original safety-focused mission.' /* notes */
+)
+,(
+	'https://x.com/firstpost/status/1892787787633438937', /* url */
+	'#FirstpostPOV: A young OpenAI researcher Suchir Balaji was found dead in his SF apartment—ruled a suicide, but his parents suspect foul play. In an exclusive interview, they reveal shocking details about his final months and his fight against OpenAI’s alleged misconduct.', /* title */
+	'2025-02-21', /* publication_date */
+	Null, /* modified_date */
+	'Firstpost', /* author */
+	'Firstpost', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Balaji Ramamurthy and Purnima Rao', /* affected_people */
+	'HR controversy', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In an interview with Firstpost, Suchir''s mother reveals the following:
+The police whom she met after the death of Suchir wanted her to go home without informing him he was dead. "Why?", she asked.
+From the autopsy by the private investigator, they realized that the gunshot entry could not have been triggered by itself because the entry point of the wound could not have been "self-inflicted".
+In all, without mincing words, Suchir''s parents conclude that some top executives of OpenAI have a role to play in Suchir''s death.
+In extension, she said there was collusion between OpenAI and the local authority in San Francisco.
+She mentions also that no one from the OpenAI team has reached them since Suchir''s death. According to her, they just only post statements openly that they support the family but she retorts, "where is the support?". She thus says the statements shows how manipulative the company is.' /* notes */
 );
-
