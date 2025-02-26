@@ -1396,4 +1396,17 @@ From the autopsy by the private investigator, they realized that the gunshot ent
 In all, without mincing words, Suchir''s parents conclude that some top executives of OpenAI have a role to play in Suchir''s death.
 In extension, she said there was collusion between OpenAI and the local authority in San Francisco.
 She mentions also that no one from the OpenAI team has reached them since Suchir''s death. According to her, they just only post statements openly that they support the family but she retorts, "where is the support?". She thus says the statements shows how manipulative the company is.' /* notes */
+)
+,(
+	'https://x.com/firstpost/status/1892787787633438937', /* url */
+	'One of the original employees at Elon Musk’s xAI has left and returned to OpenAI', /* title */
+	'2024-06-28', /* publication_date */
+	Null, /* modified_date */
+	'Jessica Mathews', /* author */
+	'yahoo!finance', /* publisher */
+	'OpenAI, xAI', /* affected_organizations */
+	'Kyle Kosic', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'Kosic, one of the founding engineers of xAI, is rehired by OpenAI. Kosic, who left OpenAI in 2023, returns to OpenAI after working for xAI for eleven (11) months. The reason for his departure from xAI was not mentioned however.' /* notes */
 );
