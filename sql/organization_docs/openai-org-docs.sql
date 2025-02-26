@@ -1409,4 +1409,18 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Successful hire', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'Kosic, one of the founding engineers of xAI, is rehired by OpenAI. Kosic, who left OpenAI in 2023, returns to OpenAI after working for xAI for eleven (11) months. The reason for his departure from xAI was not mentioned however.' /* notes */
+)
+,(
+	'https://www.reddit.com/r/cscareerquestions/comments/1eigw81/am_i_toast_recently_finished_a_contract_role_with/', /* url */
+	'Am I toast? Recently finished a contract role with OpenAI and my application success rate did not really improve.', /* title */
+	'2024-08-02', /* publication_date */
+	Null, /* modified_date */
+	'zettasyntax', /* author */
+	'Reddit', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Employee departure|Job application experience|Job experience', /* document_scope */
+	'AI Safety', /* cause_area */
+	'A Reddit user, zettasyntax, shares their struggles with job applications, interviews, and low success rates, reflecting on how their contract role at OpenAI impacted their job search. They describe their work at OpenAI as relatively accessible, noting that they were "not really a pure SWE/CS type." While they acknowledge that the total compensation (TC) was "not crazy" compared to others in the industry, they still found the pay to be substantial. Despite their hopes that the OpenAI experience would improve their job prospects, they express disappointment in the limited traction it provided in securing a full-time role.' /* notes */
 );
+
