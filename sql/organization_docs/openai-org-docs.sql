@@ -1437,7 +1437,7 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'According to this report, OpenAI accuses China’s DeepSeek of "distilling knowledge out of OpenAI models". Although OpenAI has not provided any evidence to support this claim, the company says it has "substantial evidence" that DeepSeek extracted data from its models to build DeepSeek. The Verge calls this an "irony" as OpenAI''s GPT model was built using data it (OpenAI) "sucked" from the web without consent.' /* notes */
 )
 ,(
-	'https://www.reddit.com/r/OpenAI/comments/1ieonxv/ama_with_openais_sam_altman_mark_chen_kevin_weil/?rdt=37906', /* url */
+	'https://www.reddit.com/r/OpenAI/comments/1ieonxv/comment/maa5aep/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button', /* url */
 	'What''s a problem that, if I tackled or made progress on, would make you want to hire me?', /* title */
 	'2025-01-31', /* publication_date */
 	Null, /* modified_date */
