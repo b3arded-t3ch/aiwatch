@@ -1435,5 +1435,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to this report, OpenAI accuses China’s DeepSeek of "distilling knowledge out of OpenAI models". Although OpenAI has not provided any evidence to support this claim, the company says it has "substantial evidence" that DeepSeek extracted data from its models to build DeepSeek. The Verge calls this an "irony" as OpenAI''s GPT model was built using data it (OpenAI) "sucked" from the web without consent.' /* notes */
+)
+,(
+	'https://www.reddit.com/r/OpenAI/comments/1ieonxv/ama_with_openais_sam_altman_mark_chen_kevin_weil/?rdt=37906', /* url */
+	'What''s a problem that, if I tackled or made progress on, would make you want to hire me?', /* title */
+	'2025-01-31', /* publication_date */
+	Null, /* modified_date */
+	'Ok-Cucumber-7217', /* author */
+	'Reddit', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Hiring-related notice', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'During a Reddit''s AMA (Ask Me Anything) session, a reddit user asks what he needs to do to get hired by OpenAI. In response, MichellePokrass, who is also a reddit user and OpenAI''s API research lead said working on "a new high quality evals are always impressive", and he mentions that he is hiring "for user and product focused researchers with a love of evals!"' /* notes */
 );
+
 
