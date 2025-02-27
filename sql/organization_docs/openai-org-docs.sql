@@ -1422,5 +1422,18 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Employee departure|Job application experience|Job experience', /* document_scope */
 	'AI Safety', /* cause_area */
 	'A Reddit user, zettasyntax, shares their struggles with job applications, interviews, and low success rates, reflecting on how their contract role at OpenAI impacted their job search. They describe their work at OpenAI as relatively accessible, noting that they were "not really a pure SWE/CS type." While they acknowledge that the total compensation (TC) was "not crazy" compared to others in the industry, they still found the pay to be substantial. Despite their hopes that the OpenAI experience would improve their job prospects, they express disappointment in the limited traction it provided in securing a full-time role.' /* notes */
+)
+,(
+	'https://www.theverge.com/news/601195/openai-evidence-deepseek-distillation-ai-data', /* url */
+	'OpenAI has evidence that its models helped train China’s DeepSeek', /* title */
+	'2025-01-29', /* publication_date */
+	Null, /* modified_date */
+	'Jess Weatherbed', /* author */
+	'The Verge', /* publisher */
+	'OpenAI|DeepSeek', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to this report, OpenAI accuses China’s DeepSeek of "distilling knowledge out of OpenAI models". Although OpenAI has not provided any evidence to support this claim, the company says it has "substantial evidence" that DeepSeek extracted data from its models to build DeepSeek. The Verge calls this an "irony" as OpenAI''s GPT model was built using data it (OpenAI) "sucked" from the web without consent.' /* notes */
 );
 
