@@ -1448,6 +1448,18 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Hiring-related notice', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'During a Reddit''s AMA (Ask Me Anything) session, a reddit user asks what he needs to do to get hired by OpenAI. In response, MichellePokrass, who is also a reddit user and OpenAI''s API research lead said working on "a new high quality evals are always impressive", and he mentions that he is hiring "for user and product focused researchers with a love of evals!"' /* notes */
+)
+,(
+	'https://x.com/BlancheMinerva/status/1887801044777807897', /* url */
+	'Stella Biderman on X', /* title */
+	'2025-02-07', /* publication_date */
+	Null, /* modified_date */
+	'Stella Biderman', /* author */
+	'X', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary about organization', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'An X user, Stella Biderman, alleges OpenAI of "lying" about their technology - specifically that they claimed their API models used Reinforcement Learning from Human Feedback (RLHF) when they were actually using Supervised Fine-Tuning (SFT). According to Stella, "a huge amount of time and energy was poured into RLHF in late 2021 and 2022 because OpenAI said it was the thing that made their models so good. Then in October 2022, OpenAI released a page called "Model Index for Researchers". It no longer exists". She also comments that OpenAI''s mission is to create AGI not to democratize AI because it only "actively fights to keep knowledge about AI systems, the ability to create AI systems, and the ability to control AI systems".' /* notes */
 );
-
 
