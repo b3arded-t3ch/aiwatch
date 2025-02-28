@@ -1458,7 +1458,7 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'X', /* publisher */
 	'OpenAI', /* affected_organizations */
 	Null, /* affected_people */
-	'Third-party commentary about organization', /* document_scope */
+	'Third-party commentary on organization', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'An X user, Stella Biderman, alleges OpenAI of "lying" about their technology - specifically that they claimed their API models used Reinforcement Learning from Human Feedback (RLHF) when they were actually using Supervised Fine-Tuning (SFT). According to Stella, "a huge amount of time and energy was poured into RLHF in late 2021 and 2022 because OpenAI said it was the thing that made their models so good. Then in October 2022, OpenAI released a page called "Model Index for Researchers". It no longer exists". She also comments that OpenAI''s mission is to create AGI not to democratize AI because it only "actively fights to keep knowledge about AI systems, the ability to create AI systems, and the ability to control AI systems".' /* notes */
 );
