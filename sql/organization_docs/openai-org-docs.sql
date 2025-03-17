@@ -1461,5 +1461,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'An X user, Stella Biderman, alleges OpenAI of "lying" about their technology - specifically that they claimed their API models used Reinforcement Learning from Human Feedback (RLHF) when they were actually using Supervised Fine-Tuning (SFT). According to Stella, "a huge amount of time and energy was poured into RLHF in late 2021 and 2022 because OpenAI said it was the thing that made their models so good. Then in October 2022, OpenAI released a page called "Model Index for Researchers". It no longer exists". She also comments that OpenAI''s mission is to create AGI not to democratize AI because it only "actively fights to keep knowledge about AI systems, the ability to create AI systems, and the ability to control AI systems".' /* notes */
+)
+,(
+	'https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/', /* url */
+	'Elon Musk-led group makes $97 billion bid for control of OpenAI', /* title */
+	'2025-02-11', /* publication_date */
+	Null, /* modified_date */
+	'Arsheeya Bajwa, Anna Tong and Krystal Hu', /* author */
+	'Reuters', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Elon Musk', /* affected_people */
+	'Third-party commentary about organization', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'The authors explains the lawsuit against OpenAI and Altman involves the changing of the original focus of the startup, which made him to fund it, from nonprofit to profit-making organization. According to them, they explain this as the reason for the move by Elon to take control of OpenAI by investing $97.4 billion. According to them, Elon said "It''s time for OpenAI to return to the open-source, safety-focused force for good it once was; We will make sure that happens."' /* notes */
 );
-
