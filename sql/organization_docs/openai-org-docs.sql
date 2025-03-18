@@ -1474,4 +1474,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary about organization', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'The authors explains the lawsuit against OpenAI and Altman involves the changing of the original focus of the startup, which made him to fund it, from nonprofit to profit-making organization. According to them, they explain this as the reason for the move by Elon to take control of OpenAI by investing $97.4 billion. According to them, Elon said "It''s time for OpenAI to return to the open-source, safety-focused force for good it once was; We will make sure that happens."' /* notes */
+)
+,(
+	'https://www.youtube.com/watch?v=vxgfMoXDBLc', /* url */
+	'Musk Bid for OpenAI: Sam Altman Says "He''s Probably Just Trying to Slow Us Down"', /* title */
+	'2025-02-11', /* publication_date */
+	Null, /* modified_date */
+	'Bloomberg Television', /* author */
+	'YouTube', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Elon Musk', /* affected_people */
+	'Organization operations', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'In a Bloomberg Television interview, OpenAI CEO Sam Altman responded to Elon Musk''s acquisition bid by firmly stating that "OpenAI is not for sale." When questioned whether Musk''s offer complicates potential shifts to a for-profit structure, Altman directly refuted such speculation, stating "we''re not moving to a for-profit model."' /* notes */
 );
