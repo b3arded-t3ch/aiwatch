@@ -1500,4 +1500,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to the author, OpenAI faces accusations from different India companies for copyright infringement. In response to this, OpenAI says its only uses publicly available data to train its model. Moreover, the company says India judges have no jurisdiction to hear a case against it on copyright infringement as its servers are located abroad.' /* notes */
+)
+,(
+	'https://www.thewrap.com/ben-stiller-400-celebrities-stars-open-letter-trump-openai-hollywood/', /* url */
+	'Ben Stiller, Aubrey Plaza Among More Than 400 Stars Who Urge Trump to Stop OpenAI’s Push to ‘Exploit’ Hollywood', /* title */
+	'2025-03-17', /* publication_date */
+	Null, /* modified_date */
+	'Sean Burch', /* author */
+	'Thewrap', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI, in a proposal it submitted last Thursday to the White House, said more laissez-faire copyright laws would promote "the freedom to learn" and help protect America''s national security. In response to this, Thewrap explains that over 400 celebrities and entertainment executives sent an open letter to the White House opposing the proposal. According to the author of the article, the letter argues this would undermine creative industries as America''s cultural influence depends on strong copyright protections. The letter also argues this issue affects not just entertainment but all "knowledge industries" including writing, science, engineering, etc.' /* notes */
 );
