@@ -1513,4 +1513,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI, in a proposal it submitted last Thursday to the White House, said more laissez-faire copyright laws would promote "the freedom to learn" and help protect America''s national security. In response to this, Thewrap explains that over 400 celebrities and entertainment executives sent an open letter to the White House opposing the proposal. According to the author of the article, the letter argues this would undermine creative industries as America''s cultural influence depends on strong copyright protections. The letter also argues this issue affects not just entertainment but all "knowledge industries" including writing, science, engineering, etc.' /* notes */
+)
+,(
+	'https://techcrunch.com/2025/03/17/openai-exec-leaves-to-found-materials-science-startup/', /* url */
+	'OpenAI exec leaves to found materials science startup', /* title */
+	'2025-03-17', /* publication_date */
+	Null, /* modified_date */
+	'Kyle Wiggers', /* author */
+	'TechCrunch', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Liam Fedus', /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to TechCrunch, Liam, OpenAI''s VP of research for post-training says he will be leaving OpenAI to found a materials science AI startup. The article also explains that OpenAI plans to invest in Fedus'' firm.' /* notes */
 );
