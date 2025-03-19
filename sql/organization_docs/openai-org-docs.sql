@@ -1471,7 +1471,7 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Reuters', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Sam Altman|Elon Musk', /* affected_people */
-	'Third-party commentary about organization', /* document_scope */
+	'Third-party commentary on organization', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'The authors explains the lawsuit against OpenAI and Altman involves the changing of the original focus of the startup, which made him to fund it, from nonprofit to profit-making organization. According to them, they explain this as the reason for the move by Elon to take control of OpenAI by investing $97.4 billion. According to them, Elon said "It''s time for OpenAI to return to the open-source, safety-focused force for good it once was; We will make sure that happens."' /* notes */
 )
@@ -1487,4 +1487,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Organization operations', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'In a Bloomberg Television interview, OpenAI CEO Sam Altman responded to Elon Musk''s acquisition bid by firmly stating that "OpenAI is not for sale." When questioned whether Musk''s offer complicates potential shifts to a for-profit structure, Altman directly refuted such speculation, stating "we''re not moving to a for-profit model."' /* notes */
+)
+,(
+	'https://www.youtube.com/watch?v=eH2ytlf-5ZM', /* url */
+	'Why is OpenAI Being Sued in India Amid AI Boom? | Firstpost Tech & Trade | N18G', /* title */
+	'2025-02-16', /* publication_date */
+	Null, /* modified_date */
+	'Firstpost', /* author */
+	'YouTube', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'According to the author, OpenAI faces accusations from different India companies for copyright infringement. In response to this, OpenAI says its only uses publicly available data to train its model. Moreover, the company says India judges have no jurisdiction to hear a case against it on copyright infringement as its servers are located abroad.' /* notes */
 );
