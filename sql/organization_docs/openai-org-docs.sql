@@ -1526,4 +1526,18 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'According to TechCrunch, Liam, OpenAI''s VP of research for post-training says he will be leaving OpenAI to found a materials science AI startup. The article also explains that OpenAI plans to invest in Fedus'' firm.' /* notes */
+)
+,(
+	'https://www.reddit.com/r/singularity/comments/1ibh1g2/another_openai_safety_researcher_has_quit/', /* url */
+	'Another OpenAI safety researcher has quit: "Honestly I am pretty terrified."', /* title */
+	'2025-01-27', /* publication_date */
+	Null, /* modified_date */
+	'MetaKnowing', /* author */
+	'Reddit', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Steven Adler', /* affected_people */
+	'Employee departure', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Another employee of OpenAI leaves the company saying he is “pretty terrified” about the pace of development in artificial intelligence. He warns that the industry is taking a "very risky gamble" on the technology. Steven Adler, former safety researcher at OpenAI says no lab has a solution to alignment today, and "the faster we race, the less likely that anyone finds one in time."' /* notes */
 );
+
