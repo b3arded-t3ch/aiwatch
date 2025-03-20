@@ -1539,5 +1539,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Employee departure', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Another employee of OpenAI leaves the company saying he is “pretty terrified” about the pace of development in artificial intelligence. He warns that the industry is taking a "very risky gamble" on the technology. Steven Adler, former safety researcher at OpenAI says no lab has a solution to alignment today, and "the faster we race, the less likely that anyone finds one in time."' /* notes */
+)
+,(
+	'https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/', /* url */
+	'OpenAI declares AI race “over” if training on copyrighted works isn’t fair use', /* title */
+	'2025-03-13', /* publication_date */
+	Null, /* modified_date */
+	'Ashley Belanger', /* author */
+	'arsTECHNICA', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Organization operations', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The article presents OpenAI''s position and statements about copyright and fair use. According to the author, OpenAI is pushing for the Trump administration to declare AI training on copyrighted materials as fair use in the upcoming AI Action Plan. OpenAI argues that unrestricted access to training data is necessary for national security and to compete with China in AI development.' /* notes */
 );
+
 
