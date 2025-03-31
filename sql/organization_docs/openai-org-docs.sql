@@ -1564,6 +1564,6 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	Null, /* affected_people */
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'In reaction to a post on X https://www.lesswrong.com/out?url=https%3A%2F%2Fx.com%2FBlancheMinerva%2Fstatus%2F1887801044777807897, the author expreses his dismay at OpenAI for "lying about its research".' /* notes */
+	'In reaction to a post on X - https://www.lesswrong.com/out?url=https%3A%2F%2Fx.com%2FBlancheMinerva%2Fstatus%2F1887801044777807897 -, the author expreseses his dismay at OpenAI for "lying about its research".' /* notes */
 );
 
