@@ -1552,6 +1552,18 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Organization operations', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The article presents OpenAI''s position and statements about copyright and fair use. According to the author, OpenAI is pushing for the Trump administration to declare AI training on copyrighted materials as fair use in the upcoming AI Action Plan. OpenAI argues that unrestricted access to training data is necessary for national security and to compete with China in AI development.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/emdeWndtjD8QxzgS5/openai-lied-about-sft-vs-rlhf', /* url */
+	'OpenAI lied about SFT vs. RLHF', /* title */
+	'2025-02-10', /* publication_date */
+	Null, /* modified_date */
+	'sanxiyn', /* author */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In reaction to a post on X https://www.lesswrong.com/out?url=https%3A%2F%2Fx.com%2FBlancheMinerva%2Fstatus%2F1887801044777807897, the author expreses his dismay at OpenAI for "lying about its research".' /* notes */
 );
-
 
