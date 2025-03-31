@@ -1565,5 +1565,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In reaction to a post on X - https://www.lesswrong.com/out?url=https%3A%2F%2Fx.com%2FBlancheMinerva%2Fstatus%2F1887801044777807897 -, the author expreseses his dismay at OpenAI for "lying about its research".' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/tdb76S4viiTHfFr2u/why-did-elon-musk-just-offer-to-buy-control-of-openai-for', /* url */
+	'Why Did Elon Musk Just Offer to Buy Control of OpenAI for $100 Billion?', /* title */
+	'2025-02-11', /* publication_date */
+	Null, /* modified_date */
+	'garrison', /* author */
+	'Lesswrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Elon Musk|Sam Altman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this article, while examining Elon Musk''s surprising $97.4 billion offer to buy control of OpenAI, analyzing it as a strategic move to disrupt the company''s planned transition from a nonprofit to a for-profit structure, the author presents OpenAI''s corporate governance as directly connected to existential questions about who will control potentially world-changing AI technology and whose interests it will ultimately serve. The article highlights that the transition would shift OpenAI''s fiduciary duty from "humanity" to balancing public benefit with shareholder interests, potentially compromising safeguards as the company races toward developing AGI. Several commenters suggest Altman understands that in a world with superintelligent AI, legal structures would be irrelevant, but is not sharing this perspective with investors who are financing OpenAI''s growth. Moreso, given recent warnings from AI safety experts about growing risks of "loss of control" scenarios, the article frames this corporate power struggle as having potentially profound implications for humanity''s future.' /* notes */
 );
-
