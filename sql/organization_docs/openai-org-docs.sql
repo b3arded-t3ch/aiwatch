@@ -1390,8 +1390,7 @@ insert into organization_documents(url, title, publication_date, modified_date, 
 	'Balaji Ramamurthy and Purnima Rao', /* affected_people */
 	'HR controversy', /* document_scope */
 	'AI Safety', /* cause_area */
-	'In an interview with Firstpost, Suchir''s mother reveals the following:
-The police whom she met after the death of Suchir wanted her to go home without informing him he was dead. "Why?", she asked.
+	'In an interview with Firstpost, Suchir''s mother reveals the following: The police whom she met after the death of Suchir wanted her to go home without informing him he was dead. "Why?", she asked.
 From the autopsy by the private investigator, they realized that the gunshot entry could not have been triggered by itself because the entry point of the wound could not have been "self-inflicted".
 In all, without mincing words, Suchir''s parents conclude that some top executives of OpenAI have a role to play in Suchir''s death.
 In extension, she said there was collusion between OpenAI and the local authority in San Francisco.
