@@ -1590,4 +1590,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Successful hire', /* document_scope */
 	'AI| AI Safety', /* cause_area */
 	'OpenAI recruits undergraduates from University of California, Berkeley. According to comments from other reddit users, it plans to go to four other schools - Harvard, Stanford, MIT and Waterloo.' /* notes */
+)
+,(
+	'https://thezvi.substack.com/p/on-the-openai-economic-blueprint?open=false#%C2%A7man-with-a-plan', /* url */
+	'On the OpenAI Economic Blueprint', /* title */
+	'2025-01-15', /* publication_date */
+	Null, /* modified_date */
+	'Zvi Mowshowitz', /* author */
+	'Substack', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In the article, Zvi Mowshowitz critically analyses OpenAI''s "Economic Blueprint" which it released in January 2025. He portrays OpenAI as a cynical corporate entity that is using manipulative rhetoric to advance its interests while avoiding meaningful oversight. He suggests that OpenAI is not addressing existential risks or safety concerns in its blueprint, and that its proposals are rather self-serving as it includes calls for government funding, digital infrastructure, and research support that would primarily benefit OpenAI and similar companies. The article concludes that "OpenAI wants no enforced constraints on their behavior, and they want our money" and that "OpenAI are telling us who they are."' /* notes */
 );
