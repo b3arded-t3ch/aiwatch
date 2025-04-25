@@ -1577,4 +1577,17 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In this article, while examining Elon Musk''s surprising $97.4 billion offer to buy control of OpenAI, analyzing it as a strategic move to disrupt the company''s planned transition from a nonprofit to a for-profit structure, the author presents OpenAI''s corporate governance as directly connected to existential questions about who will control potentially world-changing AI technology and whose interests it will ultimately serve. The article highlights that the transition would shift OpenAI''s fiduciary duty from "humanity" to balancing public benefit with shareholder interests, potentially compromising safeguards as the company races toward developing AGI. Several commenters suggest Altman understands that in a world with superintelligent AI, legal structures would be irrelevant, but is not sharing this perspective with investors who are financing OpenAI''s growth. Moreso, given recent warnings from AI safety experts about growing risks of "loss of control" scenarios, the article frames this corporate power struggle as having potentially profound implications for humanity''s future.' /* notes */
+)
+,(
+	'https://www.reddit.com/r/csMajors/comments/1fdxlo9/openais_first_oncampus_recruiting_event/', /* url */
+	'OpenAI’s first on-campus recruiting event', /* title */
+	'2024-09-11', /* publication_date */
+	Null, /* modified_date */
+	'rsha256', /* author */
+	'Reddit', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI| AI Safety', /* cause_area */
+	'OpenAI recruits undergraduates from University of California, Berkeley. According to comments from other reddit users, it plans to go to four other schools - Harvard, Stanford, MIT and Waterloo.' /* notes */
 );
