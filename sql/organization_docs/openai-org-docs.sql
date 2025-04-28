@@ -1603,4 +1603,18 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In the article, Zvi Mowshowitz critically analyses OpenAI''s "Economic Blueprint" which it released in January 2025. He portrays OpenAI as a cynical corporate entity that is using manipulative rhetoric to advance its interests while avoiding meaningful oversight. He suggests that OpenAI is not addressing existential risks or safety concerns in its blueprint, and that its proposals are rather self-serving as it includes calls for government funding, digital infrastructure, and research support that would primarily benefit OpenAI and similar companies. The article concludes that "OpenAI wants no enforced constraints on their behavior, and they want our money" and that "OpenAI are telling us who they are."' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/25EgRNWcY6PM3fWZh/openai-12-battle-of-the-board-redux#A_Full_Reference_and_Reading_List', /* url */
+	'OpenAI #12: Battle of the Board Redux', /* title */
+	'2025-03-31', /* publication_date */
+	Null, /* modified_date */
+	'Zvi Mowshowitz', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman', /* affected_people */
+	'Third-party commentary about organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The post discusses a Wall Street Journal article by Keach Hagey on the 2023 OpenAI board crisis when Sam Altman was briefly fired as CEO and then reinstated. Based on the article, Zvi believes that Sam Altman engaged in misconduct that justified his firing some of which, according to him, include not being candid with the board on several occasions, misleading and being toxic to employees, etc. The post also asserts that after being reinstated, Altman consolidated power at OpenAI and purged many alignment researchers and those concerned about AI safety, changed OpenAI''s public stance to downplay AGI risks, stopped mentioning important downside risks in public statements, used non-disclosure agreements to control the narrative, and now, is attempting to convert OpenAI to a for-profit company in a way Zvi characterizes as potentially "the greatest theft in human history". Moreso, according to the post, although Altman claims that "the board can fire me", OpenAI is now effectively controlled by him.' /* notes */
 );
+
