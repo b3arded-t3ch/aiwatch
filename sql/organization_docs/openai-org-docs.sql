@@ -1616,5 +1616,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary about organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The post discusses a Wall Street Journal article by Keach Hagey on the 2023 OpenAI board crisis when Sam Altman was briefly fired as CEO and then reinstated. Based on the article, Zvi believes that Sam Altman engaged in misconduct that justified his firing some of which, according to him, include not being candid with the board on several occasions, misleading and being toxic to employees, etc. The post also asserts that after being reinstated, Altman consolidated power at OpenAI and purged many alignment researchers and those concerned about AI safety, changed OpenAI''s public stance to downplay AGI risks, stopped mentioning important downside risks in public statements, used non-disclosure agreements to control the narrative, and now, is attempting to convert OpenAI to a for-profit company in a way Zvi characterizes as potentially "the greatest theft in human history". Moreso, according to the post, although Altman claims that "the board can fire me", OpenAI is now effectively controlled by him.' /* notes */
+)
+,(
+	'https://garrisonlovely.substack.com/p/breaking-top-openai-catastrophic', /* url */
+	'Breaking: Top OpenAI Catastrophic Risk Official Steps Down Abruptly', /* title */
+	'2025-04-16', /* publication_date */
+	Null, /* modified_date */
+	'Garrison Lovely', /* author */
+	'Substack', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Joaquin Quiñonero Candela', /* affected_people */
+	'HR controversy|Third-party commentary about organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The report indicates that Joaquin Quiñonero Candela, OpenAI''s head of Preparedness responsible for mitigating catastrophic AI risks, has abruptly stepped down from his position to become an intern working on healthcare applications within the company. According to the author, the leadership change marks the second major disruption to OpenAI''s Preparedness team, following Aleksander Madry''s reassignment in July.' /* notes */
 );
+
 
