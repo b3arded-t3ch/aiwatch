@@ -1629,6 +1629,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'HR controversy|Third-party commentary about organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The report indicates that Joaquin Quiñonero Candela, OpenAI''s head of Preparedness responsible for mitigating catastrophic AI risks, has abruptly stepped down from his position to become an intern working on healthcare applications within the company. According to the author, the leadership change marks the second major disruption to OpenAI''s Preparedness team, following Aleksander Madry''s reassignment in July.' /* notes */
+)
+,(
+	'https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood', /* url */
+	'Hundreds of celebrities warn against letting OpenAI and Google ‘freely exploit’ Hollywood', /* title */
+	'2025-03-18', /* publication_date */
+	'2025-03-19', /* modified_date */
+	'Emma Roth', /* author */
+	'TheVerge', /* publisher */
+	'OpenAI|Google', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary about organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this report, the author reports that American celebrities, about 400 of them, unanimously signed a letter to stop the government from allowing OpenAI and Google to train AI models on copyrighted contents. This came as a response to the duo''s comments on the AI Action plan of the government where they both requested access to copyrighted materials to train their AI models.' /* notes */
 );
 
 
