@@ -1648,7 +1648,7 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Leadership updates', /* title */
 	'2025-03-24', /* publication_date */
 	Null, /* modified_date */
-	'OpenAI', /* author */
+	'Sam Altman', /* author */
 	'OpenAI', /* publisher */
 	'OpenAI', /* affected_organizations */
 	'Mark Chen|Brad Lightcap|Julia Villagra', /* affected_people */
