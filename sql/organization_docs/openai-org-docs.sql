@@ -1678,7 +1678,7 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'X', /* publisher */
 	'OpenAI', /* affected_organizations */
 	Null, /* affected_people */
-	'Hiring-related', /* document_scope */
+	'Hiring-related notice', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Madry announces two open roles at OpenAI, deployed researcher and research engineer/scientist.' /* notes */
 )
