@@ -1681,7 +1681,22 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Hiring-related', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Madry announces two open roles at OpenAI, deployed researcher and research engineer/scientist.' /* notes */
+)
+,(
+	'https://www.cnbc.com/2025/04/11/ex-openai-staffers-back-musks-case-against-move-to-for-profit-entity.html', /* url */
+	'Ex-OpenAI staffers support Musk’s case against startup’s effort to transform into for-profit company', /* title */
+	'2025-04-11', /* publication_date */
+	'2025-04-12', /* modified_date */
+	'Hayden Field', /* author */
+	'CNBC', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Elon Musk|Lawrence Lessig', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this post, CNBC reports that a group of 12 ex-OpenAI staffers who worked at OpenAI during the organization''s formative year between 2018 and 2024 files a brief with a district court in California in support of Elon Musk''s lawsuit to stop the company''s transformation to a for-profit entity. The group, which was represented by Lawrence Lessig, says "if the OpenAI Nonprofit agreed to a change in the OpenAI corporate structure which took away its controlling role, that would fundamentally violate its mission."' /* notes */
 );
+
+
 
 
 
