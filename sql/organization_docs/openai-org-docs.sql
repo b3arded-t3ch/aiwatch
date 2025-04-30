@@ -1642,6 +1642,20 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary about organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In this report, the author reports that American celebrities, about 400 of them, unanimously signed a letter to stop the government from allowing OpenAI and Google to train AI models on copyrighted contents. This came as a response to the duo''s comments on the AI Action plan of the government where they both requested access to copyrighted materials to train their AI models.' /* notes */
+)
+,(
+	'https://openai.com/index/leadership-updates-march-2025/', /* url */
+	'Leadership updates', /* title */
+	'2025-03-24', /* publication_date */
+	Null, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Mark Chen|Brad Lightcap|Julia Villagra', /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI announces changes in its leadership structure. This restructuring involves three key executives (Mark Chen, Brad Lightcap, and Julia Villagra) taking on expanded responsibilities to shepherd the organization through its next phase of development. Mark Chen has been appointed Chief Research Officer, tasked with driving scientific advancement while ensuring seamless integration between research initiatives and product development. Brad Lightcap''s role as Chief Operating officer has been broadened to encompass oversight of business strategy, key partnerships, infrastructure development, and operational excellence. Julia Villagra has assumed the position of Chief People Officer, with responsibilities focusing on enabling global scaling of the organization.' /* notes */
 );
+
 
 
