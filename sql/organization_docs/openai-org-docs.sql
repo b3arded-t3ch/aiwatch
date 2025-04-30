@@ -1668,6 +1668,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Meanwhile, as part of the restructuring, TheVerge reports that Sam Altman will now focus more on the company''s technical directions with no intention or plans to occupy the position of the company''s CTO.' /* notes */
+)
+,(
+	'https://x.com/aleks_madry/status/1909686225658695897', /* url */
+	'If AGI is about AI transforming our economy—how close are we, really?', /* title */
+	'2025-04-08', /* publication_date */
+	Null, /* modified_date */
+	'Aleksander Madry', /* author */
+	'X', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Hiring-related', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Madry announces two open roles at OpenAI, deployed researcher and research engineer/scientist.' /* notes */
 );
 
 
