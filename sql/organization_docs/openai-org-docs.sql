@@ -1694,7 +1694,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In this post, CNBC reports that a group of 12 ex-OpenAI staffers who worked at OpenAI during the organization''s formative year between 2018 and 2024 files a brief with a district court in California in support of Elon Musk''s lawsuit to stop the company''s transformation to a for-profit entity. The group, which was represented by Lawrence Lessig, says "if the OpenAI Nonprofit agreed to a change in the OpenAI corporate structure which took away its controlling role, that would fundamentally violate its mission."' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/SfjuMyN33ujzhNgGy/ex-openai-employee-amici-leave-to-file-denied-in-musk-v', /* url */
+	'Ex-OpenAI employee amici leave to file denied in Musk v OpenAI case?', /* title */
+	'2025-05-02', /* publication_date */
+	Null, /* modified_date */
+	'TFD', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Elon Musk', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Several former employees of openAI filed an amicus brief arguing against OpenAI''s nonprofit-to-for-profit conversion. However, this was rejected by the court which says that it contained "factual assertions" rather than helping with legal understanding. The author expresses concern as the same court had initially accepted briefs from Encode Justice and Delaware Attorney General but rejected the ex-OpenAI employee brief, especially since both addressed similar core issues about the nonprofit-to-for-profit conversion. Nevertheless, he suggests this could be due to time submission differences and the AG''s official governmental role and expertise.' /* notes */
 );
+
 
 
 
