@@ -1707,6 +1707,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Several former employees of openAI filed an amicus brief arguing against OpenAI''s nonprofit-to-for-profit conversion. However, this was rejected by the court which says that it contained "factual assertions" rather than helping with legal understanding. The author expresses concern as the same court had initially accepted briefs from Encode Justice and Delaware Attorney General but rejected the ex-OpenAI employee brief, especially since both addressed similar core issues about the nonprofit-to-for-profit conversion. Nevertheless, he suggests this could be due to time submission differences and the AG''s official governmental role and expertise.' /* notes */
+)
+,(
+	'https://www.lesswrong.com/posts/MsojzMC4WwxX3hjPn/openai-preparedness-framework-2-0', /* url */
+	'OpenAI Preparedness Framework 2.0', /* title */
+	'2025-05-02', /* publication_date */
+	Null, /* modified_date */
+	'Zvi', /* author */
+	'LessWrong', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'The author expresses comments on OpenAI''s Preparedness Framework 2.0 saying the framework is a significant deviation from its main purpose of ensuring safety. He views the 2.0 framework as a significant step backward from 1.0 with OpenAI being "very explicit that they can and will release models that without mitigations would be high risk." The changes appear designed to accommodate business pressures rather than genuinely prepare for dangerous capabilities, with safeguards that are fundamentally inadequate for the threats they are meant to address.' /* notes */
 );
 
 
