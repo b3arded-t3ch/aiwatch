@@ -1720,7 +1720,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'The author expresses comments on OpenAI''s Preparedness Framework 2.0 saying the framework is a significant deviation from its main purpose of ensuring safety. He views the 2.0 framework as a significant step backward from 1.0 with OpenAI being "very explicit that they can and will release models that without mitigations would be high risk." The changes appear designed to accommodate business pressures rather than genuinely prepare for dangerous capabilities, with safeguards that are fundamentally inadequate for the threats they are meant to address.' /* notes */
+),
+(
+	'https://openai.com/index/nonprofit-commission-advisors/', /* url */
+	'OpenAI announces nonprofit commission advisors', /* title */
+	'2025-04-15', /* publication_date */
+	Null, /* modified_date */
+	'OpenAI', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Dolores Huerta|Monica Lozano|Dr. Robert K. Ross|Jack Oliver', /* affected_people */
+	'General discussion of organizational practices', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI announces on its website the formation of a nonprofit commission consisting of four advisors who will help guide the company''s philanthropic efforts. The advisors include Dolores Huerta(Labor leader and civil rights activist), Monica Lozana(education and media leader), Dr.Robert K. Ross (public health and philanthropy expert), and Jack Oliver (government and business leader), with Daniel Zingale serving as the commission''s convener. The commission''s mandate is to conduct a 90-day community engagement process to gather input on how OpenAI''s nonprofit arm can aaddress systemic global challenges in areas such as health, education, public service, and scientific discovery, while considering both the promise and risks of AI technology.' /* notes */
 );
+
 
 
 
