@@ -1733,8 +1733,20 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'General discussion of organizational practices', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI announces on its website the formation of a nonprofit commission consisting of four advisors who will help guide the company''s philanthropic efforts. The advisors include Dolores Huerta(Labor leader and civil rights activist), Monica Lozana(education and media leader), Dr.Robert K. Ross (public health and philanthropy expert), and Jack Oliver (government and business leader), with Daniel Zingale serving as the commission''s convener. The commission''s mandate is to conduct a 90-day community engagement process to gather input on how OpenAI''s nonprofit arm can aaddress systemic global challenges in areas such as health, education, public service, and scientific discovery, while considering both the promise and risks of AI technology.' /* notes */
+),
+(
+	'https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/', /* url */
+	'OpenAI hires team behind GV-backed AI eval platform Context.ai', /* title */
+	'2025-04-15', /* publication_date */
+	Null, /* modified_date */
+	'Ivan Mehta', /* author */
+	'Techcrunch', /* publisher */
+	'OpenAI|Context.ai', /* affected_organizations */
+	'Henry Scott-Green|Alex Gamble', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI|AI Safety', /* cause_area */
+	'Context.ai, a startup specializing in AI model evaluations and analytics, announced that its co-founders will join OpenAI through an acqui-hire. The company, founded in 2023 by former Google employees Henry Scott-Green and Alex Gamble, raised $3.5 million dollar in seed funding and developed tools to help developers understand and analyze AI model performance. Context.ai will wind down its products following the acquisition, though OpenAI declined to disclose deal terms or confirm whether all employees will receive job offers.' /* notes */
 );
-
 
 
 
