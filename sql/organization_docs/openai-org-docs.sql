@@ -1746,7 +1746,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Successful hire', /* document_scope */
 	'AI|AI Safety', /* cause_area */
 	'Context.ai, a startup specializing in AI model evaluations and analytics, announced that its co-founders will join OpenAI through an acqui-hire. The company, founded in 2023 by former Google employees Henry Scott-Green and Alex Gamble, raised $3.5 million dollar in seed funding and developed tools to help developers understand and analyze AI model performance. Context.ai will wind down its products following the acquisition, though OpenAI declined to disclose deal terms or confirm whether all employees will receive job offers.' /* notes */
+),
+(
+	'https://futurism.com/openai-staffers-court-nonprofit', /* url */
+	'Former OpenAI Staffers Implore Courts to Block What It''s Trying to Do', /* title */
+	'2025-04-26', /* publication_date */
+	Null, /* modified_date */
+	'Joe Wilkins', /* author */
+	'Futurism', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Altman|Nisan Stienon', /* affected_people */
+	'Third-party commmentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'A group of former OpenAI employees, law professors, activists, and Nobel Prize winners have sent a letter to California and Delaware attorneys general asking them to block OpenAI''s plan to restructure from a nonprofit into a for-profit company. The signatories argue that OpenAI''s current nonprofit structure legally obligates directors to follow the company''s charter of ensuring AGI benefits all humanity, whereas a for-profit structure would remove this fiduciary duty. Former employee Nisan Stiennon warned that "OpenAI may one day build technology that could get us all killed," referencing AGI development. The article notes that this restructuring would move OpenAI away from its original humanitarian mission and join the commercial AI "rat race" like other industry titans.' /* notes */
 );
+	
 
 
 
