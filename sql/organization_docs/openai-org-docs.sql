@@ -1759,7 +1759,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commmentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'A group of former OpenAI employees, law professors, activists, and Nobel Prize winners have sent a letter to California and Delaware attorneys general asking them to block OpenAI''s plan to restructure from a nonprofit into a for-profit company. The signatories argue that OpenAI''s current nonprofit structure legally obligates directors to follow the company''s charter of ensuring AGI benefits all humanity, whereas a for-profit structure would remove this fiduciary duty. Former employee Nisan Stiennon warned that "OpenAI may one day build technology that could get us all killed," referencing AGI development. The article notes that this restructuring would move OpenAI away from its original humanitarian mission and join the commercial AI "rat race" like other industry titans.' /* notes */
+),
+(
+	'https://www.pcmag.com/news/why-were-suing-openai', /* url */
+	'Why We''re Suing OpenAI', /* title */
+	'2025-04-25', /* publication_date */
+	Null, /* modified_date */
+	'Emily Forlini', /* author */
+	'PCMag', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commmentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Ziff Davis (parent company of PCMag, CNET, IGN, etc.) is suing OpenAI for copyright infringement, alleging that OpenAI has trained its AI models on Ziff Davis content without authorization or payment. The lawsuit claims OpenAI has "relentlessly reproduced exact copies and created derivatives" of articles from Ziff Davis publications. Despite Ziff Davis reaching out to OpenAI in May and August 2024 requesting meeting to discuss the issue, OpenAI allegedly rebuffed these attempts. The complaint argues that while ChatGPT benefits from these contents while providing tech recommendations, it doesn''t consistently link back to sources, causing the original publishers to lose traffic and revenue.' /* notes */
 );
+
 	
 
 
