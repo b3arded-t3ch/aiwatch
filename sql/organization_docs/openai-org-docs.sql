@@ -1772,7 +1772,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commmentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Ziff Davis (parent company of PCMag, CNET, IGN, etc.) is suing OpenAI for copyright infringement, alleging that OpenAI has trained its AI models on Ziff Davis content without authorization or payment. The lawsuit claims OpenAI has "relentlessly reproduced exact copies and created derivatives" of articles from Ziff Davis publications. Despite Ziff Davis reaching out to OpenAI in May and August 2024 requesting meeting to discuss the issue, OpenAI allegedly rebuffed these attempts. The complaint argues that while ChatGPT benefits from these contents while providing tech recommendations, it doesn''t consistently link back to sources, causing the original publishers to lose traffic and revenue.' /* notes */
+),
+(
+	'https://openai.com/index/leadership-expansion-with-fidji-simo/?utm_campaign=article_email&utm_content=article-14988&utm_medium=email&utm_source=sg', /* url */
+	'OpenAI Expands Leadership with Fidji Simo', /* title */
+	'2025-05-07', /* publication_date */
+	Null, /* modified_date */
+	'Sam Altman', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Fidji Simo', /* affected_people */
+	'Successful hire', /* document_scope */
+	'AI Safety', /* cause_area */
+	'Sam Altman announces that Fidji Simo is joining OpenAI as CEO of Applications reporting directly to him. Altman remains CEO of OpenAI overall and will continue overseeing Research, Compute and Applications while working closely with the board on the nonprofit''s impact. Simo who has been serving as an OpenAI board member for the past year will transition from her role at Instacart over the next few months. The Applications division wil encompass existing business and operational teams responsible for bringing OpenAI''s research to users worldwide. The article emphasizes that OpenAI has evolved into three major components of research lab, a global product company serving hundreds of millions of users, and an infrastructure company, while also operating a large nonprofit.' /* notes */
 );
+
 
 	
 
