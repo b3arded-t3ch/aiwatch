@@ -1785,6 +1785,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Successful hire', /* document_scope */
 	'AI Safety', /* cause_area */
 	'Sam Altman announces that Fidji Simo is joining OpenAI as CEO of Applications reporting directly to him. Altman remains CEO of OpenAI overall and will continue overseeing Research, Compute and Applications while working closely with the board on the nonprofit''s impact. Simo who has been serving as an OpenAI board member for the past year will transition from her role at Instacart over the next few months. The Applications division wil encompass existing business and operational teams responsible for bringing OpenAI''s research to users worldwide. The article emphasizes that OpenAI has evolved into three major components of research lab, a global product company serving hundreds of millions of users, and an infrastructure company, while also operating a large nonprofit.' /* notes */
+)
+,(
+	'https://x.com/geoffreyhinton/status/1916916200442912980', /* url */
+	'I like OpenAI’s mission of "ensure that artificial general intelligence benefits all of humanity"', /* title */
+	'2025-04-28', /* publication_date */
+	Null, /* modified_date */
+	'Geoffrey Hinton', /* author */
+	'X', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Third-party commetary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In a post on X app, Geoffrey Hilton publicly opposes OpenAI’s restructuring plans, signing a letter to attorneys general asking them to halt the changes. He argues that OpenAI’s original mission ad safety-focused structure should be preserved, calling AGI the most important and potentially dangerous technology of our time.' /* notes */
 );
 
 
