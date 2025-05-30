@@ -1797,7 +1797,7 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	Null, /* affected_people */
 	'Third-party commetary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
-	'In a post on X app, Geoffrey Hilton publicly opposes OpenAI’s restructuring plans, signing a letter to attorneys general asking them to halt the changes. He argues that OpenAI’s original mission ad safety-focused structure should be preserved, calling AGI the most important and potentially dangerous technology of our time.' /* notes */
+	'In a post on X app, Geoffrey Hilton publicly opposes OpenAI’s restructuring plans, signing a letter to attorneys general asking them to halt the changes. He argues that OpenAI’s original mission ad safety-focused structure should be preserved, calling AGI the most important and potentially dangerous technology of our time. Meanwhile, in an interview with CBS News, Geoffrey Hilton said, "I was quite proud of him for firing Sam Altman,  even though it was very naive because Open AI employees were about to get millions of dollars that would be jeopardized' /* notes */
 );
 
 
