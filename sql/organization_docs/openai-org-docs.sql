@@ -1811,6 +1811,19 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commetary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'This post reports on a US judge''s ruling allowing Elon Musk''s fraud lawsuit against OpenAI to proceed, while dismissing other charges. Musk alleges that OpenAI''s shift from non-profit to for-profit breaches their original agreement and constitutes fraud. The judge adequately found that Musk argued the existence of an implied contract and that defendants may have misrepresented their intentions to obtain his contributions. Twelve former OpenAI employees have joined the lawsuit, claiming the company abandoned its non-profit mission that originally attracted them.' /* notes */
+),
+(
+	'https://openai.com/index/evolving-our-structure/', /* url */
+	'Evolving OpenAI’s structure', /* title */
+	'2025-05-05', /* publication_date */
+	Null, /* modified_date */
+	'Sam Altman', /* author */
+	'OpenAI', /* publisher */
+	'OpenAI', /* affected_organizations */
+	Null, /* affected_people */
+	'Organizational growth introspection', /* document_scope */
+	'AI Safety', /* cause_area */
+	'This post represents OpenAI’''s official announcement regarding its structural evolution from its current nonprofit controlled for-profit LLC model to a Public Benefit Corporation structure while maintaining public oversight and control. The letter, delivered through both board communication and a detailed letter from CEO Sam Altman to employees, explains the rationale behind this transformation as driven by the need to access hundreds of billions or potentially trillions of dollars in resources to fulfil their mission of making artificial general intelligence benefit all humanity. According to Sam, this involves transitioning from a complex capped-profit model to a standard capital structure where the nonprofit will maintain control while becoming a major shareholder in the Public Benefit Corporation.' /* notes */
 );
 
 
