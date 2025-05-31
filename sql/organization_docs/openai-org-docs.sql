@@ -1837,7 +1837,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commentary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'OpenAI successfully defended against a defamation lawsuit filed by radio host Mark Walters in Georgia. Walters alleged that ChatGPT fabricated false allegations and a fictional lawsuit against him when responding to a reporter''s query about gun-related litigation. Judge Tracie Cason ruled that Walters failed to demonstrate defamation, noting that ChatGPT warns users about potential errors and that OpenAI''s efforts to reduce such errors negate any findings of "actual malice" - a key standard in defamation cases.' /* notes */
+)
+,(
+	'https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/', /* url */
+	'OpenAI Can Stop Pretending', /* title */
+	'2025-05-30', /* publication_date */
+	Null, /* modified_date */
+	'Matteo Wong', /* author */
+	'The Atlantic', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Sam Alltman', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'In this post, the author calls for OpenAI to drop the act of pretending to be mission-driven when it''s actually profit-driven. The author argues that despite OpenAI''s public commitment to building AI that "safely benefits humanity," the company''s actions reveal it''s primarily focused on commercial success and market dominance. For example, the author highlights Sam Altman''s contradictory statements - in 2023 telling Congress that "regulatory intervention by governments will be critical," but in 2025 calling regulation "disastrous" for the AI industry. While OpenAI claims safety is paramount, the author also points out that the company is aggressively expanding with new products, partnerships, and global initiatives, suggesting the priority is staying ahead of competitors like Google and Meta rather than careful, safety-first development.' /* notes */
 );
+
 
 
 
