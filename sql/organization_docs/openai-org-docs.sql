@@ -1798,8 +1798,8 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commetary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'In a post on X app, Geoffrey Hinton publicly opposes OpenAI’s restructuring plans, signing a letter to attorneys general asking them to halt the changes. He argues that OpenAI’s original mission ad safety-focused structure should be preserved, calling AGI the most important and potentially dangerous technology of our time. Meanwhile, in an interview with CBS News, Geoffrey Hilton said, "I was quite proud of him (Ilya Sutscever) for firing Sam Altman,  even though it was very naive because Open AI employees were about to get millions of dollars that would be jeopardized' /* notes */
-),
-(
+)
+,(
 	'https://www.livemint.com/technology/tech-news/us-judge-clears-path-for-elon-musk-s-fraud-case-against-openai-to-move-forward-all-we-know-so-far-11746163994158.html', /* url */
 	'US judge clears path for Elon Musk’s fraud case against OpenAI to move forward: All we know so far', /* title */
 	'2025-05-02', /* publication_date */
@@ -1811,8 +1811,8 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Third-party commetary on organization', /* document_scope */
 	'AI Safety', /* cause_area */
 	'This post reports on a US judge''s ruling allowing Elon Musk''s fraud lawsuit against OpenAI to proceed, while dismissing other charges. Musk alleges that OpenAI''s shift from non-profit to for-profit breaches their original agreement and constitutes fraud. The judge adequately found that Musk argued the existence of an implied contract and that defendants may have misrepresented their intentions to obtain his contributions. Twelve former OpenAI employees have joined the lawsuit, claiming the company abandoned its non-profit mission that originally attracted them.' /* notes */
-),
-(
+)
+,(
 	'https://openai.com/index/evolving-our-structure/', /* url */
 	'Evolving OpenAI’s structure', /* title */
 	'2025-05-05', /* publication_date */
@@ -1824,7 +1824,21 @@ She mentions also that no one from the OpenAI team has reached them since Suchir
 	'Organizational growth introspection', /* document_scope */
 	'AI Safety', /* cause_area */
 	'This post represents OpenAI''s official announcement regarding its structural evolution from its current nonprofit controlled for-profit LLC model to a Public Benefit Corporation structure while maintaining public oversight and control. The letter, delivered through both board communication and a detailed letter from CEO Sam Altman to employees, explains the rationale behind this transformation as driven by the need to access hundreds of billions or potentially trillions of dollars in resources to fulfil their mission of making artificial general intelligence benefit all humanity. According to Sam, this involves transitioning from a complex capped-profit model to a standard capital structure where the nonprofit will maintain control while becoming a major shareholder in the Public Benefit Corporation. In essence, OpenAI abandons planned for-profit conversion' /* notes */
+)
+,(
+	'https://www.reuters.com/legal/litigation/openai-defeats-radio-hosts-lawsuit-over-allegations-invented-by-chatgpt-2025-05-19/', /* url */
+	'OpenAI defeats radio host''s lawsuit over allegations invented by ChatGPT', /* title */
+	'2025-05-19', /* publication_date */
+	Null, /* modified_date */
+	'Mike Scarcella', /* author */
+	'Reuters', /* publisher */
+	'OpenAI', /* affected_organizations */
+	'Mark Walters', /* affected_people */
+	'Third-party commentary on organization', /* document_scope */
+	'AI Safety', /* cause_area */
+	'OpenAI successfully defended against a defamation lawsuit filed by radio host Mark Walters in Georgia. Walters alleged that ChatGPT fabricated false allegations and a fictional lawsuit against him when responding to a reporter''s query about gun-related litigation. Judge Tracie Cason ruled that Walters failed to demonstrate defamation, noting that ChatGPT warns users about potential errors and that OpenAI''s efforts to reduce such errors negate any findings of "actual malice" - a key standard in defamation cases.' /* notes */
 );
+
 
 
 
